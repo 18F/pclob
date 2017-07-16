@@ -1,12 +1,18 @@
 ---
 layout: project
 title: Update on Government's Implementation of the PCLOB Recommendations on Section 215 and Section 702
-description: Government Addresses All of PCLOB’s 22 Recommendations
+description: All of the PCLOB’s 22 recommendations have been implemented in full or in part, or the relevant government agency has taken significant steps toward adoption and implementation.
 permalink: /projects/update-on-215-702/
 tags: project
 image: /assets/img/project-images/microloans-for-farmers.jpg
 image-credit: https://www.flickr.com/photos/usdagov
-abstract: /assets/files/microloans-for-farmers.pdf
+documents:
+    - title: "Title 1"
+      url: "url.com"
+      format: pdf
+    - title: "Title 2"
+      url: "url.com"
+      format: pdf
 ---
 <strong>WASHINGTON, DC</strong>--The bipartisan Privacy and Civil Liberties Oversight Board (PCLOB) has released a report that provides an update on the progress the government has made toward implementing agency recommendations. The “Recommendations Assessment Report” outlines the status of 22 recommendations PCLOB made as part of two separate reports. Since PCLOB issued these reports and recommendations, important measures have been taken to enhance the protection of Americans’ privacy and civil liberties and to strengthen the transparency of the government’s surveillance efforts, without jeopardizing our counterterrorism efforts.
 

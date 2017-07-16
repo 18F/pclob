@@ -4,8 +4,11 @@ layout: sidenav-page
 
 {{ content }}
 
-{% if page.abstract %}
-<a class="usa-button" href="{{ page.abstract | prepend: site.baseurl }}">View Abstract</a>
+{% if page.documents %}
+  <h3>Related documents</h3>
+  {% for document in page.documents %}
+  <a href="{{ document.url | prepend: site.baseurl }}">{{ document.title }} ({{ document.format }})</a>
+  {% endfor %}
 {% endif %}
 
 <p><br></p>
