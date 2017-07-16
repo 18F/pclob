@@ -3,15 +3,13 @@ layout: home
 body-class: home
 permalink: /
 hero-image: /assets/img/feature-background.jpg
-hero-text: "We believe that government works best when it's built for people. "
-hero-button-text: Hey, me too!
+hero-text: "Committed to the protection of civil liberties and privacy in the nation's efforts against terrorism."
+hero-button-text: Learn more
 hero-button-link: /about/
-banner-heading: The mission of GSA is to deliver the best value in real estate, acquisition, and technology services to government and the American people.
-banner-text: GSA provides centralized procurement for the federal government, offering billions of dollars worth of products, services, and facilities that federal agencies need to serve the public.
+banner-heading:
+banner-text:
 banner-button-text: Learn more
 banner-button-link: /about/
 ---
-## What we do
-GSA helps keep the nation safe by providing tools, equipment, and non-tactical vehicles to the U.S. military, and providing state and local governments with law enforcement equipment, firefighting and rescue equipment, and disaster recovery products and services.
-
-GSA leads the way in green building design, construction, retrofit and sustainable operations and maintenance. GSA is building a 21st century government that procures and manages technology solutions in smart, secure, and affordable ways.
+## What is the Privacy and Civil Liberties Oversight Board?
+The Board is an independent, bipartisan agency within the executive branch established by the Implementing Recommendations of the 9/11 Commission Act, Pub. L. 110-53, signed into law in August 2007. Comprised of four part-time members and a full-time chairman, the Board is vested with two fundamental authorities; (1) To review and analyze actions the executive branch takes to protect the Nation from terrorism, ensuring the need for such actions is balanced with the need to protect privacy and civil liberties and (2) To ensure that liberty concerns are appropriately considered in the development and implementation of laws, regulations, and policies related to efforts to protect the Nation against terrorism.

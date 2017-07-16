@@ -1,9 +1,9 @@
 # Site settings
-title: Your Site Name
-description: A description of your website that will show up in search indexes and social media shares.
+title: The Privacy and Civil Liberties Oversight Board
+description: Committed to the protection of civil liberties and privacy in the nation's efforts against terrorism.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://example.gov" # the base hostname & protocol for your site
-logo: /assets/img/logo-main.gif
+url: "https://pclob.gov" # the base hostname & protocol for your site
+logo:
 feature_image: /assets/img/feature-background.jpg
 
 colors:
@@ -38,8 +38,8 @@ analytics:
   google:
     code: 'UA-48605964-32' # Change this to your GSA analytics code
   dap:
-    agency: GSA    # Change this to your agency
-    subagency: 18F # Change this to your agency
+    agency: PCLOB    # Change this to your agency
+    subagency: # Change this to your agency
 
 defaults:
  -
