@@ -1,7 +1,7 @@
 @media all and (min-width: 951px) {
   .usa-header-basic .usa-navbar {
     // this affects the size of the logo and also the mobile menu nav
-    width: 30%;
+    /*width: 50%;*/
   }
 }
 
@@ -18,4 +18,18 @@
 
 .usa-nav-link:hover span {
   border-bottom-color: $button-color;
+}
+
+.usa-logo-text a {
+  display: flex;
+  justify-content: space-between;
+  img {
+    flex-grow: 1;
+    max-height: 75px;
+    padding-right: 1rem;
+  }
+  h1 {
+    flex-grow: 3;
+    font-size: 2rem; //$h3-font-size
+  }
 }

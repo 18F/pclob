@@ -3,7 +3,7 @@ title: The Privacy and Civil Liberties Oversight Board
 description: Committed to the protection of civil liberties and privacy in the nation's efforts against terrorism.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://pclob.gov" # the base hostname & protocol for your site
-logo:
+logo: /assets/img/Great_Seal_of_the_United_States.svg
 feature_image: /assets/img/feature-background.jpg
 
 colors:

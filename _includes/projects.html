@@ -3,15 +3,15 @@
   {% unless project.featured %}
     <article class="card usa-width-one-third">
       <a class="card-link" href="{{ project.url | prepend: site.baseurl }}" aria-hidden="true" tabindex="-1"></a>
+      {% if project.image_thumbnail %}
       <div class="card-image"
-        style="background-image: url(
-        {% if project.image_thumbnail %}
-          {{ project.image_thumbnail | prepend: site.baseurl }}
-        {% else %}
-          {{ project.image | prepend: site.baseurl }}
-        {% endif %}
-        );">
+           style="background-image: url({{ project.image_thumbnail | prepend: site.baseurl }});">
       </div>
+      {% elsif project.image %}
+      <div class="card-image"
+           style="background-image: url({{ project.image | prepend: site.baseurl }});">
+      </div>
+      {% endif %}
       <div class="card-banner">
         <h3 class="card-description">
           <span>{{ project.title }}</span>
