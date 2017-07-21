@@ -11,6 +11,55 @@ assigned:
         permalink: /about/
         show_in_menu: true
         show_in_footer: false
+        children:
+          -
+            text: History and mission
+            href: pages/about.md
+            permalink: /about/
+            show_in_menu: false
+            show_in_footer: false
+          -
+            text: Board members
+            href: pages/about.md
+            permalink: /about/
+            show_in_menu: false
+            show_in_footer: false
+          -
+            text: Board staff
+            href: pages/about.md
+            permalink: /about/
+            show_in_menu: false
+            show_in_footer: false
+          -
+            text: Contact
+            href: pages/about.md
+            permalink: /about/
+            show_in_menu: false
+            show_in_footer: false
+          -
+            text: Career opportunities
+            href: pages/about.md
+            permalink: /about/
+            show_in_menu: false
+            show_in_footer: false
+          -
+            text: Budget and strategic plan
+            href: pages/about.md
+            permalink: /about/
+            show_in_menu: false
+            show_in_footer: false
+          -
+            text: Legal authorities
+            href: pages/about.md
+            permalink: /about/
+            show_in_menu: false
+            show_in_footer: false
+          -
+            text: Policies
+            href: pages/about.md
+            permalink: /about/
+            show_in_menu: false
+            show_in_footer: false
     -
         text: Reports
         href: pages/reports.md
@@ -19,17 +68,30 @@ assigned:
         show_in_footer: false
         children:
             -
-                text: Update on Section 215 and Section 702
+                text: Oversight reports
                 href: pages/projects/2016-02_update-on-recommendations-215-702.md
                 permalink: /projects/update-on-215-702/
                 show_in_menu: false
                 show_in_footer: false
             -
-                text: Report on Section 702 of the Foreign Intelligence Surveillance Act
+                text: Semiannual reports
                 href: pages/projects/2014-08_report-on-702.md
                 permalink: /projects/report-702/
                 show_in_menu: false
                 show_in_footer: false
+            -
+                text: Official correspondence
+                href: pages/projects/2014-08_report-on-702.md
+                permalink: /projects/report-702/
+                show_in_menu: false
+                show_in_footer: false
+            -
+                text: FOIA reports
+                href: pages/projects/2014-08_report-on-702.md
+                permalink: /projects/report-702/
+                show_in_menu: false
+                show_in_footer: false
+
     -
         text: Events and press
         href: pages/newsroom.md

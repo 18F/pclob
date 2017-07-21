@@ -1,31 +1,33 @@
-<footer class="usa-footer usa-footer-medium" role="contentinfo">
-  {% if site.footer.links %}
+<footer class="usa-footer usa-footer-big" role="contentinfo">
+  <div class="usa-grid usa-footer-return-to-top">
+    <a href="#">Return to top</a>
+  </div>
   <div class="usa-footer-primary-section">
     <div class="usa-grid-full">
-      <nav class="usa-footer-nav">
-        <ul class="usa-unstyled-list">
-        {% for link in site.footer.links %}
-          <li class="usa-width-one-sixth usa-footer-primary-content">
-            <a class="usa-footer-primary-link" href="{{ link.href }}">{{ link.text }}</a>
+      <nav class="usa-footer-nav usa-width-one-whole">
+      {% for link in site.footer.links %}
+        <ul class="usa-unstyled-list usa-width-one-fourth usa-footer-primary-content">
+          <li class="usa-footer-primary-link">
+            <h4>{{ link.text }}</h4>
           </li>
-        {% endfor %}
+          {% if link.children %}
+          {% for child in link.children %}
+          <li><a href="{{ child.href }}">{{ child.text }}</a></li>
+          {% endfor %}
+          {% endif %}
         </ul>
+        {% endfor %}
       </nav>
     </div>
   </div>
-  {% endif %}
-  <div class="usa-footer-secondary_section">
+
+  <div class="usa-footer-secondary_section usa-footer-big-secondary-section">
     <div class="usa-grid">
       <div class="usa-footer-logo usa-width-one-half">
-        {% if site.footer.image %}
-          <img class="usa-footer-logo-img" src="{{ site.footer.image | prepend: site.baseurl }}" alt="Logo image">
-        {% endif %}
-        {% if site.footer.text %}
-          <p>{{ site.footer.text }}</p>
-        {% endif %}
+        <img class="usa-footer-logo-img" src="{{ site.footer.image | prepend: site.baseurl }}" alt="Great Seal of the United States">
+        <h3 class="usa-footer-logo-heading">The Privacy and Civil Liberties <br/>Oversight Board</h3>
       </div>
-
-      <div class="usa-footer-contact-links usa-width-one-half">
+      <div class="usa-footer-contact-links usa-width-one-fourth">
           {% if site.footer.contact.twitter %}
           <a class="usa-link-twitter" href="https://twitter.com/{{ site.footer.contact.twitter }}"><span>Twitter</span></a>
           {% endif %}
@@ -46,8 +48,15 @@
             <p><a href="tel:{{ site.footer.contact.phonenumber }}">{{ site.footer.contact.phonenumber }}</a></p>
           {% endif %}
           <p><a href="mailto:{{ site.footer.contact.email }}">{{ site.footer.contact.email }}</a></p>
+          <p><a href="#">FOIA information</a></p>
         </address>
-
+      </div>
+      <div class="usa-footer-contact-links usa-width-one-fourth">
+        <ul class="usa-unstyled-list">
+        {% for link in site.footer.ancillary %}
+          <li><a href="{{ link.href }}">{{ link.text }}</a></li>
+        {% endfor %}
+        </ul>
       </div>
     </div>
   </div>
