@@ -2,7 +2,7 @@
 layout: home
 body-class: home
 permalink: /
-hero-image: /assets/img/feature-background.jpg
+hero-image: /assets/img/aerial_capitol2.jpg
 hero-text: "Committed to the protection of civil liberties and privacy in the nation's efforts against terrorism."
 hero-button-text: Learn more
 hero-button-link: /about/

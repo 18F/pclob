@@ -1,8 +1,9 @@
+/* from old template */
 .hero-unit {
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: 50% 50%;
-  min-height: 32em;
+  background-position: 50% 20%;
+  min-height: 32rem;
   position: relative;
 }
 .hero-content {
@@ -28,4 +29,14 @@
 .hero-content .usa-button {
   font-size: 22px;
   line-height: 30px;
+}
+/* from wds */
+@media screen and (min-width: 481px) {
+  .usa-hero-callout {
+    max-width: 35rem;
+    h2 {
+      font-size: 2.5rem;
+      line-height: 1.5;
+    }
+  }
 }
