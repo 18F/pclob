@@ -8,3 +8,12 @@
 .caption {
   float: right;
 }
+
+p {
+  max-width: none !important;
+}
+
+h1.page-title {
+  margin-top: 1rem!important;
+  margin-bottom: 4rem!important;
+}

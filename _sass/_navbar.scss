@@ -31,5 +31,18 @@
   h1 {
     flex-grow: 3;
     font-size: 2rem; //$h3-font-size
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+}
+
+.usa-nav-submenu a:visited {
+  color: $reverse-text-color;
+}
+
+@media screen and (min-width: 951px) {
+  .usa-header-extended .usa-logo {
+    margin-top: 1.2rem;
+    margin-bottom: 1.2rem;
   }
 }
