@@ -19,13 +19,13 @@ assigned:
         show_in_footer: false
         children:
             -
-                text: Update on Government's Implementation of the PCLOB Recommendations on Section 215 and Section 702
+                text: Update on Section 215 and Section 702
                 href: pages/projects/2016-02_update-on-recommendations-215-702.md
                 permalink: /projects/update-on-215-702/
                 show_in_menu: false
                 show_in_footer: false
             -
-                text: Report on the Surveillance Program Operated Pursuant to Section 702 of the Foreign Intelligence Surveillance Act
+                text: Report on Section 702 of the Foreign Intelligence Surveillance Act
                 href: pages/projects/2014-08_report-on-702.md
                 permalink: /projects/report-702/
                 show_in_menu: false

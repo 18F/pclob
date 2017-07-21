@@ -4,7 +4,7 @@ description: Committed to the protection of civil liberties and privacy in the n
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://pclob.gov" # the base hostname & protocol for your site
 logo: /assets/img/Great_Seal_of_the_United_States.svg
-feature_image: /assets/img/feature-background.jpg
+feature_image: /assets/img/aerial_capitol3.jpg
 
 colors:
   background: '#ffffff'
@@ -74,16 +74,13 @@ footer:
         href: '#'
       - text: 'About'
         href: '#'
-  image: /assets/img/gsa-logo-dark.jpg
+  image: /assets/img/Great_Seal_of_the_United_States.svg
   contact:
-    name: GSA
-    phonenumber: 1-800-CALL-GOV
-    email: gsa@gsa.gov
+    name: The Privacy and Civil Liberties Oversight Board
+    phonenumber: (202) 331-1986
+    email: info@pclob.gov
     twitter:
-      - 18f
-    facebook: 18f
-    youtube: 18f
-    rss: 18f
+      - PCLOB_GOV
   text: This site was built using <a href="https://federalist.18f.gov/" target="_blank">Federalist, from 18F</a>. # Change to a tag line for your agency
 
 # Build settings
