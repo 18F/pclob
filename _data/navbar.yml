@@ -20,8 +20,8 @@ assigned:
             show_in_footer: false
           -
             text: Board members
-            href: pages/about.md
-            permalink: /about/
+            href: pages/board-members.md
+            permalink: /board-members/
             show_in_menu: false
             show_in_footer: false
           -
