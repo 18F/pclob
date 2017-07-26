@@ -1,6 +1,6 @@
 <section class="usa-graphic_list">
-{% for person in site.team %}
-  {% if person.is_current_member == true %}
+{% for person in site.board %}
+  {% if person.is-current-member == true %}
   {% assign half = forloop.index | modulo: 2 %}
   {% if half == 1 %}
   <div class="usa-width-one-half usa-end-row usa-media_block">
@@ -21,7 +21,7 @@
 {% endfor %}
 
 <h2>Former board members</h2>
-{% for person in site.team %}
+{% for person in site.board %}
   {% if person.is-current-member == false %}
   {% assign half = forloop.index | modulo: 2 %}
   {% if half == 1 %}
