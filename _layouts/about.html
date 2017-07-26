@@ -1,0 +1,28 @@
+---
+layout: base
+---
+
+<section class="usa-section usa-grid">
+    <h1> {{ page.title }}</h1>
+    {% if page.image %}
+    <div class="page--banner" style="background-image: url({{ page.image | prepend: site.baseurl }});"></div>
+    {% endif %}
+    {{ content }}
+    </div>
+  </div>
+  {% for section in page.additional-info %}
+    <h3>{{ section.heading }}</h3>
+    {% if section.summary %}
+      <p>{{ section.summary }}
+    {% endif %}
+    {% if section.links %}
+      {% for link in section.links %}
+        <h4><a href="{{ link.link }}">{{ link.linktext }}</a></h4>
+        {% if link.amendment %}
+        <p><a href="{{ link.amendment-link }}">{{ link.amendment }}</a></p>
+        {% endif %}
+        <p>{{ link.text }}</p>
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+</section>
