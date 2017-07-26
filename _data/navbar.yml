@@ -26,8 +26,8 @@ assigned:
             show_in_footer: false
           -
             text: Board staff
-            href: pages/about.md
-            permalink: /about/
+            href: pages/board-staff.md
+            permalink: /board-staff/
             show_in_menu: false
             show_in_footer: false
           -
