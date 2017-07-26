@@ -31,33 +31,15 @@ assigned:
             show_in_menu: false
             show_in_footer: false
           -
-            text: Contact
-            href: pages/about.md
-            permalink: /about/
+            text: Contact the board
+            href: pages/contact.md
+            permalink: /contact/
             show_in_menu: false
             show_in_footer: false
           -
             text: Career opportunities
-            href: pages/about.md
-            permalink: /about/
-            show_in_menu: false
-            show_in_footer: false
-          -
-            text: Budget and strategic plan
-            href: pages/about.md
-            permalink: /about/
-            show_in_menu: false
-            show_in_footer: false
-          -
-            text: Legal authorities
-            href: pages/about.md
-            permalink: /about/
-            show_in_menu: false
-            show_in_footer: false
-          -
-            text: Policies
-            href: pages/about.md
-            permalink: /about/
+            href: pages/opportunities.md
+            permalink: /career-opportunities/
             show_in_menu: false
             show_in_footer: false
     -
