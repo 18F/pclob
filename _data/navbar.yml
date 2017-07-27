@@ -7,8 +7,6 @@ assigned:
         show_in_footer: false
     -
         text: About
-        href: pages/about.md
-        permalink: /about/
         show_in_menu: true
         show_in_footer: false
         children:
@@ -44,36 +42,39 @@ assigned:
             show_in_footer: false
     -
         text: Reports
-        href: pages/reports.md
-        permalink: /reports/
         show_in_menu: true
         show_in_footer: false
         children:
             -
                 text: Oversight reports
-                href: pages/projects/2016-02_update-on-recommendations-215-702.md
-                permalink: /projects/update-on-215-702/
+                href: pages/oversight-reports.md
+                permalink: /oversight-reports/
                 show_in_menu: false
                 show_in_footer: false
             -
                 text: Semiannual reports
-                href: pages/projects/2014-08_report-on-702.md
-                permalink: /projects/report-702/
+                href: pages/semiannual-reports.md
+                permalink: /semiannual-reports/
                 show_in_menu: false
                 show_in_footer: false
             -
                 text: Official correspondence
-                href: pages/projects/2014-08_report-on-702.md
-                permalink: /projects/report-702/
+                href: pages/official-correspondence.md
+                permalink: /official-correspondence/
                 show_in_menu: false
                 show_in_footer: false
             -
                 text: FOIA reports
-                href: pages/projects/2014-08_report-on-702.md
-                permalink: /projects/report-702/
+                href: pages/foia-reports.md
+                permalink: /foia-reports/
                 show_in_menu: false
                 show_in_footer: false
-
+            -
+                text: Federal Register notices
+                href: pages/federal-register-notices.md
+                permalink: /federal-register-notices/
+                show_in_menu: false
+                show_in_footer: false
     -
         text: Events and press
         href: pages/newsroom.md

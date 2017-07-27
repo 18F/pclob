@@ -1,0 +1,45 @@
+- slug: oversight-report-section-215
+  title: Report on the Telephone Records Program Conducted under Section 215 of the USA PATRIOT Act and on the Operations of the Foreign Intelligence Surveillance Court
+  date: January 23, 2014
+  summary: The Board's report on the bulk telephone records program conducted under Section 215 of the USA PATRIOT Act on the operations of the FISA court. The report contains descriptive, legal, and policy analyses of both the telephone records program and the FISA court, and it offers twelve recommendations to increase privacy and civil liberties protections.
+  attachments:
+      - url: /assets/files/215-Report_on_the_Telephone_Records_Program.pdf
+        title: Download the report
+  related:
+      - slug: oversight-report-215-brand-statement
+        content-collection: statements
+      - slug: oversight-report-215-collins-statement
+        content-collection: statements
+      - slug: oversight-report-215-press-release
+        content-collection: press-releases
+- slug: oversight-report-section-702
+  title: Report on the Surveillance Program Operated Pursuant to Section 702 of the Foreign Intelligence Surveillance Act
+  date: July 2, 2014
+  summary: The Board's report on the surveillance program directed at international telephone and internet communications conducted under Section 702 of the Foreign Intelligence Surveillance Act. The report provides descriptive, legal, and policy analysis of the program and offers ten recommendations to further ensure the protection of privacy and civil liberties.
+  attachments:
+      - url: oversight-report-702.pdf
+        title: Download the report
+  related:
+      - slug: oversight-report-702-press-release
+- slug: oversight-report-assessment-2015
+  title: Privacy and Civil Liberties Oversight Board Releases Recommendation Assessment Report
+  date: January 29, 2015
+  summary: To mark the one-year anniversary of its report on the Section 215 telephone records program and the six-month anniversary of its report on the Section 702 surveillance program, the Privacy and Civil Liberties Oversight Board has released an assessment of the implementation of its recommendations. In its two reports, the Board made a total of 22 recommendations directed at the Executive Branch, Congress, and the Foreign Intelligence Surveillance Court. In its assessment, the Board discusses the status of each recommendation’s implementation.
+  attachments:
+      - url: oversight-report-assessment-2015.pdf
+        title: Download the report
+      - url: oversight-report-assessment-2015-fact-sheet.pdf
+        title: Download the fact sheet
+  related:
+      - slug: oversight-report-assessment-2015-press-release
+- slug: oversight-report-implementation-update-2016
+  title: PCLOB Releases Update on Government's Implementation of the PCLOB Recommendations on Section 215 and Section 702
+  date: February 5, 2016
+  summary: The bipartisan Privacy and Civil Liberties Oversight Board (PCLOB) has released a report that provides an update on the progress the government has made toward implementing agency recommendations. The "Recommendations Assessment Report" outlines the status of 22 recommendations PCLOB made as part of two separate reports.
+  attachments:
+      - url: oversight-report-implementation-update-2016.pdf
+        title: Download the report
+      - url: oversight-report-implementation-update-2016-fact-sheet.pdf
+        title: Download the fact sheet
+  related:
+      - slug: oversight-report-implementation-update-2016-press-release

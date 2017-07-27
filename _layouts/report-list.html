@@ -1,0 +1,25 @@
+---
+layout: base
+---
+
+<section class="usa-section usa-grid">
+  <h1> {{ page.title }}</h1>
+  {{ content }}
+</section>
+{% for report in site.data.oversight_reports %}
+<section class="usa-section usa-grid pclob-report">
+  <h3>{{ report.title }}</h3>
+  {% for item in report.related %}
+    {% assign item_data = site.data[item.content-collection] | where: "slug", item.slug %}
+  <a href="{{ item_data[0].permalink }}">{{ item_data[0].title }}</a>
+  {% endfor %}
+  {% if report.thumbnail %}
+  <a href="{{ report.permalink }}"><img src="{{ report.thumbnail.link }}" /></a>
+  {% endif %}
+  <p>{{ report.summary }}</p>
+  <a class="usa-button" href="{{ report.permalink | prepend: site.baseurl}}">Read the report</a>
+  {% for attachment in report.attachments %}
+    <a href="{{ attachment.url }}">{{ attachment.title }}</a>
+  {% endfor %}
+</section>
+{% endfor %}
