@@ -14,7 +14,7 @@ layout: base
   <a href="{{ item_data[0].permalink }}">{{ item_data[0].title }}</a>
   {% endfor %}
   {% if report.thumbnail %}
-  <a href="{{ report.permalink }}"><img src="{{ report.thumbnail.link }}" /></a>
+  <a href="{{ report.permalink }}"><img src="{{ report.thumbnail | prepend: site.baseurl }}" /></a>
   {% endif %}
   <p>{{ report.summary }}</p>
   <a class="usa-button" href="{{ report.permalink | prepend: site.baseurl}}">Read the report</a>

@@ -17,3 +17,14 @@ h1.page-title {
   margin-top: 1rem!important;
   margin-bottom: 4rem!important;
 }
+
+a[href$=".pdf"]:after {
+  content: "";
+  width: 30px;
+  height: 25px;
+  display: inline-block;
+  background-image: url('/assets/img/icon-pdf.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin-bottom: 10px;
+}
