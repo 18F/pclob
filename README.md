@@ -8,6 +8,23 @@ This template uses the CSS and JavaScript from [U.S. Web Design System](https://
 
 In your `_config.yml`, update the `wds-version` value to the new version number. This should match the version number in the name of the folder you just downloaded. In the case of our example, it would look like this: `wds-version: 1.1.0`. You'll need to restart your Jekyll server to see the new code take effect.
 
+## Running the site with Docker
+
+If you don't want to have to deal with making sure that you have the
+proper versions of dependencies installed, you can use Docker instead. It
+takes care of all the dependencies for you, and provides an environment
+similar to the one which Federalist builds your site on.
+
+1. Install [Docker Community Edition][].
+1. Clone the repository.
+1. Run `docker-compose up`.
+1. Visit the local site at [http://localhost:4000](http://localhost:4000)
+
+If you ever decide that you no longer want to use Docker, run
+`docker-compose down -v` to properly clean everything up.
+
+[Docker Community Edition]: https://www.docker.com/community-edition
+
 ## 18F Open Source Policy
 
 This repository contains the official [Open Source Policy](policy.md) of [18F](https://18f.gsa.gov/) (a digital delivery team within the [General Services Administration](http://gsa.gov)).
