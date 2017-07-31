@@ -6,6 +6,7 @@ GEM
     colorator (1.1.0)
     ffi (1.9.18)
     forwardable-extended (2.6.0)
+    htmlentities (4.3.4)
     jekyll (3.5.0)
       addressable (~> 2.4)
       colorator (~> 1.0)
@@ -21,6 +22,12 @@ GEM
       sass (~> 3.4)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
+    jekyll_pages_api (0.1.6)
+      htmlentities (~> 4.3)
+      jekyll (>= 2.0, < 4.0)
+    jekyll_pages_api_search (0.4.4)
+      jekyll_pages_api (~> 0.1.4)
+      sass (~> 3.4)
     kramdown (1.14.0)
     liquid (4.0.0)
     listen (3.0.8)
@@ -42,7 +49,9 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (= 3.5.0)
+  jekyll_pages_api
+  jekyll_pages_api_search
   sass (= 3.4.0)
 
 BUNDLED WITH
-   1.14.6
+   1.15.1
