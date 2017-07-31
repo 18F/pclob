@@ -3,7 +3,7 @@ layout: home
 body-class: home
 permalink: /
 hero-image: /assets/img/aerial_capitol2.jpg
-hero-text: "Committed to the protection of civil liberties and privacy in the nation's efforts against terrorism."
+hero-text: "Working to ensure that efforts by the executive branch to protect the nation from terrorism are balanced with the need to protect privacy and civil liberties."
 hero-button-text: Learn more
 hero-button-link: /about/
 banner-heading:
