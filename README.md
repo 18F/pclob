@@ -1,12 +1,10 @@
-# Modern Team Template for Federalist
+# Privacy and Civil Liberties Oversight Board website
 
-This is a Jekyll site. It is a simple site to showcase the work of an organization with a few different page types.
+This is a Jekyll project for the new Privacy and Civil Liberties Oversight
+Board (PCLOB) website.
 
-This particular site is made for use with the [Federalist](https://github.com/18f/federalist) in mind.
-
-This template uses the CSS and JavaScript from [U.S. Web Design System](https://standards.18f.gov). To update the version of the system, [download the code](https://standards.usa.gov/getting-started/download/) from the website. Unzip the download and drop the entire folder (which should be named something like `uswds-1.1.0`) into `assets/vendor`.
-
-In your `_config.yml`, update the `wds-version` value to the new version number. This should match the version number in the name of the folder you just downloaded. In the case of our example, it would look like this: `wds-version: 1.1.0`. You'll need to restart your Jekyll server to see the new code take effect.
+This site is made for use with the
+[Federalist](https://github.com/18f/federalist) in mind.
 
 ## Running the site with Docker
 
@@ -24,6 +22,14 @@ If you ever decide that you no longer want to use Docker, run
 `docker-compose down -v` to properly clean everything up.
 
 [Docker Community Edition]: https://www.docker.com/community-edition
+
+## Upgrading USWDS
+
+This project uses the CSS and JavaScript from [U.S. Web Design System](https://standards.18f.gov).
+
+To update the version of the system, [download the code](https://standards.usa.gov/getting-started/download/) from the website. Unzip the download and drop the entire folder (which should be named something like `uswds-1.3.0`) into `assets/vendor`.
+
+In your `_config.yml`, update the `wds-version` value to the new version number. This should match the version number in the name of the folder you just downloaded. In the case of our example, it would look like this: `wds-version: 1.3.0`. You'll need to restart your Jekyll server to see the new code take effect.
 
 ## 18F Open Source Policy
 
