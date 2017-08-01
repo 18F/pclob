@@ -16,8 +16,8 @@ module Data_Model
           end
         end
         if not to_item
-          raise "In #{from}.yml, #{from_key} of #{from_slug} is " \
-                "#{to_slug}, which does not match a slug in #{to}.yml"
+          raise "In #{from}.yml, #{from_slug}'s #{from_key} is " \
+                "#{to_slug}, which doesn't correspond to a slug in #{to}.yml"
         end
         from_item[from_key] = to_item
         if not to_item[to_key]
