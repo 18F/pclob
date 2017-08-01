@@ -3,43 +3,34 @@ module Data_Model
     safe true
     priority :highest
 
-    def get_related_item(site, collection_name, slug)
-      collection = site.data[collection_name]
-      if not collection
-        raise "Unknown content-collection '#{collection_name}' for '#{slug}'"
-      end
-      related_item = nil
-      for candidate in collection
-        if candidate['slug'] == slug
-          related_item = candidate
-          break
+    def relate_one_to_many(site, from, from_key, to, to_key)
+      for from_item in site.data[from]
+        from_slug = from_item['slug']
+        to_slug = from_item[from_key]
+        continue unless to_slug
+        to_item = nil
+        for candidate in site.data[to]
+          if candidate['slug'] == to_slug
+            to_item = candidate
+            break
+          end
         end
+        if not to_item
+          raise "In #{from}.yml, #{from_key} of #{from_slug} is " \
+                "#{to_slug}, which does not match a slug in #{to}.yml"
+        end
+        from_item[from_key] = to_item
+        if not to_item[to_key]
+          to_item[to_key] = []
+        end
+        to_item[to_key] << from_item
       end
-      if not related_item
-        raise "Unable to find item in #{collection_name}.yml " \
-              "with slug '#{slug}'"
-      end
-      related_item
     end
 
     def generate(site)
-      source = 'oversight-reports'
-      for report in site.data[source]
-        for item in report['related']
-          collection_name = item['content-collection']
-          slug = item['slug']
-          if collection_name
-            begin
-              item['item'] = get_related_item(site, collection_name, slug)
-            rescue RuntimeError => e
-              raise "#{e} (encountered when processing #{source}.yml)"
-            end
-          else
-            Jekyll.logger.warn "Build Warning:", "In #{source}.yml, " \
-                               "'#{slug}' has no related content collection!"
-          end
-        end
-      end
+      relate_one_to_many(site,
+                         'statements', 'related-oversight-report',
+                         'oversight-reports', 'related-statements')
     end
   end
 end

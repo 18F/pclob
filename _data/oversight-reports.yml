@@ -6,11 +6,6 @@
   attachments:
       - url: /assets/files/215-Report_on_the_Telephone_Records_Program.pdf
         title: Download the report
-  related:
-      - slug: oversight-report-215-brand-statement
-        content-collection: statements
-      - slug: oversight-report-215-collins-statement
-        content-collection: statements
 - slug: oversight-report-section-702
   title: Report on the Surveillance Program Operated Pursuant to Section 702 of the Foreign Intelligence Surveillance Act
   date: July 2, 2014
