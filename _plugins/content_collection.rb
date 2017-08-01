@@ -16,8 +16,8 @@ module Data_Model
         end
       end
       if not related_item
-        raise ("Unable to find item in #{collection_name}.yml " +
-               "with slug '#{slug}'")
+        raise "Unable to find item in #{collection_name}.yml " \
+              "with slug '#{slug}'"
       end
       related_item
     end
@@ -27,13 +27,16 @@ module Data_Model
       for report in site.data[source]
         for item in report['related']
           collection_name = item['content-collection']
+          slug = item['slug']
           if collection_name
             begin
-              item['item'] = get_related_item(site, collection_name,
-                                              item['slug'])
+              item['item'] = get_related_item(site, collection_name, slug)
             rescue RuntimeError => e
               raise "#{e} (encountered when processing #{source}.yml)"
             end
+          else
+            Jekyll.logger.warn "Build Warning:", "In #{source}.yml, " \
+                               "'#{slug}' has no related content collection!"
           end
         end
       end
