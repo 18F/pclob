@@ -1,4 +1,4 @@
-module Data_Model
+module Related_Items
   class Generator < Jekyll::Generator
     safe true
     priority :highest
