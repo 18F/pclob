@@ -9,9 +9,8 @@ layout: base
 {% for report in site.data.oversight-reports %}
 <section class="usa-section usa-grid pclob-report">
   <h3>{{ report.title }}</h3>
-  {% for item in report.related %}
-    {% assign item_data = site.data[item.content-collection] | where: "slug", item.slug %}
-  <a href="{{ item_data[0].permalink }}">{{ item_data[0].title }}</a>
+  {% for statement in report.related-statements %}
+  <a href="{{ statement.permalink }}">{{ statement.title }}</a>
   {% endfor %}
   {% if report.thumbnail %}
   <a href="{{ report.permalink }}"><img src="{{ report.thumbnail | prepend: site.baseurl }}" /></a>
