@@ -2,7 +2,7 @@
 .usa-nav-primary {
   button {
     @media screen and (min-width: 951px) {
-      padding: 0 3rem 1.9rem 1.5rem !important;
+      padding-bottom: 1.9rem;
     }
   }
 }
@@ -13,7 +13,7 @@
       &[aria-expanded=false],
       &[aria-expanded=true] {
         @media screen and (min-width: 951px) {
-          background-position: right 1.5rem top 18%;
+          background-position: right 1.5rem top 50%;
         }
       }
     }
