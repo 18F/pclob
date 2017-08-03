@@ -8,6 +8,7 @@ const ROOT_ASSETS_DIR = path.normalize(path.join(__dirname, '..'));
 const DATE_RE = /(January|February|March|April|May|June|July|August|September|October|November|December) (\d+), 20(\d\d)/;
 const ENDS_WITH_OPEN_PAREN_RE = /(\(\s*)$/;
 const STARTS_WITH_CLOSE_PAREN_RE = /^(\s*\))/;
+const ZERO_WIDTH_SPACE_RE = /\u200B/g;
 
 function relativeUrlToAbsolutePath(rootDir, url) {
   const parts = [rootDir].concat(decodeURIComponent(url).split('/'));
@@ -16,7 +17,8 @@ function relativeUrlToAbsolutePath(rootDir, url) {
 
 function getHtmlPage(relUrl) {
   const abspath = relativeUrlToAbsolutePath(ROOT_DIR, relUrl);
-  const html = fs.readFileSync(abspath, 'utf-8');
+  const html = fs.readFileSync(abspath, 'utf-8')
+    .replace(ZERO_WIDTH_SPACE_RE, '');
   return cheerio.load(html);
 }
 
