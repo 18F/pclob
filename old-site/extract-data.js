@@ -65,7 +65,12 @@ function ensureRelativeLinksExist($, $el, filename) {
   $el.find('a[href]').each(function() {
     const href = $(this).attr('href');
 
-    if (/^https?:\/\//.test(href)) return;
+    if (/^https?:\/\//.test(href)) {
+      if (/pclob\.gov/i.test(href)) {
+        throw new Error(`Unexpected pclob.gov URL found: ${href}`);
+      }
+      return;
+    }
     if (!fs.existsSync(relativeUrlToAbsolutePath(rootDir, href))) {
       const msg = `Link target in '${filename}' not found: ${href}`;
       console.log('WARNING:', msg);
