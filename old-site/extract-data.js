@@ -2,6 +2,7 @@ const path = require('path');
 const fs = require('fs');
 const cheerio = require('cheerio');
 const toMarkdown = require('to-markdown');
+const jsonStringify = require('json-stable-stringify');
 
 const ROOT_DIR = path.join(__dirname, 'scraped');
 const ROOT_ASSETS_DIR = path.normalize(path.join(__dirname, '..'));
@@ -183,8 +184,9 @@ if (!module.parent) {
     'events.html',
   ].forEach(filename => {
     const items = extractItems(filename, permalinks);
-    const outfile = `${path.basename(filename, '.html')}.extracted.json`;
-    console.log(`Writing ${outfile}.`);
-    fs.writeFileSync(outfile, JSON.stringify(items, null, 2));
+    const outfile = `extracted-${path.basename(filename, '.html')}.json`;
+    console.log(`Writing _data/${outfile}.`);
+    fs.writeFileSync(path.join(__dirname, '..', '_data', outfile),
+                     jsonStringify(items, {space: '  '}));
   });
 }
