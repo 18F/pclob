@@ -56,29 +56,38 @@ function removePrevSiblings($, node) {
   }
 }
 
-function ensureRelativeLinksExist($, $el, filename) {
-  const rootDir = relativeUrlToAbsolutePath(
-    ROOT_ASSETS_DIR,
-    filename.split('/').slice(0, -1).join('/')
-  );
+function isAbsoluteUrl(url) {
+  return /^https?:\/\//.test(url);
+}
+
+function fixupLinks($, $el, filename, permalinks) {
+  const currWebPath = path.posix.dirname(filename);
 
   $el.find('a[href]').each(function() {
     const href = $(this).attr('href');
 
-    if (/^https?:\/\//.test(href)) {
+    if (isAbsoluteUrl(href)) {
       if (/pclob\.gov/i.test(href)) {
         throw new Error(`Unexpected pclob.gov URL found: ${href}`);
       }
       return;
     }
-    if (!fs.existsSync(relativeUrlToAbsolutePath(rootDir, href))) {
-      const msg = `Link target in '${filename}' not found: ${href}`;
+
+    const webPath = path.posix.normalize(path.posix.join(currWebPath, href));
+
+    if (permalinks.has(`/${webPath}`)) {
+      return;
+    }
+
+    if (!fs.existsSync(relativeUrlToAbsolutePath(ROOT_ASSETS_DIR, webPath))) {
+      const msg = `Link target in '${filename}' not found: ${webPath}`;
       console.log('WARNING:', msg);
     }
+    $(this).attr('href', `{{site.baseurl}}/${webPath}`);
   });
 }
 
-function extractItems(filename) {
+function extractItems(filename, permalinks) {
   const $ = getHtmlPage(filename);
 
   return $('p strong').map(function() {
@@ -94,9 +103,11 @@ function extractItems(filename) {
     const links = $parenLinks.filter(function() {
       return $(this).attr('href') !== titleHref;
     }).map(function() {
+      const href = $(this).attr('href');
+
       return {
         text: $(this).text().trim(),
-        url: $(this).attr('href'),
+        url: isAbsoluteUrl(href) ? href : `/${href}`,
       };
     }).get();
     const section = $p.prevAll('h1, h2, h3, h4, h5, h6').first().text();
@@ -104,19 +115,20 @@ function extractItems(filename) {
     let markdown = null;
     let permalink = null;
 
-    ensureRelativeLinksExist($, $p, filename);
-
     // If the title links to an HTML page, fetch its content and
     // convert it to markdown.
     if (titleHref) {
       const $page = getHtmlPage(titleHref);
       const $content = $page('#page-content');
 
-      ensureRelativeLinksExist($page, $content, titleHref);
+      fixupLinks($page, $content, titleHref, permalinks);
 
       markdown = toMarkdown($content.html()).trim();
       permalink = `/${titleHref}`;
+      permalinks.add(permalink);
     }
+
+    fixupLinks($, $p, filename, permalinks);
 
     // Now clean up the paragraph so we can convert it to markdown.
     removeParenthesizedLinks($parenLinks);
@@ -162,7 +174,15 @@ module.exports = {
 };
 
 if (!module.parent) {
-  extractItems('library.html');
-  extractItems('events.html');
-  extractItems('newsroom.html');
+  const permalinks = new Set();
+  [
+    'newsroom.html',
+    'library.html',
+    'events.html',
+  ].forEach(filename => {
+    const items = extractItems(filename, permalinks);
+    const outfile = `${path.basename(filename, '.html')}.extracted.json`;
+    console.log(`Writing ${outfile}.`);
+    fs.writeFileSync(outfile, JSON.stringify(items, null, 2));
+  });
 }
