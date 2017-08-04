@@ -26,6 +26,29 @@ function slugify(text) {
     .replace(/-+$/, '');            // Trim - from end of text
 }
 
+function htmlToMarkdown(html) {
+  // By default toMarkdown converts content to markdown that's inside
+  // raw HTML, e.g. `<td>[linky](http://example.org/)</td>`. However,
+  // Jekyll's Markdown parser doesn't like this--it will render all
+  // content inside raw HTML tags as raw HTML. So we'll provide a converter
+  // that ensures that such content doesn't get converted to Markdown.
+  return toMarkdown(html, {
+    converters: [{
+      filter(node) {
+        while (node.parentNode) {
+          node = node.parentNode;
+          if (['TD', 'TH'].includes(node.nodeName)) {
+            return true;
+          }
+        }
+        return false;
+      },
+      replacement(innerHTML, node) {
+        return node.cloneNode(true).outerHTML;
+      }
+    }]});
+}
+
 function relativeUrlToAbsolutePath(rootDir, url) {
   const parts = [rootDir].concat(decodeURIComponent(url).split('/'));
   return path.join.apply(path, parts);
@@ -99,6 +122,8 @@ function fixupLinks($, $el, filename, permalinks) {
     const src = $(this).attr('src');
     let webPath = path.posix.normalize(path.posix.join(currWebPath, src));
 
+    // We've only got a few images to process, and we can re-point them
+    // to their new locations in the new site.
     if (webPath === 'media/medine.png') {
       webPath = 'assets/img/board/members/medine.png';
     } else {
@@ -112,6 +137,7 @@ function fixupLinks($, $el, filename, permalinks) {
       const msg = `Image target in '${filename}' not found: ${webPath}`;
       console.log(WARNING, msg);
     }
+    $(this).attr('src', `{{site.baseurl}}/${webPath}`);
   });
 
   $el.find('a[href]').each(function() {
@@ -174,7 +200,7 @@ function extractItems(filename, permalinks) {
 
       fixupLinks($page, $content, titleHref, permalinks);
 
-      markdown = toMarkdown($content.html()).trim();
+      markdown = htmlToMarkdown($content.html()).trim();
       permalink = `/${titleHref}`;
       permalinks.add(permalink);
     }
@@ -189,7 +215,7 @@ function extractItems(filename, permalinks) {
       $(firstBr).remove();
     }
 
-    const description = toMarkdown($p.html())
+    const description = htmlToMarkdown($p.html())
       .trim()
       .split('\n')
       .filter(line => {
