@@ -54,7 +54,13 @@
       <div class="usa-footer-contact-links usa-width-one-fourth">
         <ul class="usa-unstyled-list">
         {% for link in site.footer.ancillary %}
-          <li><a href="{{ link.href }}">{{ link.text }}</a></li>
+          {% assign first_char = link.href | truncate: 1, '' %}
+          {% if first_char == '/' %}
+            {% assign href = link.href | prepend: site.baseurl %}
+          {% else %}
+            {% assign href = link.href %}
+          {% endif %}
+          <li><a href="{{ href }}">{{ link.text }}</a></li>
         {% endfor %}
         </ul>
       </div>

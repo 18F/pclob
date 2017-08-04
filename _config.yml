@@ -60,7 +60,7 @@ footer:
         href: '#'
   ancillary:
     - text: 'FOIA information'
-      href: '#'
+      href: '/foia/'
     - text: 'Plain Writing Act'
       href: '#'
     - text: 'USA.gov'
