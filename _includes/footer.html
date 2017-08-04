@@ -54,7 +54,7 @@
       <div class="usa-footer-contact-links usa-width-one-fourth">
         <ul class="usa-unstyled-list">
         {% for link in site.footer.ancillary %}
-          {% assign first_char = link.url | truncate: 1, '' %}
+          {% assign first_char = link.href | truncate: 1, '' %}
           {% if first_char == '/' %}
             {% assign href = link.href | prepend: site.baseurl %}
           {% else %}
