@@ -299,7 +299,7 @@ if (!module.parent) {
         );
       });
     } else {
-      const outfile = `${basename}.yaml`;
+      const outfile = `legacy-${basename}.yaml`;
       console.log(`Writing _data/${outfile}.`);
 
       items.forEach(item => {

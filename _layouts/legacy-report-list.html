@@ -7,7 +7,7 @@ layout: base
   {{ content }}
 </section>
 
-{% assign reports = site.data.library | where: "section", page.title %}
+{% assign reports = site.data.legacy-library | where: "section", page.title %}
 {% for report in reports %}
 <section class="usa-section usa-grid pclob-report">
 <h3>{{ report.title }}</h3>
