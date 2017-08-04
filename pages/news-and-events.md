@@ -10,8 +10,9 @@ permalink: /newsroom/
   <h3><a href="{{ entry.url }}">{{ entry.title }}</a></h3>
   <p><em>{{ entry.date | date: "%B %e, %Y" }}</em></p>
   {% if entry.description %}
-  <p>{{ entry.description | markdownify }}</p>
+  {{ entry.description | markdownify }}
   {% else %}
-  <p>{{ entry.content | markdownify }}</p>
+  {{ entry.content | markdownify }}
   {% endif %}
+  <a href="{{ entry.url }}">Read more<span class="usa-sr-only"> about {{ entry.title }}</span> &raquo;</a>
 {% endfor %}
