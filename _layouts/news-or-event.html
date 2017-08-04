@@ -1,0 +1,22 @@
+---
+layout: base
+---
+
+<section class="usa-section usa-grid">
+  <h1> {{ page.title }}</h1>
+  {{ content }}
+  {% if page.links != empty %}
+  <h3>Related Documents</h3>
+  <ul>
+  {% for link in page.links %}
+    {% assign first_char = link.url | truncate: 1, '' %}
+    {% if first_char == '/' %}
+      {% assign url = link.url | prepend: site.baseurl %}
+    {% else %}
+      {% assign url = link.url %}
+    {% endif %}
+    <li><a href="{{ url }}">{{ link.text }}</a></li>
+  {% endfor %}
+  </ul>
+  {% endif %}
+</section>

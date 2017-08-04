@@ -46,13 +46,7 @@ defaults:
   scope:
     path: "" # an empty string here means all files in the project
   values:
-    layout:
-      - home
-      - page
-      - "project-list"
-      - project
-      - "team-list"
-      - team
+    layout: page
 
 footer:
   links:
@@ -96,6 +90,10 @@ exclude:
 
 # Inititalize project and team collections
 collections:
+  newsroom:
+    output: true
+  events:
+    output: true
   reports:
     output: true
   board:

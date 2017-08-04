@@ -237,6 +237,7 @@ if (!module.parent) {
         const date = toIsoDate(parseDate(frontMatter['date']));
 
         frontMatter['date'] = date;
+        frontMatter['layout'] = 'news-or-event';
 
         const slug = slugify(frontMatter['title']);
         const outfile = `${date}-${slug}.md`;
