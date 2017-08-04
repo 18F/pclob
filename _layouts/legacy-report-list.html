@@ -3,11 +3,11 @@ layout: base
 ---
 
 <section class="usa-section usa-grid">
-  <h1>{{ page.section }}</h1>
+  <h1>{{ page.title }}</h1>
   {{ content }}
 </section>
 
-{% assign reports = site.data.library | where: "section", page.section %}
+{% assign reports = site.data.library | where: "section", page.title %}
 {% for report in reports %}
 <section class="usa-section usa-grid pclob-report">
 <h3>{{ report.title }}</h3>
