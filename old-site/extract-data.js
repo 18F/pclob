@@ -1,15 +1,28 @@
+const assert = require('assert');
 const path = require('path');
 const fs = require('fs');
 const cheerio = require('cheerio');
 const toMarkdown = require('to-markdown');
 const jsonStringify = require('json-stable-stringify');
+const yaml = require('js-yaml');
 
 const ROOT_DIR = path.join(__dirname, 'scraped');
 const ROOT_ASSETS_DIR = path.normalize(path.join(__dirname, '..'));
 const DATE_RE = /(January|February|March|April|May|June|July|August|September|October|November|December) (\d+), 20(\d\d)/;
+const MONTHS = 'January|February|March|April|May|June|July|August|September|October|November|December'.split('|');
 const ENDS_WITH_OPEN_PAREN_RE = /(\(\s*)$/;
 const STARTS_WITH_CLOSE_PAREN_RE = /^(\s*\))/;
 const ZERO_WIDTH_SPACE_RE = /\u200B/g;
+
+// https://gist.github.com/mathewbyrne/1280286
+function slugify(text) {
+  return text.toString().toLowerCase()
+    .replace(/\s+/g, '-')           // Replace spaces with -
+    .replace(/[^\w\-]+/g, '')       // Remove all non-word chars
+    .replace(/\-\-+/g, '-')         // Replace multiple - with single -
+    .replace(/^-+/, '')             // Trim - from start of text
+    .replace(/-+$/, '');            // Trim - from end of text
+}
 
 function relativeUrlToAbsolutePath(rootDir, url) {
   const parts = [rootDir].concat(decodeURIComponent(url).split('/'));
@@ -21,6 +34,20 @@ function getHtmlPage(relUrl) {
   const html = fs.readFileSync(abspath, 'utf-8')
     .replace(ZERO_WIDTH_SPACE_RE, '');
   return cheerio.load(html);
+}
+
+function parseDate(text) {
+  const match = DATE_RE.exec(text);
+  const month = MONTHS.indexOf(match[1]) + 1;
+  const day = parseInt(match[2]);
+  const year = 2000 + parseInt(match[3]);
+
+  assert(month > 0);
+  return new Date(year, month, day);
+}
+
+function toIsoDate(date) {
+  return date.toISOString().slice(0, 10);
 }
 
 function getFirstDate(text) {
@@ -179,14 +206,66 @@ module.exports = {
 if (!module.parent) {
   const permalinks = new Set();
   [
-    'newsroom.html',
-    'library.html',
-    'events.html',
-  ].forEach(filename => {
+    {filename: 'newsroom.html', isCollection: true},
+    {filename: 'library.html', isCollection: false},
+    {filename: 'events.html', isCollection: true},
+  ].forEach(({filename, isCollection}) => {
     const items = extractItems(filename, permalinks);
-    const outfile = `extracted-${path.basename(filename, '.html')}.json`;
-    console.log(`Writing _data/${outfile}.`);
-    fs.writeFileSync(path.join(__dirname, '..', '_data', outfile),
-                     jsonStringify(items, {space: '  '}));
+    const basename = path.basename(filename, '.html');
+
+    if (isCollection) {
+      const collection = `_${basename}`;
+      const collectionDir = path.join(ROOT_ASSETS_DIR, collection);
+
+      if (!fs.existsSync(collectionDir)) {
+        fs.mkdirSync(collectionDir);
+      }
+
+      items.forEach((item, i) => {
+        const frontMatter = JSON.parse(JSON.stringify(item));
+        let content = frontMatter['markdown'];
+        delete frontMatter['markdown'];
+        if (!content) {
+          content = frontMatter['description'];
+          delete frontMatter['description'];
+        }
+
+        assert(content);
+        assert(frontMatter['date']);
+        assert(frontMatter['title']);
+
+        const date = toIsoDate(parseDate(frontMatter['date']));
+
+        frontMatter['date'] = date;
+
+        const slug = slugify(frontMatter['title']);
+        const outfile = `${date}-${slug}.md`;
+        const yamlFrontMatter = yaml.safeDump(frontMatter, {
+          sortKeys: true,
+        });
+
+        console.log(`Writing ${collection}/${outfile}.`);
+        fs.writeFileSync(
+          path.join(ROOT_ASSETS_DIR, collection, outfile),
+          `---\n${yamlFrontMatter}---\n${content}\n`
+        );
+      });
+    } else {
+      const outfile = `${basename}.yaml`;
+      console.log(`Writing _data/${outfile}.`);
+
+      items.forEach(item => {
+        ['markdown', 'permalink'].forEach(key => {
+          assert(!item[key]);
+          delete item[key];
+        });
+        if (item['date']) {
+          item['date'] = toIsoDate(parseDate(item['date']));
+        }
+      });
+
+      fs.writeFileSync(path.join(ROOT_ASSETS_DIR, '_data', outfile),
+                       yaml.safeDump(items, {sortKeys: true}));
+    }
   });
 }
