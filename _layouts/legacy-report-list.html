@@ -1,0 +1,30 @@
+---
+layout: base
+---
+
+<section class="usa-section usa-grid">
+  <h1>{{ page.title }}</h1>
+  {{ content }}
+</section>
+
+{% assign reports = site.data.legacy-library | where: "section", page.title %}
+{% for report in reports %}
+<section class="usa-section usa-grid pclob-report">
+<h3>{{ report.title }}</h3>
+  {% if report.date %}
+  <p><em>{{ report.date | date: "%B %e, %Y" }}</em></p>
+  {% endif %}
+  <p>{{ report.description }}</p>
+  <ul>
+    {% for link in report.links %}
+      {% assign first_char = link.url | truncate: 1, '' %}
+      {% if first_char == '/' %}
+        {% assign url = link.url | prepend: site.baseurl %}
+      {% else %}
+        {% assign url = link.url %}
+      {% endif %}
+      <li><a href="{{ url }}">{{ link.text }}</a></li>
+    {% endfor %}
+  </ul>
+</section>
+{% endfor %}

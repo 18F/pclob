@@ -1,0 +1,17 @@
+{
+  "name": "www.pclob.gov-scraped",
+  "version": "1.0.0",
+  "description": "Scraped pclob.gov and associated code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.0.1",
+    "cheerio": "^1.0.0-rc.2",
+    "js-yaml": "^3.9.1",
+    "to-markdown": "^3.1.0"
+  }
+}
