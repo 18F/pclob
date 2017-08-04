@@ -38,11 +38,11 @@ function getHtmlPage(relUrl) {
 
 function parseDate(text) {
   const match = DATE_RE.exec(text);
-  const month = MONTHS.indexOf(match[1]) + 1;
+  const month = MONTHS.indexOf(match[1]);
   const day = parseInt(match[2]);
   const year = 2000 + parseInt(match[3]);
 
-  assert(month > 0);
+  assert(month >= 0);
   return new Date(year, month, day);
 }
 
