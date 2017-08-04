@@ -1,11 +1,5 @@
 ---
-layout: page
+layout: legacy-report-list
 permalink: /official-correspondence/
+section: Official Correspondence
 ---
-
-# Official Correspondence
-
-{% assign reports = site.data.library | where: "section", "Official Correspondence" %}
-{% for report in reports %}
-  {% include legacy-report.html report=report %}
-{% endfor %}

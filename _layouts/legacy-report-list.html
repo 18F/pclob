@@ -1,0 +1,27 @@
+---
+layout: base
+---
+
+<section class="usa-section usa-grid">
+  <h1>{{ page.section }}</h1>
+  {{ content }}
+</section>
+
+{% assign reports = site.data.library | where: "section", page.section %}
+{% for report in reports %}
+<section class="usa-section usa-grid pclob-report">
+<h3>{{ report.title }}</h3>
+  <p>{{ report.description }}</p>
+  <ul>
+    {% for link in report.links %}
+      {% assign first_char = link.url | truncate: 1, '' %}
+      {% if first_char == '/' %}
+        {% assign url = link.url | prepend: site.baseurl %}
+      {% else %}
+        {% assign url = link.url %}
+      {% endif %}
+      <li><a href="{{ url }}">{{ link.text }}</a></li>
+    {% endfor %}
+  </ul>
+</section>
+{% endfor %}
