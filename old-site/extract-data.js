@@ -5,6 +5,7 @@ const cheerio = require('cheerio');
 const toMarkdown = require('to-markdown');
 const jsonStringify = require('json-stable-stringify');
 const yaml = require('js-yaml');
+const chalk = require('chalk');
 
 const ROOT_DIR = path.join(__dirname, 'scraped');
 const ROOT_ASSETS_DIR = path.normalize(path.join(__dirname, '..'));
@@ -13,6 +14,7 @@ const MONTHS = 'January|February|March|April|May|June|July|August|September|Octo
 const ENDS_WITH_OPEN_PAREN_RE = /(\(\s*)$/;
 const STARTS_WITH_CLOSE_PAREN_RE = /^(\s*\))/;
 const ZERO_WIDTH_SPACE_RE = /\u200B/g;
+const WARNING = chalk.yellow('WARNING:');
 
 // https://gist.github.com/mathewbyrne/1280286
 function slugify(text) {
@@ -93,6 +95,25 @@ function isAbsoluteUrl(url) {
 function fixupLinks($, $el, filename, permalinks) {
   const currWebPath = path.posix.dirname(filename);
 
+  $el.find('img').each(function() {
+    const src = $(this).attr('src');
+    let webPath = path.posix.normalize(path.posix.join(currWebPath, src));
+
+    if (webPath === 'media/medine.png') {
+      webPath = 'assets/img/board/members/medine.png';
+    } else {
+      const match = webPath.match(/^media\/coversheets\/(.+)$/);
+      if (match) {
+        webPath = `assets/img/coversheets/${match[1]}`;
+      }
+    }
+
+    if (!fs.existsSync(relativeUrlToAbsolutePath(ROOT_ASSETS_DIR, webPath))) {
+      const msg = `Image target in '${filename}' not found: ${webPath}`;
+      console.log(WARNING, msg);
+    }
+  });
+
   $el.find('a[href]').each(function() {
     const href = $(this).attr('href');
 
@@ -111,7 +132,7 @@ function fixupLinks($, $el, filename, permalinks) {
 
     if (!fs.existsSync(relativeUrlToAbsolutePath(ROOT_ASSETS_DIR, webPath))) {
       const msg = `Link target in '${filename}' not found: ${webPath}`;
-      console.log('WARNING:', msg);
+      console.log(WARNING, msg);
     }
     $(this).attr('href', `{{site.baseurl}}/${webPath}`);
   });
