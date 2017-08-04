@@ -86,7 +86,7 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE.md
   - README.md
-  - old-site
+  - legacy-site
 
 # Inititalize project and team collections
 collections:
