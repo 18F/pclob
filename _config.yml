@@ -87,6 +87,8 @@ exclude:
   - LICENSE.md
   - README.md
   - legacy-site
+  - config
+  - package.json
 
 # Inititalize project and team collections
 collections:
