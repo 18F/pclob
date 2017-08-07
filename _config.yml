@@ -89,6 +89,7 @@ exclude:
   - legacy-site
   - config
   - package.json
+  - node_modules
 
 # Inititalize project and team collections
 collections:
