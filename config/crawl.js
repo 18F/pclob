@@ -50,20 +50,40 @@ function findDuplicateIds($) {
   return duplicates;
 }
 
+function findInvalidAnchors($) {
+  const hrefs = [];
+
+  $("a[href^='#']").each(function() {
+    const href = $(this).attr('href');
+    const id = href.slice(1);
+
+    if (id.length === 0 || $(`[id="${id}"]`).length === 0) {
+      hrefs.push(href);
+    }
+  });
+
+  return hrefs;
+}
+
 runServer().then(server => {
   const crawler = new Crawler(`${server.url}/`);
   const origDiscoverResources = crawler.discoverResources;
   const referrers = {};
   const notFound = [];
   const duplicateIds = [];
+  const invalidAnchors = [];
 
   crawler.discoverResources = function(buffer, item) {
     if (/^text\/html/.test(item.stateData.contentType)) {
       const $ = cheerio.load(buffer.toString("utf8"));
       const ids = findDuplicateIds($);
+      const anchors = findInvalidAnchors($);
 
       if (ids.length) {
         duplicateIds.push({ item, ids });
+      }
+      if (anchors.length) {
+        invalidAnchors.push({ item, anchors });
       }
     }
     return origDiscoverResources.apply(this, arguments);
@@ -102,6 +122,12 @@ runServer().then(server => {
 
         return label;
       };
+
+      invalidAnchors.forEach(({ item, anchors }) => {
+        const label = makeLabelForPaths([ item.path ]);
+        console.log(`${label}: invalid anchor hrefs found at ${item.path}:`);
+        console.log(`  ${anchors.join(', ')}`);
+      });
 
       duplicateIds.forEach(({ item, ids }) => {
         const label = makeLabelForPaths([ item.path ]);
