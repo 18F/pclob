@@ -62,7 +62,7 @@ footer:
     - text: 'FOIA information'
       href: '/foia/'
     - text: 'Plain Writing Act'
-      href: '#'
+      href: 'http://www.plainlanguage.gov/pllaw/'
     - text: 'USA.gov'
       href: 'https://usa.gov'
     - text: 'OSC.gov'
