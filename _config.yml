@@ -62,7 +62,7 @@ footer:
     - text: 'FOIA information'
       href: '/foia/'
     - text: 'Plain Writing Act'
-      href: '#'
+      href: 'http://www.plainlanguage.gov/pllaw/'
     - text: 'USA.gov'
       href: 'https://usa.gov'
     - text: 'OSC.gov'
@@ -87,6 +87,8 @@ exclude:
   - LICENSE.md
   - README.md
   - legacy-site
+  - config
+  - package.json
 
 # Inititalize project and team collections
 collections:

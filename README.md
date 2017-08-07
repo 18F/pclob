@@ -23,6 +23,16 @@ If you ever decide that you no longer want to use Docker, run
 
 [Docker Community Edition]: https://www.docker.com/community-edition
 
+## Running the link checker
+
+To make sure the site doesn't have any 404s or other consistency issues,
+run:
+
+```
+npm install
+npm test
+```
+
 ## Upgrading USWDS
 
 This project uses the CSS and JavaScript from [U.S. Web Design System](https://standards.18f.gov).
