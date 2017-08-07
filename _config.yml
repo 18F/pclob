@@ -90,6 +90,8 @@ exclude:
   - config
   - package.json
   - node_modules
+  - .env
+  - .env.sample
 
 # Inititalize project and team collections
 collections:

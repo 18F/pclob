@@ -21,6 +21,9 @@ similar to the one which Federalist builds your site on.
 If you ever decide that you no longer want to use Docker, run
 `docker-compose down -v` to properly clean everything up.
 
+For extra configuration options, copy `.env.sample` to `.env` and edit it
+as needed.
+
 [Docker Community Edition]: https://www.docker.com/community-edition
 
 ## Running the link checker

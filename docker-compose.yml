@@ -3,7 +3,7 @@ services:
   app:
     build: .
     working_dir: /pclob
-    command: bash -c 'bundle install && jekyll serve --force_polling -H 0.0.0.0 -P 4000'
+    command: bash -c 'bundle install && jekyll serve ${JEKYLL_FLAGS} --force_polling -H 0.0.0.0 -P 4000'
     stop_signal: SIGKILL
     ports:
       - 4000:4000
