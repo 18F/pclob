@@ -8,11 +8,11 @@
       {% for link in site.footer.links %}
         <ul class="usa-unstyled-list usa-width-one-fourth usa-footer-primary-content">
           <li class="usa-footer-primary-link">
-            <h4>{{ link.text }}</h4>
+            <h4><a href="{{ link.href | prepend: site.baseurl }}">{{ link.text }}</a></h4>
           </li>
           {% if link.children %}
           {% for child in link.children %}
-          <li><a href="{{ child.href }}">{{ child.text }}</a></li>
+          <li><a href="{{ child.href | prepend: site.baseurl }}">{{ child.text }}</a></li>
           {% endfor %}
           {% endif %}
         </ul>

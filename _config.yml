@@ -51,13 +51,13 @@ defaults:
 footer:
   links:
       - text: 'Home'
-        href: '#'
+        href: '/'
       - text: 'About'
-        href: '#'
+        href: '/about/'
       - text: 'Reports'
-        href: '#'
+        href: '/oversight-reports/'
       - text: 'Events and press'
-        href: '#'
+        href: '/newsroom/'
   ancillary:
     - text: 'FOIA information'
       href: '/foia/'
