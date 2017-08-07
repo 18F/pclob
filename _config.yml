@@ -92,6 +92,8 @@ exclude:
   - node_modules
   - .env
   - .env.sample
+  - Dockerfile
+  - docker-compose.yml
 
 # Inititalize project and team collections
 collections:
