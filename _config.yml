@@ -38,8 +38,8 @@ analytics:
   google:
     code: 'UA-48605964-32' # Change this to your GSA analytics code
   dap:
-    agency: PCLOB    # Change this to your agency
-    subagency: # Change this to your agency
+    agency: PCLOB
+    subagency:
 
 defaults:
  -
@@ -62,7 +62,9 @@ footer:
     - text: 'FOIA information'
       href: '/foia/'
     - text: 'Plain Writing Act'
-      href: 'http://www.plainlanguage.gov/pllaw/'
+      href: 'https://www.plainlanguage.gov/pllaw/'
+    - text: 'Privacy compliance'
+      href: '/privacy/'
     - text: 'USA.gov'
       href: 'https://usa.gov'
     - text: 'OSC.gov'
