@@ -27,7 +27,17 @@
         <img class="usa-footer-logo-img" src="{{ site.footer.image | prepend: site.baseurl }}" alt="Great Seal of the United States">
         <h3 class="usa-footer-logo-heading">The Privacy and Civil Liberties <br/>Oversight Board</h3>
       </div>
-      <div class="usa-footer-contact-links usa-width-one-fourth">
+      <div class="usa-footer-contact-links usa-width-one-half">
+        <div class="usa-width-one-half">
+          <address>
+            {% if site.footer.contact.name %}
+              <h4 class="usa-footer-contact-heading">{{ site.footer.contact.name }}</h4>
+            {% endif %}
+            {% if site.footer.contact.phonenumber %}
+              <p><a href="tel:{{ site.footer.contact.phonenumber }}">{{ site.footer.contact.phonenumber }}</a></p>
+            {% endif %}
+            <p><a href="mailto:{{ site.footer.contact.email }}">{{ site.footer.contact.email }}</a></p>
+          </address>
           {% if site.footer.contact.twitter %}
           <a class="usa-link-twitter" href="https://twitter.com/{{ site.footer.contact.twitter }}"><span>Twitter</span></a>
           {% endif %}
@@ -40,29 +50,20 @@
           {% if site.footer.contact.rss %}
           <a class="usa-link-rss" href="{{ site.footer.contact.rss }}"><span>RSS feed</span></a>
           {% endif %}
-        <address>
-          {% if site.footer.contact.name %}
-            <h3 class="usa-footer-contact-heading">{{ site.footer.contact.name }}</h3>
-          {% endif %}
-          {% if site.footer.contact.phonenumber %}
-            <p><a href="tel:{{ site.footer.contact.phonenumber }}">{{ site.footer.contact.phonenumber }}</a></p>
-          {% endif %}
-          <p><a href="mailto:{{ site.footer.contact.email }}">{{ site.footer.contact.email }}</a></p>
-          <p><a href="{{ site.baseurl }}/foia/">FOIA information</a></p>
-        </address>
-      </div>
-      <div class="usa-footer-contact-links usa-width-one-fourth">
-        <ul class="usa-unstyled-list">
-        {% for link in site.footer.ancillary %}
-          {% assign first_char = link.href | truncate: 1, '' %}
-          {% if first_char == '/' %}
-            {% assign href = link.href | prepend: site.baseurl %}
-          {% else %}
-            {% assign href = link.href %}
-          {% endif %}
-          <li><a href="{{ href }}">{{ link.text }}</a></li>
-        {% endfor %}
-        </ul>
+        </div>
+        <div class="usa-footer-contact-links usa-width-one-half">
+          <ul class="usa-unstyled-list">
+          {% for link in site.footer.ancillary %}
+            {% assign first_char = link.href | truncate: 1, '' %}
+            {% if first_char == '/' %}
+              {% assign href = link.href | prepend: site.baseurl %}
+            {% else %}
+              {% assign href = link.href %}
+            {% endif %}
+            <li><a href="{{ href }}">{{ link.text }}</a></li>
+          {% endfor %}
+          </ul>
+        </div>
       </div>
     </div>
   </div>
