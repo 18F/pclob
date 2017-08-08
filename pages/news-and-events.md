@@ -1,13 +1,18 @@
 ---
 layout: page
+title: Events and press
 permalink: /newsroom/
 ---
 
-# Events and press
-
 {% for post in site.posts %}
-  <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-  <p><em>{{ post.date | date: "%B %e, %Y" }}</em></p>
+<div class="post">
+{% if post.category == 'newsroom' %}
+<p class="label post--label {{ post.category }}">Filed in News</p>
+{% else if post.category == 'events' %}
+<p class="label post--label {{ post.category }}">Filed in Events</p>
+{% endif %}
+<p class="post--date">{{ post.date | date: "%B %e, %Y" }}</p>
+<h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
 
   {% comment %}
   This project does excerpts a bit unusually, in that some legacy posts might
@@ -27,3 +32,4 @@ permalink: /newsroom/
 
   <a href="{{ post.url | prepend: site.baseurl }}">Read more<span class="usa-sr-only"> about {{ post.title }}</span> &raquo;</a>
 {% endfor %}
+</div>
