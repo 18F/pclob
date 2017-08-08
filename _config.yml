@@ -99,9 +99,7 @@ exclude:
 
 # Inititalize project and team collections
 collections:
-  newsroom:
-    output: true
-  events:
+  posts:
     output: true
   reports:
     output: true

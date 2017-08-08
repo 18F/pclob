@@ -261,7 +261,7 @@ if (!module.parent) {
     const basename = path.basename(filename, '.html');
 
     if (isCollection) {
-      const collection = `_${basename}`;
+      const collection = `_posts`;
       const collectionDir = path.join(ROOT_ASSETS_DIR, collection);
 
       if (!fs.existsSync(collectionDir)) {
@@ -274,8 +274,11 @@ if (!module.parent) {
         delete frontMatter['markdown'];
         if (!content) {
           content = frontMatter['description'];
-          delete frontMatter['description'];
+        } else {
+          frontMatter['excerpt'] = frontMatter['description'];
         }
+        delete frontMatter['description'];
+        delete frontMatter['section'];
 
         assert(content);
         assert(frontMatter['date']);
@@ -284,7 +287,8 @@ if (!module.parent) {
         const date = toIsoDate(parseDate(frontMatter['date']));
 
         frontMatter['date'] = date;
-        frontMatter['layout'] = 'news-or-event';
+        frontMatter['layout'] = 'post';
+        frontMatter['category'] = basename;
 
         const slug = slugify(frontMatter['title']);
         const outfile = `${date}-${slug}.md`;
