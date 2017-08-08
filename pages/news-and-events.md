@@ -30,6 +30,6 @@ permalink: /newsroom/
   {{ post.excerpt | markdownify }}
   {% endif %}
 
-  <a href="{{ post.url | prepend: site.baseurl }}">Read more<span class="usa-sr-only"> about {{ post.title }}</span> &raquo;</a>
+  <a class="post--article-link" href="{{ post.url | prepend: site.baseurl }}">Read more<span class="usa-sr-only"> about {{ post.title }}</span> &raquo;</a>
 {% endfor %}
 </div>
