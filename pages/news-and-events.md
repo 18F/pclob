@@ -3,6 +3,11 @@ layout: page
 title: Events and press
 permalink: /newsroom/
 ---
+{% comment %}
+The news and events section uses Jekyll's built-in "post" type, which gives us
+some things for free that we couldn't get otherwise, like pagination. For more,
+see here: https://jekyllrb.com/docs/posts/
+{% endcomment %}
 
 {% for post in site.posts %}
 <div class="post">

@@ -83,16 +83,6 @@ h1, h2, h3, h4, h5, h6 {
     background-color: $accent-color-light;
     border-radius: 100px;
   }
-  &.newsroom {
-    &:before {
-      padding: 3px 4px;
-      content: url('/assets/img/icon-newspaper.svg');
-    }
-  }
-  &.events:before {
-    padding: 0.25rem 0.35rem;
-    content: url('/assets/img/icon-calendar.svg');
-  }
 }
 
 .post {
@@ -103,6 +93,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .post--label {
+  position: relative;
+  padding-left: 30px; // this is to accommodate the "badge" icon: 25px wide + 5 spacing
   display: inline-block;
   border-right: 1px dotted #323a45;
   padding-right: 8px;
@@ -111,6 +103,21 @@ h1, h2, h3, h4, h5, h6 {
   + .post--date {
     padding-left: 2px;
   }
+  &.newsroom {
+    &:before {
+      position: absolute; // without this, the badge is slightly off-center from the text due to line-height (I think)
+      left: 0;
+      padding: 3px 4px;
+      content: url('/assets/img/icon-newspaper.svg');
+    }
+  }
+  &.events:before {
+    position: absolute; // without this, the badge is slightly off-center from the text due to line-height (I think)
+    left: 0;
+    padding: 0.25rem 0.35rem;
+    content: url('/assets/img/icon-calendar.svg');
+  }
+
 }
 
 .post--date {
