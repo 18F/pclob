@@ -1,0 +1,72 @@
+---
+layout: page
+---
+<div class="usa-width-one-whole usa-container-margin">
+  <div class="usa-width-one-third">
+  {{ content }}
+  </div>
+  <div class="usa-width-two-thirds">
+    {% for doc in page.documents %}
+    <h3>{{ doc.title }}</h3>
+    {% if doc.description %}
+    <p>{{ doc.description }}</p>
+    {% endif %}
+    {%for download in doc.downloads %}
+    <a class="document--download" href="{{ download.url | prepend: site.baseurl }}" aria-label="Download {{ doc.title }}">Download</a>
+    {% endfor %}
+  {% endfor %}
+  </div>
+</div>
+<div class="usa-width-one-whole usa-container-margin">
+  <h2>Reports</h2>
+  <h3>Chief FOIA Officer Reports</h3>
+  {% for doc in page.chief-foia-officer-reports %}
+  <div class="usa-width-one-third">
+    <p><strong>{{ doc.year }}</strong></p>
+    <ul class="usa-unstyled-list">
+    {% for download in doc.downloads %}
+     <li><a class="document--download" href="{{ download.url | prepend: site.baseurl }}" aria-label="Download the {{ doc.title }}">{{ download.type }}</a></li>
+    {% endfor %}
+    </ul>
+  </div>
+  {% endfor %}
+</div>
+<hr />
+<div class="usa-width-one-whole usa-container-margin">
+    <h3>Annual Reports</h3>
+    {% for doc in page.annual-reports %}
+    <div class="usa-width-one-third">
+      <p><strong>{{ doc.year }}</strong></p>
+      <ul class="usa-unstyled-list">
+      {% for download in doc.downloads %}
+       <li><a class="document--download" href="{{ download.url | prepend: site.baseurl }}" aria-label="Download the {{ doc.title }}">{{ download.type }}</a></li>
+      {% endfor %}
+      </ul>
+      </div>
+    {% endfor %}
+</div>
+<hr />
+<div class="usa-width-one-whole usa-container-margin">
+    <h3>Quarterly Reports</h3>
+    {% for report in page.quarterly_reports %}
+    <div class="usa-width-one-third">
+      <p><strong>{{ report.year }}</strong></p>
+      <ul class="usa-unstyled-list">
+      {% for url in report.quarters %}
+       <li><a  class="document--download" href="{{ url | prepend: site.baseurl }}" aria-label="Download the {{ doc.title }}"><span class="usa-sr-only">{{ report.year }}</span> Quarter {{ report.quarters | size | minus: forloop.index0 }} (XML)</a></li>
+      {% endfor %}
+      </ul>
+    </div>
+    {% endfor %}
+</div>
+<div class="usa-width-one-whole usa-container-margin">
+<h2>FOIA Library</h2>
+{% for doc in page.library %}
+  <p>{{ doc.title }}</p>
+  <ul class="usa-unstyled-list">
+  {% for download in doc.downloads %}
+  <li><a class="document--download" href="{{ url | prepend: site.baseurl }}" aria-label="Download the {{ download.title }}">{{ download.title }}</a></li>
+  {% endfor %}
+  </ul>
+{% endfor %}
+</div>

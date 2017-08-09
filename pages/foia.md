@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: foia
 title: Freedom of Information Act (FOIA)
 permalink: /foia/
+body-class: foia
 documents:
   - title: FOIA Reference Guide
     description: |
@@ -9,19 +10,36 @@ documents:
     downloads:
       - type: PDF
         url: /foia/FOIA%20Library/InterimFOIAReferenceGuide.pdf
+  - title: FOIA Regulation
+    downloads:
+      - type: PDF
+        url: /library/FOIA-Privacy_Act-Sunshine_Act-Implementing%20Guidelines.pdf
+chief-foia-officer-reports:
   - title: 2017 Chief FOIA Officer Report
+    year: 2017
     description: |
       This is the PCLOB's third Chief Freedom of Information Act Officer Report, which covers activities from March 2016 through March 2017.
     downloads:
       - type: PDF
         url: /library/FOIA-2017-Chief_FOIA_Officer_Report.pdf
   - title: 2016 Chief FOIA Officer Report
+    year: 2016
     description: |
       This is the PCLOB's second Chief Freedom of Information Act Officer Report, which covers activities from March 2015 through March 2016.
     downloads:
       - type: PDF
         url: /library/FOIA-2016-Chief_FOIA_Officer_Report.pdf
+  - title: 2015 Chief FOIA Officer Report
+    year: 2015
+    description: |
+      This is the PCLOB's first Chief Freedom of Information Act Officer Report,
+      which covers activities from March 2014 through March 2015.
+    downloads:
+      - type: PDF
+        url: /library/FOIA-2015-Chief_FOIA_Officer_Report.pdf
+annual-reports:
   - title: Annual Freedom of Information Act Report for FY 2016
+    year: FY 2016
     description: |
       This is the PCLOB's third Annual Freedom of Information Act Report, which covers activities from October 1, 2015 – September 30, 2016.
     downloads:
@@ -32,6 +50,7 @@ documents:
       - type: CSV
         url: /foia/annual/Raw-Data-Elements.csv
   - title: Annual Freedom of Information Act Report for FY 2015
+    year: FY 2015
     description: |
       This is the PCLOB's second Annual Freedom of Information Act Report, which
       covers activities from October 1, 2014 – September 30, 2015.
@@ -40,14 +59,8 @@ documents:
         url: /library/FOIA-FY15-AnnualReport.pdf
       - type: XML
         url: /foia/annual/PCLOB.FY15.Final.xml
-  - title: 2015 Chief FOIA Officer Report
-    description: |
-      This is the PCLOB's first Chief Freedom of Information Act Officer Report,
-      which covers activities from March 2014 through March 2015.
-    downloads:
-      - type: PDF
-        url: /library/FOIA-2015-Chief_FOIA_Officer_Report.pdf
   - title: Annual Freedom of Information Act Report for FY 2014
+    year: FY 2014
     description: |
       This is the PCLOB's first Annual Freedom of Information Act Report, which
       covers activities from October 1, 2013-September 30, 2014.
@@ -75,7 +88,30 @@ quarterly_reports:
       - /foia/quarterly/PCLOB-2015-Q3.zip
       - /foia/quarterly/PCLOB-2015-Q2.zip
       - /foia/quarterly/PCLOB-2015-Q1.zip
-
+library:
+  - title: Congressional Correspondence
+    downloads:
+      - type: PDF
+        title: 2016 redacted
+        url: /foia/FOIA%20Library/2016_redacted.pdf
+      - type: PDF
+        title: 2016 redacted (2)
+        url: /foia/FOIA%20Library/2016%20(2)_redacted.pdf
+  - title: Congressional Correspondence
+    downloads:
+      - type: PDF
+        title: 2015 redacted
+        url: /foia/Congres_Crspdnce/2015%20(final).pdf
+  - title: Congressional Correspondence
+    downloads:
+      - type: PDF
+        title: 2014 redacted
+        url: /foia/Congres_Crspdnce/2014%20(final).pdf
+  - title: Congressional Correspondence
+    downloads:
+      - type: PDF
+        title: 2013 redacted
+        url: /foia/Congres_Crspdnce/2013(final).pdf
 ---
 ## Requests
 
@@ -85,25 +121,3 @@ FOIA requests may be directed to the Board at:
 
 **Fax:** (202) 296-4395
 
-## Documents
-
-{% for doc in page.documents %}
-  <h3>{{ doc.title }}</h3>
-  <p>{{ doc.description }}</p>
-  <ul>
-  {% for download in doc.downloads %}
-    <li><a href="{{ download.url | prepend: site.baseurl }}">Download {{ download.type }}</a></li>
-  {% endfor %}
-  </ul>
-{% endfor %}
-
-## Quarterly Reports
-
-{% for report in page.quarterly_reports %}
-  <h3>{{ report.year }}</h3>
-  <ul>
-    {% for url in report.quarters %}
-    <li><a href="{{ url | prepend: site.baseurl }}">Download <span class="usa-sr-only">{{ report.year }}</span> quarter {{ report.quarters | size | minus: forloop.index0 }} data (XML)</a></li>
-    {% endfor %}
-  </ul>
-{% endfor %}

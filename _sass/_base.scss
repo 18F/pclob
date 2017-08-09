@@ -63,6 +63,7 @@ h1, h2, h3, h4, h5, h6 {
   outline: none;
 }
 
+
 @media (min-width: 600px) {
   .usa-width-one-whole.usa-section {
     position: relative;
@@ -72,65 +73,3 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.label {
-  font-weight: bold;
-  color: #323a45;
-  &:before {
-    width: 25px;
-    height: 25px;
-    display: inline-block;
-    margin-right: 5px;
-    background-color: $accent-color-light;
-    border-radius: 100px;
-  }
-}
-
-.post {
-  margin-top: 8rem;
-  &:first-child{
-    margin-top: 0;
-  }
-}
-
-.post--label {
-  position: relative;
-  padding-left: 30px; // this is to accommodate the "badge" icon: 25px wide + 5 spacing
-  display: inline-block;
-  border-right: 1px dotted #323a45;
-  padding-right: 8px;
-  margin-right: 5px;
-  margin: 0; //override p margin
-  + .post--date {
-    padding-left: 2px;
-  }
-  &.newsroom {
-    &:before {
-      position: absolute; // without this, the badge is slightly off-center from the text due to line-height (I think)
-      left: 0;
-      padding: 3px 4px;
-      content: url('/assets/img/icon-newspaper.svg');
-    }
-  }
-  &.events:before {
-    position: absolute; // without this, the badge is slightly off-center from the text due to line-height (I think)
-    left: 0;
-    padding: 0.25rem 0.35rem;
-    content: url('/assets/img/icon-calendar.svg');
-  }
-
-}
-
-.post--date {
-  display: inline-block;
-  color: #323a45;
-  margin: 0; //override p margin
-  + h3 {
-    margin-top: 1.5rem;
-    margin-bottom: 1.5rem;
-  }
-}
-
-.post--article-link {
-  margin-top: 1.5rem;
-  font-weight: bold;
-}
