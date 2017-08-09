@@ -71,3 +71,59 @@ h1, h2, h3, h4, h5, h6 {
     margin-left: -31.25rem;
   }
 }
+
+.label {
+  font-weight: bold;
+  color: #323a45;
+  &:before {
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    margin-right: 5px;
+    background-color: $accent-color-light;
+    border-radius: 100px;
+  }
+  &.newsroom {
+    &:before {
+      padding: 3px 4px;
+      content: url('/assets/img/icon-newspaper.svg');
+    }
+  }
+  &.events:before {
+    padding: 0.25rem 0.35rem;
+    content: url('/assets/img/icon-calendar.svg');
+  }
+}
+
+.post {
+  margin-top: 8rem;
+  &:first-child{
+    margin-top: 0;
+  }
+}
+
+.post--label {
+  display: inline-block;
+  border-right: 1px dotted #323a45;
+  padding-right: 8px;
+  margin-right: 5px;
+  margin: 0; //override p margin
+  + .post--date {
+    padding-left: 2px;
+  }
+}
+
+.post--date {
+  display: inline-block;
+  color: #323a45;
+  margin: 0; //override p margin
+  + h3 {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+}
+
+.post--article-link {
+  margin-top: 1.5rem;
+  font-weight: bold;
+}

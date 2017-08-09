@@ -7,6 +7,10 @@ logo: /assets/img/Great_Seal_of_the_United_States.svg
 feature_image: /assets/img/aerial_capitol3.jpg
 
 colors:
+  dark-gray: '#323a45'
+  accent-color: '#02bfe7'
+  accent-color-light: '#9bdaf1'
+
   background: '#ffffff'
   link:
     color: '#0071bc'
