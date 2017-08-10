@@ -1,28 +1,28 @@
-<div class="project-container">
-{% for project in site.projects %}
-  {% unless project.featured %}
+<div class="report-container">
+{% for report in site.reports %}
+  {% if report.featured %}
     <article class="card usa-width-one-third">
-      <a class="card-link" href="{{ project.url | prepend: site.baseurl }}" aria-hidden="true" tabindex="-1"></a>
-      {% if project.image_thumbnail %}
+      <a class="card-link" href="{{ report.url | prepend: site.baseurl }}" aria-hidden="true" tabindex="-1"></a>
+      {% if report.image_thumbnail %}
       <div class="card-image"
-           style="background-image: url({{ project.image_thumbnail | prepend: site.baseurl }});">
+           style="background-image: url({{ report.image_thumbnail | prepend: site.baseurl }});">
       </div>
-      {% elsif project.image %}
+      {% elsif report.image %}
       <div class="card-image"
-           style="background-image: url({{ project.image | prepend: site.baseurl }});">
+           style="background-image: url({{ report.image | prepend: site.baseurl }});">
       </div>
       {% endif %}
       <div class="card-banner">
         <h3 class="card-description">
-          <span>{{ project.title }}</span>
+          <span>{{ report.title }}</span>
         </h3>
-        <p class="card-summary">{{ project.description }}</p>
+        <p class="card-summary">{{ report.description }}</p>
       </div>
-      <a class="card-read" href="{{ project.url | prepend: site.baseurl }}">
+      <a class="card-read" href="{{ report.url | prepend: site.baseurl }}">
         Read more
-        <span class="usa-sr-only">about {{ project.title }}</span>
+        <span class="usa-sr-only">about {{ report.title }}</span>
       </a>
     </article>
-  {% endunless %}
+  {% endif %}
 {% endfor %}
 </div>
