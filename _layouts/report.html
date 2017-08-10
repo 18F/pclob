@@ -1,27 +1,27 @@
 ---
 layout: base
 ---
-{{ report.title }}
 <div class="usa-grid usa-section usa-content" id="main" tabindex="-1">
-  <div class="usa-width-three-fourths usa-content">
-    <p class="date_published-on"><em>{{ page.published_on }}</em></p>
-    <h1 class="page-title">{{ page.title }}</h1>
+  <div class="usa-width-one-whole usa-content">
+    <p class="date_published-on">{{ page.date | date: "%B %e, %Y" }}</p>
+    <h1 class="page-title">{% if page.short-title %} {{ page.short-title }} {% else %}{{ page.title }}{% endif %}</h1>
   </div>
-  <div class="usa-width-three-fourths usa-content">
-    {{ content }}
-  </div>
+  <div class="usa-width-one-whole usa-content">
+    <p class="usa-font-lead">{{ page.summary }}</p>
 
-  {% if page.documents %}
-  <aside class="usa-width-one-fourth">
-    <h3>Related documents</h3>
-    <ul>
-    {% for document in page.documents %}
+  {% if page.attachments %}
+  <aside>
+    <ul class="usa-unstyled-list">
+    {% for document in page.attachments %}
     <li>
-      <a href="{{ document.url | prepend: site.baseurl }}">{{ document.title }} {% if document.format %}({{ document.format }}){% endif %}</a>
+      <a class="usa-button document--download" href="{{ document.url | prepend: site.baseurl }}">{{ document.title }} {% if document.format %}({{ document.format }}){% endif %}</a>
     </li>
     {% endfor %}
     </ul>
   </aside>
-{% endif %}
+  {% endif %}
+
+  {{ content }}
+  </div>
 
 </div>
