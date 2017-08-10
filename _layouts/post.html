@@ -9,12 +9,10 @@ layout: base
   </div>
   <div class="usa-width-three-fourths usa-content" style="margin-bottom: 1em">
     {{ content }}
-  </div>
 
   {% if page.links != empty %}
-  <aside class="usa-width-one-fourth">
     <h3>Related documents</h3>
-    <ul>
+    <ul class="usa-unstyled-list">
     {% for link in page.links %}
       {% assign first_char = link.url | truncate: 1, '' %}
       {% if first_char == '/' %}
@@ -22,9 +20,12 @@ layout: base
       {% else %}
         {% assign url = link.url %}
       {% endif %}
+      {% if {{ url | slice: -3,3 | upcase }} == 'PDF' %}
+      <li><a class="usa-button document--download" href="{{ url }}">{{ link.text }} ({{ url | slice: -3,3 | upcase }})</a></li>
+      {% else %}
       <li><a href="{{ url }}">{{ link.text }}</a></li>
+      {% endif %}
     {% endfor %}
     </ul>
-  </aside>
   {% endif %}
 </div>
