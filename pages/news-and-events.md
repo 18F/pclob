@@ -5,7 +5,12 @@ permalink: /newsroom/
 ---
 {% comment %}
 The news and events section uses Jekyll's built-in "post" type, which gives us
-some things for free that we couldn't get otherwise, like pagination. For more,
+some things for free that we couldn't get otherwise, like pagination. 
+
+To create a new news or event, simply create a new post in _posts and fill in
+the relevant front matter.
+
+For more,
 see here: https://jekyllrb.com/docs/posts/
 {% endcomment %}
 
