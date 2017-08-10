@@ -5,6 +5,7 @@ description: All of the PCLOB’s 22 recommendations have been implemented in fu
 published_on: Feb. 5, 2016
 permalink: /projects/update-on-215-702/
 tags: project
+featured: true
 image:
 image-credit:
 documents:
