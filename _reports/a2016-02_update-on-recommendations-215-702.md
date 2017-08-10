@@ -1,5 +1,5 @@
 ---
-layout: report
+layout: project
 title: Update on Government's Implementation of the PCLOB Recommendations on Section 215 and Section 702
 description: All of the PCLOB’s 22 recommendations have been implemented in full or in part, or the relevant government agency has taken significant steps toward adoption and implementation.
 published_on: Feb. 5, 2016
