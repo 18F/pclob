@@ -18,6 +18,11 @@ h1.page-title {
   margin-bottom: 4rem!important;
 }
 
+.sidebar {
+  background-color: $gray-light;
+  padding: 2rem 4rem;
+}
+
 .usa-button[href$=".pdf"]:after,
 .document--download:after {
   content: "";
@@ -70,7 +75,7 @@ h1.page-title {
 
 .label {
   font-weight: bold;
-  color: #323a45;
+  color: $gray-darkest;
   &:before {
     width: 25px;
     height: 25px;
@@ -92,7 +97,7 @@ h1.page-title {
   position: relative;
   padding-left: 30px; // this is to accommodate the "badge" icon: 25px wide + 5 spacing
   display: inline-block;
-  border-right: 1px dotted #323a45;
+  border-right: 1px dotted $gray-darkest;
   padding-right: 8px;
   margin-right: 5px;
   margin: 0; //override p margin

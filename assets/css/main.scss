@@ -14,8 +14,10 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$accent-color: {{ site.colors.accent-color }};
-$accent-color-light: {{ site.colors.accent-color-light }};
+$gray-light:               #f1f1f1;
+$gray-darkest:             #323a45;
+$accent-color:             {{ site.colors.accent-color }};
+$accent-color-light:       {{ site.colors.accent-color-light }};
 
 $background-color:         {{ site.colors.background }};
 $headers-color:            {{ site.colors.headers }};

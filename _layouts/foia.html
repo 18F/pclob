@@ -2,10 +2,8 @@
 layout: page
 ---
 <div class="usa-width-one-whole usa-container-margin">
-  <div class="usa-width-one-third">
-  {{ content }}
-  </div>
   <div class="usa-width-two-thirds">
+    <h2>Documentation</h2>
     {% for doc in page.documents %}
     <h3>{{ doc.title }}</h3>
     {% if doc.description %}
@@ -16,6 +14,10 @@ layout: page
     {% endfor %}
   {% endfor %}
   </div>
+  <div class="usa-width-one-third sidebar">
+  {{ content }}
+  </div>
+
 </div>
 <div class="usa-width-one-whole usa-container-margin">
   <h2>Reports</h2>
