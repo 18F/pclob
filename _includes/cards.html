@@ -1,8 +1,6 @@
 ---
 layout: page
 ---
-{{ content }}
-
 <div class="report-container">
 {% for report in site.reports %}
   {% if report.featured %}
@@ -21,7 +19,7 @@ layout: page
         <h3 class="card-description">
           <span>{{ report.title }}</span>
         </h3>
-        <p class="card-summary">{{ report.description }}</p>
+        <p class="card-summary">{{ report.summary }}</p>
       </div>
       <a class="card-read" href="{{ report.url | prepend: site.baseurl }}">
         Read more

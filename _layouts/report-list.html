@@ -6,7 +6,7 @@ layout: base
   <h1> {{ page.title }}</h1>
   {{ content }}
 </section>
-{% assign reports = site.reports | reverse %}
+{% assign reports = site[page.collection] | reverse %}
 {% for report in reports %}
 <section class="usa-section usa-grid pclob-report">
   <p>{{ report.date | date: "%B %e, %Y" }}</p>
