@@ -1,12 +1,16 @@
 ---
 layout: base
 ---
-<div class="usa-grid usa-section usa-content" id="main" tabindex="-1">
-  <div class="usa-width-one-whole usa-content">
+<div id="main" tabindex="-1">
+<div class="usa-grid usa-section usa-content">
     <p class="date_published-on">{{ page.date | date: "%B %e, %Y" }}</p>
-    <h1 class="page-title">{% if page.short-title %} {{ page.short-title }} {% else %}{{ page.title }}{% endif %}</h1>
-  </div>
-  <div class="usa-width-one-whole usa-content">
+    <h1 class="page-title">{% if page.short-title %}{{ page.short-title }}{% else %}{{ page.title }}{% endif %}</h1>
+  {% assign width = "usa-width-one-whole" %}
+  {% if page.related %}
+  {% assign width = "usa-width-two-thirds" %}
+  {% endif %}
+
+  <div class="{{ width }} usa-content">
     <p class="usa-font-lead">{{ page.summary }}</p>
 
   {% if page.attachments %}
@@ -20,8 +24,24 @@ layout: base
     </ul>
   </aside>
   {% endif %}
-
-  {{ content }}
+  </div>
+  {% if page.related %}
+    <div class="usa-width-one-third sidebar">
+      <h3>Related documents</h3>
+      <ul class="usa-unstyled-list">
+      {% for item in page.related %}
+        {% assign collection = site[item.collection] | where: 'slug', item.slug %}
+        {% for article in collection %}
+          <li><a href="{{ article.url }}">{{ article.date | date: "%B %e, %Y" }} {{ item.title | downcase }}</a></li>
+        {% endfor %}
+      {% endfor %}
+      </ul>
+    </div>
+  {% endif %}
+</div>
+<div class="usa-grid usa-section usa-content">
+  <div class="usa-width-one-whole">
+    {{ content }}
   </div>
 
 </div>

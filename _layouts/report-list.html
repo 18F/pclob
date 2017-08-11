@@ -6,7 +6,7 @@ layout: base
   <h1> {{ page.title }}</h1>
   {{ content }}
 </section>
-{% for report in site.data.oversight-reports %}
+{% for report in site.reports %}
 <section class="usa-section usa-grid pclob-report">
   <h3>{{ report.title }}</h3>
   {% for statement in report.related-statements %}

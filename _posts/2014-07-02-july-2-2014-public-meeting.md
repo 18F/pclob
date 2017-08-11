@@ -15,6 +15,7 @@ links:
   - text: Meeting Transcript
     url: /library/20140702-Transcript.pdf
 permalink: /events/2014/july02.html
+slug: oversight-report-702-meeting
 title: 'July 2, 2014 Public Meeting'
 ---
 # July 2, 2014 Public Meeting
