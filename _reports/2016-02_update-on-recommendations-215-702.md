@@ -1,20 +1,21 @@
 ---
 layout: report
-title: Update on Government's Implementation of the PCLOB Recommendations on Section 215 and Section 702
-permalink: /reports/update-on-215-702/
+title: "Update on Government's Implementation of the PCLOB Recommendations on Section 215 and Section 702"
+permalink: /reports/2016-update-on-215-702/
 featured: true
-slug: oversight-report-assessment-2015
-date: January 29, 2015
-summary: To mark the one-year anniversary of its report on the Section 215 telephone records program and the six-month anniversary of its report on the Section 702 surveillance program, the Privacy and Civil Liberties Oversight Board released an assessment of the implementation of its recommendations. In its two reports, the Board made a total of 22 recommendations directed at the Executive Branch, Congress, and the Foreign Intelligence Surveillance Court. In its assessment, the Board discusses the status of each recommendation’s implementation.
+slug: oversight-report-implementation-update-2016
+title: PCLOB Releases Update on Government's Implementation of the PCLOB Recommendations on Section 215 and Section 702
+date: February 5, 2016
+summary: The bipartisan Privacy and Civil Liberties Oversight Board (PCLOB) has released a report that provides an update on the progress the government has made toward implementing agency recommendations. The "Recommendations Assessment Report" outlines the status of 22 recommendations PCLOB made as part of two separate reports.
 attachments:
-  - url: /library/Recommendations_Assessment_Report_20160205.pdf
-    title: Download the report
-  - url: /library/Recommendations_Assessment_FactSheet_20160205.pdf
-    title: Download the fact sheet
+    - url: /library/Recommendations_Assessment_Report_20160205.pdf
+      title: Download the report
+    - url: /library/Recommendations_Assessment_FactSheet_20160205.pdf
+      title: Download the fact sheet
 related:
-  - slug: oversight-report-assessment-2015-press-release
-    title: Press release
-    collection: posts
+    - slug: oversight-report-implementation-update-2016-press-release
+      title: Press release
+      collection: posts
 ---
 ## Introduction
 In 2014, the Privacy and Civil Liberties Oversight Board (“PCLOB”) issued reports on

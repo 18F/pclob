@@ -16,6 +16,7 @@ permalink: /newsroom/20150129.html
 title: >-
   Privacy and Civil Liberties Oversight Board Releases Recommendation Assessment
   Report
+slug: oversight-report-assessment-2015-press-release
 ---
 ## Privacy and Civil Liberties Oversight Board Releases Recommendation Assessment Report
 
