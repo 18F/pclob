@@ -107,6 +107,8 @@ collections:
     output: true
   reports:
     output: true
+  statements:
+    output: false
   board:
     output: true
 

@@ -9,6 +9,7 @@ excerpt: >-
 layout: post
 links: []
 permalink: /newsroom/20140627.html
+slug: oversight-report-702-press-release
 title: PCLOB Public Meeting on Section 702 Report
 ---
 ## July 2: PCLOB Public Meeting on Section 702 Report

@@ -1,0 +1,43 @@
+---
+layout: base
+---
+<div id="main" tabindex="-1">
+<div class="usa-grid usa-section usa-content">
+    <p class="date_published-on">{{ page.date | date: "%B %e, %Y" }}</p>
+    <h1 class="page-title">{% if page.short-title %}{{ page.short-title }}{% else %}{{ page.title }}{% endif %}</h1>
+  {% assign width = "usa-width-one-whole" %}
+  {% if page.related %}
+  {% assign width = "usa-width-two-thirds" %}
+  {% endif %}
+
+  <div class="{{ width }} usa-content">
+    <p class="usa-font-lead">{{ page.summary }}</p>
+
+  {% if page.attachments %}
+  <aside>
+    {% for document in page.attachments %}
+      <a class="usa-button document--download" href="{{ document.url | prepend: site.baseurl }}">{{ document.title }} {% if document.format %}({{ document.format }}){% endif %}</a>
+    {% endfor %}
+  </aside>
+  {% endif %}
+  </div>
+  {% if page.related %}
+    <div class="usa-width-one-third sidebar">
+      <h3>Related documents</h3>
+      <ul class="usa-unstyled-list">
+      {% for item in page.related %}
+        {% assign collection = site[item.collection] | where: 'slug', item.slug %}
+        {% for article in collection %}
+          <li><a href="{{ article.url }}">{{ article['title'] }}</a> ({{ article['date'] | date: "%B %e, %Y" }}) </li>
+        {% endfor %}
+      {% endfor %}
+      </ul>
+    </div>
+  {% endif %}
+</div>
+<div class="usa-grid usa-section usa-content">
+  <div class="usa-width-one-whole">
+    {{ content }}
+  </div>
+
+</div>

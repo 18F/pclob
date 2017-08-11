@@ -1,0 +1,18 @@
+---
+layout: report
+slug: oversight-report-section-702
+permalink: /reports/report-702/
+featured: true
+title: Report on the Surveillance Program Operated Pursuant to Section 702 of the Foreign Intelligence Surveillance Act
+date: July 2, 2014
+summary: The Board's report on the surveillance program directed at international telephone and internet communications conducted under Section 702 of the Foreign Intelligence Surveillance Act. The report provides descriptive, legal, and policy analysis of the program and offers ten recommendations to further ensure the protection of privacy and civil liberties.
+attachments:
+  - url: /library/702-Report-2.pdf
+    title: Download the report
+    format: PDF
+related:
+  - slug: oversight-report-702-press-release
+    collection: posts
+  - slug: oversight-report-702-meeting
+    collection: posts
+---

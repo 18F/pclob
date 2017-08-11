@@ -6,19 +6,12 @@ layout: base
   <h1> {{ page.title }}</h1>
   {{ content }}
 </section>
-{% for report in site.data.oversight-reports %}
+{% assign reports = site.reports | reverse %}
+{% for report in reports %}
 <section class="usa-section usa-grid pclob-report">
+  <p>{{ report.date | date: "%B %e, %Y" }}</p>
   <h3>{{ report.title }}</h3>
-  {% for statement in report.related-statements %}
-  <a href="{{ statement.permalink | prepend: site.baseurl }}">{{ statement.title }}</a>
-  {% endfor %}
-  {% if report.thumbnail %}
-  <a href="{{ report.permalink | prepend: site.baseurl }}"><img src="{{ report.thumbnail | prepend: site.baseurl }}" /></a>
-  {% endif %}
   <p>{{ report.summary }}</p>
   <a class="usa-button" href="{{ report.permalink | prepend: site.baseurl}}">Read the report</a>
-  {% for attachment in report.attachments %}
-    <a href="{{ attachment.url | prepend: site.baseurl }}">{{ attachment.title }}</a>
-  {% endfor %}
 </section>
 {% endfor %}
