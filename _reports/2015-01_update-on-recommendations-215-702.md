@@ -13,6 +13,5 @@ attachments:
     title: Download the fact sheet
 related:
   - slug: oversight-report-assessment-2015-press-release
-    title: Press release
     collection: posts
 ---

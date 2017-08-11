@@ -15,7 +15,7 @@ layout: base
   <p><em>{{ report.date | date: "%B %e, %Y" }}</em></p>
   {% endif %}
   <p>{{ report.description }}</p>
-  <ul>
+  <ul class="usa-unstyled-list">
     {% for link in report.links %}
       {% assign first_char = link.url | truncate: 1, '' %}
       {% if first_char == '/' %}

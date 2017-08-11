@@ -14,7 +14,6 @@ attachments:
       title: Download the fact sheet
 related:
     - slug: oversight-report-implementation-update-2016-press-release
-      title: Press release
       collection: posts
 ---
 ## Introduction
