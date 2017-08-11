@@ -105,7 +105,9 @@ exclude:
 collections:
   posts:
     output: true
-  reports:
+  oversight-reports:
+    output: true
+  semiannual-reports:
     output: true
   statements:
     output: false

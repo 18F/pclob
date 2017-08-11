@@ -3,14 +3,14 @@ layout: base
 ---
 
 <section class="usa-section usa-grid">
-  <h1> {{ page.title }}</h1>
+  <h1>{{ page.title }}</h1>
   {{ content }}
 </section>
-{% assign reports = site.reports | reverse %}
+{% assign reports = site[page.collection] | reverse %}
 {% for report in reports %}
 <section class="usa-section usa-grid pclob-report">
-  <p>{{ report.date | date: "%B %e, %Y" }}</p>
-  <h3>{{ report.title }}</h3>
+  <p class="document--date">{{ report.date | date: "%B %e, %Y" }}</p>
+  <h3><a href="{{ report.permalink | prepend: site.baseurl}}">{{ report.title }}</a></h3>
   <p>{{ report.summary }}</p>
   <a class="usa-button" href="{{ report.permalink | prepend: site.baseurl}}">Read the report</a>
 </section>
