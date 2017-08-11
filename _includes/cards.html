@@ -1,10 +1,5 @@
----
-layout: page
----
-{{ content }}
-
 <div class="report-container">
-{% for report in site.reports %}
+{% for report in site.oversight-reports %}
   {% if report.featured %}
     <article class="card usa-width-one-third">
       <a class="card-link" href="{{ report.url | prepend: site.baseurl }}" aria-hidden="true" tabindex="-1"></a>
@@ -21,7 +16,7 @@ layout: page
         <h3 class="card-description">
           <span>{{ report.title }}</span>
         </h3>
-        <p class="card-summary">{{ report.description }}</p>
+        <p class="card-summary">{{ report.summary }}</p>
       </div>
       <a class="card-read" href="{{ report.url | prepend: site.baseurl }}">
         Read more
