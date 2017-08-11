@@ -28,7 +28,7 @@ layout: base
       {% for item in page.related %}
         {% assign collection = site[item.collection] | where: 'slug', item.slug %}
         {% for article in collection %}
-          <li><a href="{{ article.url }}">{{ item.title }}</a> ({{ article.date | date: "%B %e, %Y" }}) </li>
+          <li><a href="{{ article.url }}">{{ article['title'] }}</a> ({{ article['date'] | date: "%B %e, %Y" }}) </li>
         {% endfor %}
       {% endfor %}
       </ul>
