@@ -15,13 +15,9 @@ layout: base
 
   {% if page.attachments %}
   <aside>
-    <ul class="usa-unstyled-list">
     {% for document in page.attachments %}
-    <li>
       <a class="usa-button document--download" href="{{ document.url | prepend: site.baseurl }}">{{ document.title }} {% if document.format %}({{ document.format }}){% endif %}</a>
-    </li>
     {% endfor %}
-    </ul>
   </aside>
   {% endif %}
   </div>
