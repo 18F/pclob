@@ -1,24 +1,20 @@
 ---
-layout: project
+layout: report
 title: Update on Government's Implementation of the PCLOB Recommendations on Section 215 and Section 702
-description: All of the PCLOB’s 22 recommendations have been implemented in full or in part, or the relevant government agency has taken significant steps toward adoption and implementation.
-published_on: Feb. 5, 2016
-permalink: /projects/update-on-215-702/
-tags: project
+permalink: /reports/update-on-215-702/
 featured: true
-image:
-image-credit:
-documents:
-    - title: "Feb. 5, 2016 Press Release"
-      url: "url.com"
-      format:
-    - title: "Fact Sheet: PCLOB Recommendations Implemented by the Government"
-      url: "url.com"
-      format: pdf
-    - title: "Download Report"
-      url: "url.com"
-      format: pdf
-
+slug: oversight-report-assessment-2015
+date: January 29, 2015
+summary: To mark the one-year anniversary of its report on the Section 215 telephone records program and the six-month anniversary of its report on the Section 702 surveillance program, the Privacy and Civil Liberties Oversight Board released an assessment of the implementation of its recommendations. In its two reports, the Board made a total of 22 recommendations directed at the Executive Branch, Congress, and the Foreign Intelligence Surveillance Court. In its assessment, the Board discusses the status of each recommendation’s implementation.
+attachments:
+  - url: /library/Recommendations_Assessment_Report_20160205.pdf
+    title: Download the report
+  - url: /library/Recommendations_Assessment_FactSheet_20160205.pdf
+    title: Download the fact sheet
+related:
+  - slug: oversight-report-assessment-2015-press-release
+    title: Press release
+    collection: posts
 ---
 ## Introduction
 In 2014, the Privacy and Civil Liberties Oversight Board (“PCLOB”) issued reports on
@@ -99,7 +95,7 @@ Implemented (USA FREEDOM Act)**
 
 _Text of the Board’s Recommendation:_
 
-The government should end its Section 215 bulk telephone records program.
+The government should end its Section 215 bulk telephone records program. (1)
 
 _Explanation for the Recommendation:_
 The Board concluded that the Section 215 bulk telephone records program lacks a viable
@@ -119,6 +115,9 @@ To obtain call detail records under the new system, the government must identify
 and it can obtain only records of calls up to two “hops” from that number, with FISC
 approval. The NSA began operation of the new system on November 30, 2015.
 
+_(1) Board Members Rachel Brand and Elisebeth Collins did not join this recommendation._
+
+
 ### Recommendation 2: Immediately Add Additional Privacy Safeguards to the Bulk Telephone Records Program
 **Status:
 Implemented in part; Superseded by USA FREEDOM Act**
@@ -126,8 +125,6 @@ Implemented in part; Superseded by USA FREEDOM Act**
 _Text of the Board’s Recommendation:_
 The government should immediately implement additional privacy safeguards in operating
 the Section 215 bulk collection program.
-
-Board Members Rachel Brand and Elisebeth Collins did not join this recommendation.
 
 _Explanation for the Recommendation:_
 The Board recommended that the government immediately implement several additional
@@ -195,16 +192,16 @@ November 2015, the FISC designated a standing panel of five individuals to serve
 curiae as required under the Act.
 
 
-Recommendation 4: Expand Opportunities for Appellate Review of FISC
-Decisions
-Status:
-Implemented (USA FREEDOM Act)
-Text of the Board’s Recommendation:
+### Recommendation 4: Expand Opportunities for Appellate Review of FISC Decisions
+**Status:
+Implemented (USA FREEDOM Act)**
+
+**Text of the Board’s Recommendation:**
 Congress should enact legislation to expand the opportunities for appellate review of FISC
 decisions by the FISCR and for review of FISCR decisions by the Supreme Court of the
 United States.
-6
-Explanation for the Recommendation:
+
+**Explanation for the Recommendation:**
 Over the past decade, the FISC has generated a significant body of law interpreting FISA
 authorities and other potentially applicable statutes, and analyzing related constitutional
 questions. However, FISC opinions have been much less likely to be subject to appellate
@@ -215,7 +212,8 @@ of the FISCR’s decisions by the Supreme Court of the United States. Providing 
 appellate review of FISC and FISCR rulings will strengthen the integrity of judicial review
 under FISA. Providing a role for the Special Advocate in seeking that appellate review will
 further increase public confidence in the integrity of the process.
-Discussion of Status:
+
+**Discussion of Status:**
 Section 401 of the USA FREEDOM Act expands the opportunities for appellate review of
 FISC decisions by the FISCR and for review of FISCR decisions by the Supreme Court of the
 United States.
@@ -237,12 +235,12 @@ FISC. By contrast, under the USA FREEDOM Act, such participation is permitted on
 the FISCR also determines that the matter presents a novel or significant interpretation of
 the law. The Act also provides that upon certification of a matter to the U.S. Supreme Court,
 the Court “may appoint an amicus curiae” designated under the provisions of the Act.
-7
-Recommendation 5: Take Full Advantage of Existing Opportunities for
-Outside Legal and Technical Input in FISC Matters
-Status:
-Implemented
-Text of the Board’s Recommendation:
+
+### Recommendation 5: Take Full Advantage of Existing Opportunities for Outside Legal and Technical Input in FISC Matters
+**Status:
+Implemented**
+
+**Text of the Board’s Recommendation:**
 The FISC should take full advantage of existing authorities to obtain technical assistance
 and expand opportunities for legal input from outside parties.
 Explanation for the Recommendation:
@@ -252,17 +250,19 @@ connection with initial applications or in compliance reviews. In addition, the 
 FISCR should develop procedures to facilitate amicus participation by third parties in cases
 involving questions that are of broad public interest, where it is feasible to do so consistent
 with national security.
-Discussion of Status:
+
+**Discussion of Status:**
 As described in connection with Recommendation 3 above, the FISC has obtained legal
 input from outside experts pursuant to the USA FREEDOM Act. Further, based on
 conversations with FISA court personnel, the Board understands that efforts are underway
 for the court to designate one or more individuals to serve as amici who have technical
 expertise, in addition to the already appointed panel of individuals with legal expertise.
-Recommendation 6: Publicly Release New FISC and FISCR Decisions that
-Involve Novel Legal, Technical, or Compliance Questions
-Status:
-Implemented
-Text of the Board’s Recommendation:
+
+### Recommendation 6: Publicly Release New FISC and FISCR Decisions that Involve Novel Legal, Technical, or Compliance Questions
+**Status:
+Implemented**
+
+**Text of the Board’s Recommendation:**
 To the maximum extent consistent with national security, the government should create
 and release with minimal redactions declassified versions of new decisions, orders and
 opinions by the FISC and FISCR in cases involving novel interpretations of FISA or other
@@ -270,11 +270,11 @@ significant questions of law, technology or compliance.
 Explanation for the Recommendation:
 FISC judges should continue their recent practice of drafting opinions in cases involving
 novel issues and other significant decisions in the expectation that declassified versions 
-8
 will be released to the public. This practice has facilitated declassification review. The
 government should promptly create and release declassified versions of these FISC
 opinions.
-Discussion of Status:
+
+**Discussion of Status:**
 The government has continued to declassify and release additional opinions over the past
 year. In addition, the USA FREEDOM Act now requires that the government will conduct a
 declassification review of each new decision of the FISC and FISCR “that includes a
@@ -284,16 +284,18 @@ detail records, and that the government will make declassified versions of these
 publicly available to the greatest extent practicable. The Board also notes that the FISA
 court maintains its own website where, at least since April 2014, it has been posting public
 filings including briefs and declassified opinions and orders.
-Recommendation 7: Publicly Release Past FISC and FISCR Decisions that
-Involve Novel Legal, Technical, or Compliance Questions
-Status:
-Being implemented
-Text of the Board’s Recommendation:
+
+### Recommendation 7: Publicly Release Past FISC and FISCR Decisions that Involve Novel Legal, Technical, or Compliance Questions
+**Status:
+Being implemented**
+
+**Text of the Board’s Recommendation:**
 Regarding previously written opinions, the government should perform a declassification
 review of decisions, orders and opinions by the FISC and FISCR that have not yet been
 released to the public and that involve novel interpretations of FISA or other significant
 questions of law, technology or compliance.
-Explanation for the Recommendation:
+
+**Explanation for the Recommendation:**
 The government should create and release declassified versions of older opinions in novel
 or significant cases to the greatest extent possible consistent with protection of national
 security. This should cover programs that have been discontinued, where the legal
@@ -305,55 +307,58 @@ acknowledges the cumulative burden of these transparency recommendations, especi
 as the burden of review for declassification may fall on the same individuals who are
 responsible for preparing new FISA applications, overseeing compliance with existing
 orders, and carrying out other duties. The Board urges the government to develop and 
-9
 announce some prioritization plan or approach. We recommend beginning with opinions
 describing the legal theories relied upon for widespread collection of metadata from
 Americans not suspected of terrorist affiliations, to be followed by opinions involving
 serious compliance issues.
-Discussion of Status:
+
+**Discussion of Status:**
 The Intelligence Community has continued to declassify and release previously issued FISC
 decisions and related materials over the past year. These have been posted both on the
 FISA court’s website and on the Intelligence Community’s website, IC on the Record.
 The Intelligence Community has advised us that it remains committed to implementing this
 recommendation, and that it will continue to conduct declassification reviews of both older
 and more recent opinions.
-Recommendation 8: Publicly Report on the Operation of the FISC Special
-Advocate Program
-Status:
-Implemented (USA FREEDOM Act)
-Text of the Board’s Recommendation:
+
+### Recommendation 8: Publicly Report on the Operation of the FISC Special Advocate Program
+**Status:
+Implemented (USA FREEDOM Act)**
+
+**Text of the Board’s Recommendation:**
 The Attorney General should regularly and publicly report information regarding the
 operation of the Special Advocate program recommended by the Board. This should
 include statistics on the frequency and nature of Special Advocate participation in FISC and
 FISCR proceedings.
-Explanation for the Recommendation:
+
+**Explanation for the Recommendation:**
 Should the government adopt our recommendation for a Special Advocate in the FISC, the
 nature of that advocate’s role must be transparent to be effective. The FISC should publicly
 disclose any rules the court adopts governing the advocate’s participation in proceedings.
 In addition, the Attorney General should regularly and publicly report statistics on the
 frequency of Special Advocate participation, including the number of times Special
 Advocates have sought review of FISC decisions in the FISCR and the U.S. Supreme Court.
-Discussion of Status:
+
+**Discussion of Status:**
 Section 603 of the USA FREEDOM Act requires the Administrative Office of the United
 States Courts annually to report to the intelligence and judiciary committees of Congress on
 the number of times that an amicus curiae is appointed, the identity of the appointee, the
 number of times that a FISC judge determines that participation of an amicus curiae is not
 appropriate, and the text of the written findings supporting such determinations. The Act 
-10
 also requires that this information be reported publicly — except for any written findings
 supporting any decision not to appoint an amicus curiae.
-Recommendation 9: Permit Companies to Disclose Information about
-Their Receipt of FISA Production Orders, and Disclose More Detailed
-Statistics on Surveillance
-Status:
-Implemented (USA FREEDOM Act)
-Text of the Board’s Recommendation:
+
+### Recommendation 9: Permit Companies to Disclose Information about Their Receipt of FISA Production Orders, and Disclose More Detailed Statistics on Surveillance
+**Status:
+Implemented (USA FREEDOM Act)**
+
+**Text of the Board’s Recommendation:**
 The government should work with Internet service providers and other companies that
 regularly receive FISA production orders to develop rules permitting the companies to
 voluntarily disclose certain statistical information. In addition, the government should
 publicly disclose more detailed statistics to provide a more complete picture of government
 surveillance operations.
-Explanation for the Recommendation:
+
+**Explanation for the Recommendation:**
 One important way to understand and assess any government program is numerically — to
 categorize its critical elements and count them. Periodic public reporting on surveillance
 programs is a valuable tool promoting accountability and public understanding. We believe
@@ -370,21 +375,23 @@ information. To ensure that government reports are meaningful, the government wo
 have to distinguish between particularized programs and those involving bulk collection. In
 the case of targeted programs, the government should disclose how many orders have been
 issued and how many individuals have been targeted.
-Discussion of Status:
+
+**Discussion of Status:**
 Title VI of the USA FREEDOM Act both requires further public reporting by the government
 and permits further transparency reporting by private companies, and thus covers both
 parts of the Board’s recommendation.
-11
-Recommendation 10: Inform the PCLOB of FISA Activities and Provide
-Relevant Congressional Reports and FISC Decisions
-Status:
-Being implemented
-Text of the Board’s Recommendation:
+
+### Recommendation 10: Inform the PCLOB of FISA Activities and Provide Relevant Congressional Reports and FISC Decisions
+**Status:
+Being implemented**
+
+**Text of the Board’s Recommendation:**
 The Attorney General should fully inform the PCLOB of the government’s activities under
 FISA and provide the PCLOB with copies of the detailed reports submitted under FISA to
 the specified committees of Congress. This should include providing the PCLOB with copies
 of the FISC decisions required to be produced under Section 601(a)(5) [of FISA].
-Explanation for the Recommendation:
+
+**Explanation for the Recommendation:**
 Beyond public reporting, FISA requires the Attorney General to “fully inform” the Senate
 and House intelligence and judiciary committees regarding the government’s activities
 under certain sections of FISA, including Section 215. FISA also requires the government to
@@ -393,7 +400,8 @@ the FISC or FISCR that include “significant construction or interpretation” 
 of FISA. These two reporting requirements facilitate congressional oversight. The Board
 urges the government to extend this complete reporting to the PCLOB as well, to facilitate
 the Board’s oversight role.
-Discussion of Status:
+
+**Discussion of Status:**
 The Intelligence Community and the Justice Department have provided the PCLOB with
 many of the congressional reports and FISC decisions described above. Although not all
 such documents have yet been provided, the Intelligence Community and the Justice
@@ -401,14 +409,16 @@ Department have also taken steps to implement a standing production system, unde
 which documents submitted to Congress will be routinely provided to PCLOB as well. The
 Justice Department made the first production to PCLOB in what has been represented to be
 a new standing production system in January 2016.
-Recommendation 11: Begin to Develop Principles for Transparency
-Status:
-Implemented
-Text of the Board’s Recommendation:
+
+### Recommendation 11: Begin to Develop Principles for Transparency
+**Status:
+Implemented**
+
+**Text of the Board’s Recommendation:**
 The Board urges the government to begin developing principles and criteria for
 transparency.
-12
-Explanation for the Recommendation:
+
+**Explanation for the Recommendation:**
 Transparency is one of the foundations of democratic governance. Our constitutional
 system of government relies upon the participation of an informed electorate. This in turn
 requires public access to information about the activities of the government. Transparency
@@ -418,19 +428,22 @@ measures outlined in Recommendations 6 through 10, the Board urges the Administr
 to commence the process of articulating principles and criteria for deciding what must be
 kept secret and what can be released as to existing and future programs that affect the
 American public.
-Discussion of Status:
+
+**Discussion of Status:**
 In February 2015, the Office of the Director of National Intelligence (“ODNI”) released
 Principles of Intelligence Transparency for the Intelligence Community describing four
 broad principles to guide the Intelligence Community’s work. On October 27, 2015, the
 ODNI released an Implementation Plan for these principles, setting forth a series of
 priorities and action items.
-Recommendation 12: Disclose the Scope of Surveillance Authorities
-Affecting Americans
-Status:
-Being implemented
-Text of the Board’s Recommendation:
-The scope of surveillance authorities affecting Americans should be public.2
-Explanation for the Recommendation:
+
+### Recommendation 12: Disclose the Scope of Surveillance Authorities Affecting Americans
+**Status:
+Being implemented**
+
+**Text of the Board’s Recommendation:**
+The scope of surveillance authorities affecting Americans should be public. (2)
+
+**Explanation for the Recommendation:**
 The Administration should develop principles and criteria for the public articulation of the
 legal authorities under which it conducts surveillance affecting Americans. If the text of the
 statute itself is not sufficient to inform the public of the scope of asserted government
@@ -442,15 +455,14 @@ between “the purposes and framework” of surveillance authorities and factual
 specific to individual persons or operations. While sensitive operational details regarding
 the conduct of government surveillance programs should remain classified, and while legal
 
-2 Board Members Rachel Brand and Elisebeth Collins did not join this recommendation.
-13
 interpretations of the application of a statute in a particular case may also be secret so long
 as the use of that technique in a particular case is secret, the government’s interpretations
 of statutes that provide the basis for ongoing surveillance programs affecting Americans
 can and should be made public. This includes intended uses of broadly worded authorities
 at the time of enactment as well as post-enactment novel interpretations of laws already on
 the books.
-Discussion of Status:
+
+**Discussion of Status:**
 Intelligence Community representatives have continued to advise us that they are
 committed to implementing this recommendation, as reflected in the transparency
 principles described above. In our Recommendations Assessments Report last year, we
@@ -463,13 +475,15 @@ agency’s implementation of the USA FREEDOM Act.
 While the broad nature of our recommendation makes it difficult for us to assess its
 implementation, we believe that key leadership within the Intelligence Community is
 committed to implementation.
-14
-SECTION 702 REPORT RECOMMENDATIONS
-Recommendation 1: Revise NSA Procedures to Better Document the
-Foreign Intelligence Reason for Targeting Decisions
-Status:
-Implemented in part
-Text of the Board’s Recommendation:
+
+_(2) Board Members Rachel Brand and Elisebeth Collins did not join this recommendation._
+
+## Section 702 Report Recommendations
+### Recommendation 1: Revise NSA Procedures to Better Document the Foreign Intelligence Reason for Targeting Decisions
+**Status:
+Implemented in part**
+
+**Text of the Board’s Recommendation:**
 The NSA’s targeting procedures should be revised to (a) specify criteria for determining the
 expected foreign intelligence value of a particular target, and (b) require a written
 explanation of the basis for that determination sufficient to demonstrate that the targeting
@@ -487,7 +501,8 @@ audits performed by the ODNI and DOJ, should include an assessment of compliance
 the foreign intelligence purpose requirement comparable to the review currently
 conducted of compliance with the requirement that targets are reasonably believed to be
 non-U.S. persons located outside the United States.
-Explanation for the Recommendation:
+
+**Explanation for the Recommendation:**
 This recommendation is designed to ensure that when the NSA selects a target for
 surveillance under Section 702, a valid foreign intelligence purpose supports the targeting
 decision.
@@ -499,7 +514,6 @@ documenting and reviewing the foreign intelligence purpose of a targeting decisi
 as rigorous, and typically agency personnel indicate what category of foreign intelligence
 information they expect to obtain from targeting a particular person in a single brief
 sentence that contains only minimal information about why the analyst believes that 
-15
 targeting this person will yield foreign intelligence information. However, the “foreign
 intelligence purpose” determination is a critical part of the statutory framework under
 Section 702. Changes to the targeting procedures that provide more guidance to analysts
@@ -508,7 +522,8 @@ help analysts better articulate this element of their targeting decisions. When 
 articulate at greater length the bases for their targeting decisions, the executive branch
 oversight team that later reviews those decisions will be better equipped to meaningfully
 review them.
-Discussion of Status:
+
+**Discussion of Status:**
 As part of the annual certification process for the Section 702 program, the government
 submitted revised NSA targeting procedures for approval by the FISC. These revised
 procedures included changes designed to address Recommendation 1 of the Board’s
@@ -530,21 +545,20 @@ review of the written explanations documenting the foreign intelligence purpose 
 targeting determinations. This has facilitated the oversight team’s assessment of whether
 the individual targeting decisions made by NSA analysts under Section 702 were justified
 by a foreign intelligence purpose.
-16
-Recommendation 2: Update the FBI’s Minimization Procedures to
-Accurately Reflect the Bureau’s Querying of Section 702 Data for Non–
-Foreign Intelligence Matters, and Place Additional Limits on the FBI’s
-Use of Section 702 Data in Such Matters
-Status:
-Implemented
-Text of the Board’s Recommendation:
+
+### Recommendation 2: Update the FBI’s Minimization Procedures to Accurately Reflect the Bureau’s Querying of Section 702 Data for Non–Foreign Intelligence Matters, and Place Additional Limits on the FBI’s Use of Section 702 Data in Such Matters
+**Status:
+Implemented**
+
+**Text of the Board’s Recommendation:**
 The FBI’s minimization procedures should be updated to more clearly reflect the actual
 practice for conducting U.S. person queries, including the frequency with which Section 702
 data may be searched when making routine queries as part of FBI assessments and
 investigations. Further, some additional limits should be placed on the FBI’s use and
 dissemination of Section 702 data in connection with non–foreign intelligence criminal
-matters.3
-Explanation for the Recommendation:
+matters. (3)
+
+**Explanation for the Recommendation:**
 Even though FBI analysts and agents who solely work on non–foreign intelligence crimes
 are not required to conduct queries of databases containing Section 702 data, they are
 permitted to conduct such queries and many do conduct such queries. This is not clearly
@@ -560,31 +574,31 @@ Discussion of Status:
 As part of the annual certification process for the Section 702 program, the government
 submitted revised FBI minimization procedures for approval by the FISC. These revised
 procedures included changes designed to address Recommendation 2 of the Board’s
+Section 702 report. The court approved these revised procedures as part of the annual
+certification process.
+The Board agrees that the changes implement the Board’s recommendation.
 
-3 Board Chairman David Medine and Board Member Patricia Wald joined this recommendation but in
+_(3) Board Chairman David Medine and Board Member Patricia Wald joined this recommendation but in
 a separate statement recommended requiring judicial approval for the FBI’s use of Section 702 data in non–
 foreign intelligence matters. Board Members Rachel Brand and Elisebeth Collins would require an analyst
 who has not had FISA training to seek supervisory approval before viewing responsive 702 information and
 would require higher-level Justice Department approval before Section 702 information could be used in the
-investigation or prosecution of a non–foreign intelligence crime.
-17
-Section 702 report. The court approved these revised procedures as part of the annual
-certification process.
-The Board agrees that the changes implement the Board’s recommendation.
-Recommendation 3: Require NSA and CIA Personnel to Provide a
-Statement of Facts Explaining their Foreign Intelligence Purpose Before
-Querying Section 702 Data Using U.S. Person Identifiers, and Develop
-Written Guidance on Applying this Standard
-Status:
-Being implemented
-Text of the Board’s Recommendation:
+investigation or prosecution of a non–foreign intelligence crime._
+
+
+### Recommendation 3: Require NSA and CIA Personnel to Provide a Statement of Facts Explaining their Foreign Intelligence Purpose Before Querying Section 702 Data Using U.S. Person Identifiers, and Develop Written Guidance on Applying this Standard
+**Status:
+Being implemented**
+
+**Text of the Board’s Recommendation:**
 The NSA and CIA minimization procedures should permit the agencies to query collected
 Section 702 data for foreign intelligence purposes using U.S. person identifiers only if the
 query is based upon a statement of facts showing that it is reasonably likely to return
 foreign intelligence information as defined in FISA. The NSA and CIA should develop
 written guidance for agents and analysts as to what information and documentation is
-needed to meet this standard, including specific examples.4
-Explanation for the Recommendation:
+needed to meet this standard, including specific examples.(4)
+
+**Explanation for the Recommendation:**
 Under the NSA and CIA minimization procedures for the Section 702 program, analysts are
 permitted to perform queries of databases that hold communications acquired under
 Section 702 using query terms that involve U.S. person identifiers. Such queries are
@@ -595,18 +609,12 @@ the exception of metadata queries at the CIA, which are not reviewed by the over
 team), we believe that NSA and CIA analysts, before conducting a query involving a U.S.
 person identifier, should provide a statement of facts illustrating why they believe the
 query is reasonably likely to return foreign intelligence information.
-5 Implementing these
+(5) Implementing these
 measures will help to ensure that analysts at the NSA and CIA do not access or view
 communications acquired under Section 702 that involve or concern U.S. persons when
 there is no valid foreign intelligence reason to do so.
 
-4 Board Chairman David Medine and Board Member Patricia Wald joined this recommendation but in
-a separate statement recommended requiring judicial approval for the use of U.S. person queries of Section
-702 data for foreign intelligence purposes.
-5 Board Member Elisebeth Collins would not extend a new requirement to this effect to metadata
-queries.
-18
-Discussion of Status:
+**Discussion of Status:**
 As part of the annual certification process for the Section 702 program, the government
 submitted revised NSA and CIA minimization procedures for approval by the FISC. These
 revised procedures included changes designed to address Recommendation 3 of the
@@ -620,17 +628,26 @@ metadata queries using U.S. person identifiers, the CIA accepted and plans to im
 this recommendation as it refines internal processes for data management. Thus, the CIA’s
 new minimization procedures do not reflect changes to implement this recommendation
 with regard to metadata queries.
-Recommendation 4: Provide the FISC with Documentation of Section
-702 Targeting Decisions and U.S. Person Queries
-Status:
-Substantially implemented
-Text of the Board’s Recommendation:
+
+_(4) Board Chairman David Medine and Board Member Patricia Wald joined this recommendation but in
+a separate statement recommended requiring judicial approval for the use of U.S. person queries of Section
+702 data for foreign intelligence purposes._
+
+_(5) Board Member Elisebeth Collins would not extend a new requirement to this effect to metadata
+queries._
+
+### Recommendation 4: Provide the FISC with Documentation of Section 702 Targeting Decisions and U.S. Person Queries
+**Status:
+Substantially implemented**
+
+**Text of the Board’s Recommendation:**
 To assist in the FISA court’s consideration of the government’s periodic Section 702
 certification applications, the government should submit with those applications a random
 sample of tasking sheets and a random sample of the NSA’s and CIA’s U.S. person query
 terms, with supporting documentation. The sample size and methodology should be
 approved by the FISA court.
-Explanation for the Recommendation:
+
+**Explanation for the Recommendation:**
 Providing a random sample of targeting decisions would allow the FISC to take a
 retrospective look at the targets selected over the course of a recent period of time. The
 data could help inform the FISA court’s review process by providing some insight into
@@ -639,7 +656,6 @@ purpose” requirements, and it could signal to the court that changes to the ta
 procedures may be needed, or prompt inquiry into that question. The data could provide
 verification that the government’s representations during the previous certification
 approval were accurate, and it could supply the FISC with more information to use in 
-19
 determining whether the government’s acquisitions comply with the statute and the
 Fourth Amendment.
 Similarly, a retrospective sample of U.S. person query terms and supporting documentation
@@ -651,7 +667,8 @@ to rigorous executive branch oversight (with the exception of metadata queries a
 supplying this additional information to the FISC could help guide the court by highlighting
 whether the minimization procedures are being followed and whether changes to those
 procedures are needed.
-Discussion of Status:
+
+**Discussion of Status:**
 The government proposed possible sampling methodologies to the FISC, and provided the
 FISC’s legal staff as well as the court’s judges with a briefing during which they reviewed a
 sample of tasking sheets and a sample of U.S. person queries. In its Memorandum Opinion
@@ -668,13 +685,12 @@ oversight efforts with respect to Section 702 collection are robust.
 In considering the recertification of the Section 702 program, the FISC did not make any
 decision on a sampling methodology. To date the Court has not requested additional
 tasking sheets or queries beyond what was provided in January and May 2015.
-Recommendation 5: Create and Submit to the FISC a Single Consolidated
-Document Describing All Significant Rules Governing Operation of the
-Section 702 Program
-Status:
-Implemented by the executive branch
-20
-Text of the Board’s Recommendation:
+
+### Recommendation 5: Create and Submit to the FISC a Single Consolidated Document Describing All Significant Rules Governing Operation of the Section 702 Program
+**Status:
+Implemented by the executive branch**
+
+**Text of the Board’s Recommendation:**
 As part of the periodic certification process, the government should incorporate into its
 submission to the FISA court the rules for operation of the Section 702 program that have
 not already been included in certification orders by the FISA court, and that at present are
@@ -683,7 +699,7 @@ transcripts, and mandatory reports filed by the government. To the extent that t
 court agrees that these rules govern the operation of the Section 702 program, the FISA
 court should expressly incorporate them into its order approving Section 702
 certifications.
-Explanation for the Recommendation:
+**Explanation for the Recommendation:**
 The government’s operation of the Section 702 program must adhere to the targeting and
 minimization procedures that are approved by the FISA court, as well as to the pertinent
 Attorney General guidelines and the statute itself. The government also makes additional
@@ -698,7 +714,8 @@ memorialized in a single place and incorporated into the FISC’s certification 
 consolidation of rules will also facilitate congressional oversight of the Section 702
 program, and the Board views this recommendation as a measure to promote good
 government.
-Discussion of Status:
+
+**Discussion of Status:**
 During the certification process, the government submitted a “Summary of Notable Section
 702 Requirements” as part of its submission. The document includes references to hearing
 transcripts, compliance letters and reports filed with the FISC, and other relevant
@@ -708,13 +725,12 @@ operation of the Section 702 program, but is intended as a reference guide to pr
 concepts governing the program.” The FISC noted in its Memorandum Opinion and Order
 reauthorizing the Section 702 program that this document had been submitted, but the
 Court did not incorporate the filing into its order or otherwise refer to the filing.
-21
-Recommendation 6: Periodically Assess Upstream Collection
-Technology to Ensure that Only Authorized Communications Are
-Acquired
-Status:
-Implemented
-Text of the Board’s Recommendation:
+
+### Recommendation 6: Periodically Assess Upstream Collection Technology to Ensure that Only Authorized Communications Are Acquired
+**Status:
+Implemented**
+
+**Text of the Board’s Recommendation:**
 To build on current efforts to filter upstream communications to avoid collection of purely
 domestic communications, the NSA and DOJ, in consultation with affected
 telecommunications service providers, and as appropriate, with independent experts,
@@ -722,10 +738,10 @@ should periodically assess whether filtering techniques applied in upstream coll
 utilize the best technology consistent with program needs to ensure government
 acquisition of only communications that are authorized for collection and prevent the
 inadvertent collection of domestic communications.
-Explanation for the Recommendation:
+
+**Explanation for the Recommendation:**
 Upstream collection involves a greater risk that the government will acquire wholly
-domestic communications, which it is not authorized to intentionally collect under Section
-702. Ensuring that the upstream collection process comports with statutory limits and with
+domestic communications, which it is not authorized to intentionally collect under Section 702. Ensuring that the upstream collection process comports with statutory limits and with
 agency targeting procedures involves an important technical process of filtering out wholly
 domestic communications. The government acknowledges, however, that the technical
 methods used to prevent the acquisition of domestic communications do not completely
@@ -737,22 +753,24 @@ the government and in cooperation with telecommunications providers or independe
 experts, to ensure that the means being used to filter for domestic communications use the
 best technology. We also believe that the determination about whether this is the case
 should be continually revisited.
-Discussion of Status:
+
+**Discussion of Status:**
 The NSA conducted a review based upon the Board’s recommendation. The NSA completed
 its review and determined that at this time the best technology is being used for filtering.
 The NSA has advised the Board that it will periodically review whether the existing study
 remains accurate. If technology has changed sufficiently to make the existing study no
 longer accurate, the NSA will conduct a new study.
-22
-Recommendation 7: Examine the Technical Feasibility of Limiting
-Particular Types of “About” Collection
-Status:
-Implemented
-Text of the Board’s Recommendation:
+
+### Recommendation 7: Examine the Technical Feasibility of Limiting Particular Types of “About” Collection
+**Status:
+Implemented**
+
+**Text of the Board’s Recommendation:**
 The NSA periodically should review the types of communications acquired through “about”
 collection under Section 702, and study the extent to which it would be technically feasible
 to limit, as appropriate, the types of “about” collection.
-Explanation for the Recommendation:
+
+**Explanation for the Recommendation:**
 In the upstream collection process, the NSA acquires not only Internet communications
 sent to and from the selector, such as an email address, used by a targeted person, but also
 communications that simply contain reference to the selector, sometimes in the body of the
@@ -777,22 +795,24 @@ hinder the government’s counterterrorism efforts. We therefore recommend that 
 work to develop technology that would enable it to identify and distinguish among the
 types of “about” collection at the acquisition stage, and then selectively limit or modify its
 “about” collection, as may later be deemed appropriate.
-23
-Discussion of Status:
+
+**Discussion of Status:**
 As with the previous recommendation, the NSA conducted a review based upon the Board’s
 recommendation and concluded that no changes are practical at this time. The NSA has
 advised the Board that it will periodically review whether the existing study remains
 accurate. If technology has changed sufficiently to make the existing study no longer
 accurate, the NSA will conduct a new study.
-Recommendation 8: Publicly Release the Current Minimization
-Procedures for the CIA, FBI, and NSA
-Status:
-Implemented
-Text of the Board’s Recommendation:
+
+### Recommendation 8: Publicly Release the Current Minimization Procedures for the CIA, FBI, and NSA
+**Status:
+Implemented**
+
+**Text of the Board’s Recommendation:**
 To the maximum extent consistent with national security, the government should create
 and release, with minimal redactions, declassified versions of the FBI’s and CIA’s Section
 702 minimization procedures, as well as the NSA’s current minimization procedures.
-Explanation for the Recommendation:
+
+**Explanation for the Recommendation:**
 The Board believes that the public would benefit from understanding the procedures that
 govern the acquisition, use, retention, and dissemination of information collected under
 Section 702. The Board respects the government’s need to protect its operational
@@ -801,16 +821,16 @@ accountability to the public that the government serves. Therefore, the Board ur
 government to engage in a declassification review and, to the greatest extent possible
 without jeopardizing national security, release unredacted versions of the FBI, CIA, and
 NSA minimization procedures.
-Discussion of Status:
+
+**Discussion of Status:**
 The Intelligence Community released declassified versions of all three agencies’ thencurrent
 minimization procedures in February 2015.
-Recommendation 9: Adopt Measures to Document and Publicly Release
-Information Showing How Frequently the NSA Acquires and Uses
-Communications of U.S. Persons and People Located in the United States
-Status:
-Being implemented
-24
-Text of the Board’s Recommendation:
+
+### Recommendation 9: Adopt Measures to Document and Publicly Release Information Showing How Frequently the NSA Acquires and Uses Communications of U.S. Persons and People Located in the United States
+**Status:
+Being implemented**
+
+**Text of the Board’s Recommendation:**
 The government should implement five measures to provide insight about the extent to
 which the NSA acquires and utilizes the communications involving U.S. persons and people
 located in the United States under the Section 702 program. Specifically, the NSA should
@@ -826,7 +846,8 @@ disseminates non-public information about U.S. persons, specifically distinguish
 disseminations that includes names, titles, or other identifiers potentially associated with
 individuals. These figures should be reported to Congress in the NSA Director’s annual
 report and should be released publicly to the extent consistent with national security.
-Explanation for the Recommendation:
+
+**Explanation for the Recommendation:**
 Since the enactment of the FISA Amendments Act in 2008, the extent to which the
 government incidentally acquires the communications of U.S. persons under Section 702
 has been one of the biggest open questions about the program, and a continuing source of
@@ -847,8 +868,8 @@ the contents of U.S. persons’ communications. We believe that the NSA could im
 five measures, listed above, that collectively would shed some light on the extent to which
 communications involving U.S. persons or people located in the United States are being
 acquired and utilized under Section 702.
-25
-Discussion of Status:
+
+**Discussion of Status:**
 The NSA has advised the Board that for categories 9(4) and 9(5), as part of its reporting
 under the USA FREEDOM Act, the NSA will report statistics that are substantially similar to
 those requested by the Board. The NSA already reports similar statistics in classified
@@ -891,14 +912,16 @@ U.S. persons and people located in the United States under the Section 702 progr
 NSA seeks to work with Board staff to develop such measures, either through further
 refinement of the measures described in the Board’s recommendation or through
 development of alternative approaches.
-Recommendation 10: Develop a Methodology to Assess the Value of
-Counterterrorism Programs
-Status:
-Being implemented
-Text of the Board’s Recommendation:
+
+### Recommendation 10: Develop a Methodology to Assess the Value of Counterterrorism Programs
+**Status:
+Being implemented**
+
+**Text of the Board’s Recommendation:**
 The government should develop a comprehensive methodology for assessing the efficacy
 and relative value of counterterrorism programs.
-Explanation for the Recommendation:
+
+**Explanation for the Recommendation:**
 Determining the efficacy and value of particular counterterrorism programs is critical.
 Without such determinations, policymakers and courts cannot effectively weigh the
 interests of the government in conducting a program against the intrusions on privacy and
@@ -911,7 +934,8 @@ that this important work should be continued, as well as expanded so as to diffe
 more precisely among individual programs, in order to assist policymakers in making
 informed, data-driven decisions about governmental activities that have the potential to
 invade the privacy and civil liberties of the public.
-Discussion of Status:
+
+**Discussion of Status:**
 The ODNI has advised the Board that it has been working to develop a comprehensive
 methodology for assessing efficacy, including a range of quantitative and qualitative
 metrics. The ODNI also advises that it will soon provide the Board with a report outlining
