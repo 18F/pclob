@@ -23,13 +23,17 @@ layout: base
   </div>
   {% if page.related %}
     <div class="usa-width-one-third sidebar">
-      <h3>Related documents</h3>
+      <h3>Related items</h3>
       <ul class="usa-unstyled-list">
       {% for item in page.related %}
-        {% assign collection = site[item.collection] | where: 'slug', item.slug %}
-        {% for article in collection %}
-          <li><a href="{{ article.url }}">{{ article['title'] }}</a> ({{ article['date'] | date: "%B %e, %Y" }}) </li>
-        {% endfor %}
+        {% if item.collection %}
+          {% assign collection = site[item.collection] | where: 'slug', item.slug %}
+          {% for article in collection %}
+            <li><a href="{{ article.url }}">{{ article['title'] }}</a> ({{ article['date'] | date: "%B %e, %Y" }}) </li>
+          {% endfor %}
+        {% else %}
+          <li><a href="{{ item.url }}">{{ item.title }}</a> {% if item.date %}({{ item.date | date: "%B %e, %Y" }}){% endif %}</li>
+        {% endif %}
       {% endfor %}
       </ul>
     </div>

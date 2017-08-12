@@ -101,13 +101,17 @@ exclude:
   - Dockerfile
   - docker-compose.yml
 
-# Inititalize project and team collections
+# Inititalize collections
 collections:
   posts:
     output: true
   oversight-reports:
     output: true
   semiannual-reports:
+    output: true
+  official-correspondence:
+    output: true
+  federal-register-notices:
     output: true
   statements:
     output: false
