@@ -87,8 +87,13 @@ h1.page-title {
 }
 
 .post {
-  margin-top: 8rem;
-  &:first-child{
+  margin-top: 4rem;
+  &:first-child,
+  > h1,
+  > h2,
+  > h3,
+  > h4,
+  > h5 {
     margin-top: 0;
   }
 }
