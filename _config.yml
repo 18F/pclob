@@ -111,6 +111,8 @@ collections:
     output: true
   official-correspondence:
     output: true
+  federal-register-notices:
+    output: true
   statements:
     output: false
   board:
