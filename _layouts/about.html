@@ -11,18 +11,27 @@ layout: base
     </div>
   </div>
   {% for section in page.additional-info %}
+  <div class="usa-container-margin">
     <h3>{{ section.heading }}</h3>
     {% if section.summary %}
       <p>{{ section.summary }}
     {% endif %}
     {% if section.links %}
       {% for link in section.links %}
-        <h4><a href="{{ link.link }}">{{ link.linktext }}</a></h4>
+      <div class="post">
+        <h4 class="document--download"><a href="{{ link.link }}">{{ link.title }}</a></h4>
         {% if link.amendment %}
         <p><a href="{{ link.amendment-link }}">{{ link.amendment }}</a></p>
         {% endif %}
         <p>{{ link.text }}</p>
+        {% if link.related %}
+          {% for item in link.related %}
+            <a class="document--download" href="{{ item.link }}">{{ item.title }}</a>
+          {% endfor %}
+        {% endif %}
+      </div>
       {% endfor %}
     {% endif %}
+    </div>
   {% endfor %}
 </section>
