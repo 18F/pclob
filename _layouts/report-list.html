@@ -9,9 +9,13 @@ layout: base
 {% assign reports = site[page.collection] | reverse %}
 {% for report in reports %}
 <section class="usa-section usa-grid pclob-report">
+  {% if report.date %}
   <p>{{ report.date | date: "%B %e, %Y" }}</p>
+  {% endif %}
   <h3>{{ report.title }}</h3>
+  {% if report.summary %}
   <p>{{ report.summary }}</p>
+  {% endif %}
   <a class="usa-button" href="{{ report.permalink | prepend: site.baseurl}}">Read the report</a>
 </section>
 {% endfor %}

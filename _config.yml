@@ -109,6 +109,8 @@ collections:
     output: true
   semiannual-reports:
     output: true
+  official-correspondence:
+    output: true
   statements:
     output: false
   board:
