@@ -1,0 +1,28 @@
+---
+layout: base
+---
+
+<section class="usa-section usa-grid">
+  <h1> {{ page.title }}</h1>
+  {{ content }}
+  <ul class="usa-accordion">
+  {% for section in page.sections %}
+    <li>
+      <button class="usa-accordion-button" aria-expanded="true" aria-controls="{{ section.title | slugify }}">{{ section.title }}</button>
+      <div id="{{ section.title | slugify }}" class="usa-accordion-content">
+      {% if section.content %}
+        {{ section.content }}
+        {% if section.url %}
+          <p><a class="document--download" href="{{ section.url | prepend: site.baseurl }}">{{ section.url-title }}</a></p>
+        {% endif %}
+      {% else if section.subsections  %}
+        {% for subsection in section.subsections %}
+          <h4>{{ subsection.title }}</h4>
+          <p>{{ subsection.content }}</p>
+        {% endfor %}
+      {% endif %}
+      </div>
+    </li>
+  {% endfor %}
+  </ul>
+</section>
