@@ -40,7 +40,7 @@ colors:
 
 analytics:
   google:
-    code: 'UA-48605964-32' # Change this to your GSA analytics code
+    code: 'UA-48605964-50' # for 18F analytics reporting
   dap:
     agency: PCLOB
     subagency:
