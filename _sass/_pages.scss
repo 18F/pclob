@@ -36,11 +36,11 @@ h1.page-title {
 
 .usa-button[href$=".pdf"]:after,
 .usa-button.document--download:after {
-  background-image: url('/assets/img/icon-download-white.svg');
+  background-image: url('#{$baseurl}/assets/img/icon-download-white.svg');
 }
 
 .document--download:after {
-  background-image: url('/assets/img/icon-download.svg');
+  background-image: url('#{$baseurl}/assets/img/icon-download.svg');
 }
 
 .post p + .document-download {
@@ -56,18 +56,18 @@ h1.page-title {
 }
 
 .contact--email:before {
-  background-image: url('/assets/img/icon-email.svg');
+  background-image: url('#{$baseurl}/assets/img/icon-email.svg');
   background-repeat: no-repeat;
   background-size: 100%;
 }
 
 .contact--fax:before {
-  background-image: url('/assets/img/icon-fax.svg');
+  background-image: url('#{$baseurl}/assets/img/icon-fax.svg');
   background-repeat: no-repeat;
   background-size: 100%;
 }
 .contact--phone:before {
-  background-image: url('/assets/img/icon-phone.svg');
+  background-image: url('#{$baseurl}/assets/img/icon-phone.svg');
   background-repeat: no-repeat;
   background-size: 100%;
 }
@@ -114,14 +114,14 @@ h1.page-title {
       position: absolute; // without this, the badge is slightly off-center from the text due to line-height (I think)
       left: 0;
       padding: 3px 4px;
-      content: url('/assets/img/icon-newspaper.svg');
+      content: url('#{$baseurl}/assets/img/icon-newspaper.svg');
     }
   }
   &.events:before {
     position: absolute; // without this, the badge is slightly off-center from the text due to line-height (I think)
     left: 0;
     padding: 0.25rem 0.35rem;
-    content: url('/assets/img/icon-calendar.svg');
+    content: url('#{$baseurl}/assets/img/icon-calendar.svg');
   }
 
 }
