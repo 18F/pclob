@@ -29,7 +29,7 @@ additional-info:
     links:
       - link: /library/Policy-Advisory_Function_Policy_Procedure.pdf
         title: Advisory Function Policy and Procedure
-        text: The Board has recently released a new policy related to its advice responsibilities. The document, which is titled, “Advisory Function Policy and Procedure,” is intended to clarify the Board’s advice function and thereby provide a clear path for federal agencies and components to engage with the Board in early stages of the process of a new agency policy, rule, or regulation being developed.
+        text: In 2015, the Board released a policy related to its advice responsibilities. The document, which is titled, “Advisory Function Policy and Procedure,” is intended to clarify the Board’s advice function and thereby provide a clear path for federal agencies and components to engage with the Board in early stages of the process of a new agency policy, rule, or regulation being developed.
         related:
           - title: Advisory Function Policy and Procedure Fact Sheet
             link: /library/Policy-Advisory_Function_Policy_Fact_Sheet.pdf
