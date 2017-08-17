@@ -31,6 +31,23 @@
   line-height: 30px;
 }
 
+.usa-hero.pclob-hero-image {
+  background-position: 0% 0%;
+  background-image: url($featured-image-small) !important;
+}
+
+@media screen and (min-width: 1000px) {
+  .usa-hero.pclob-hero-image {
+    background-image: url($featured-image-large) !important;
+  }
+}
+@media screen and (min-width: $on-laptop) {
+  .usa-hero.pclob-hero-image {
+    background-image: url($featured-image-medium) !important;
+  }
+}
+
+
 @media screen and (min-width: 481px) {
   /* from wds */
   .usa-hero-callout {
@@ -50,7 +67,7 @@
     position: absolute;
     right: 0;
     bottom: 0;
-    padding: 0 1rem 0 0;
+    padding: 0 3rem 0 0;
   }
   p {
     font-size: $small-font-size;
@@ -62,3 +79,5 @@
 .hero-photo-credit a {
   color: $reverse-text-color;
 }
+
+
