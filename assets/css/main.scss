@@ -8,8 +8,16 @@
 {% if site.baseurl != "" %}
 $baseurl:          {{ site.baseurl }};
 {% else %}
-$baseurl:          '';
+$baseurl:          ''; //if this is local dev, just use a blank string
 {% endif %}
+
+// Hero unit images
+$featured-image-large: '{{ site.feature-image-large }}';
+$featured-image-medium:  '{{ site.feature-image-medium }}';
+$featured-image-small: '{{ site.feature-image-small }}';
+
+
+// Font sizes
 $base-font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
@@ -19,6 +27,7 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
+// Colors
 $gray-light:               #f1f1f1;
 $gray-darkest:             #323a45;
 $accent-color:             {{ site.colors.accent-color }};
