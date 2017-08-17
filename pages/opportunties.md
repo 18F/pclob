@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Career opportunities
+title: Career Opportunities
 permalink: /career-opportunities/
 ---
 

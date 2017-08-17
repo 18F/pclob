@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Events and press
+title: Events and Press
 permalink: /newsroom/
 ---
 {% comment %}

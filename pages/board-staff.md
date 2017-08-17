@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Board staff
+title: Board Staff
 permalink: /board-staff/
 ---
 The Privacy and Civil Liberties Oversight Board is an independent executive branch agency led by a bipartisan group of five presidentially nominated and Senate-confirmed Board Members.
