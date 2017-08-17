@@ -1,6 +1,6 @@
 ---
 layout: collapsible-page
-title: Privacy compliance
+title: Privacy Compliance
 permalink: /privacy/
 sections:
     - title: Website Privacy Policy

@@ -1,6 +1,6 @@
 ---
 layout: team-list
-title: Board members
+title: Board Members
 permalink: /board-members/
 body-class: page-team
 ---

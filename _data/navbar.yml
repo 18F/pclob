@@ -11,31 +11,31 @@ assigned:
         show_in_footer: false
         children:
           -
-            text: History and mission
+            text: History and Mission
             href: pages/about.md
             permalink: /about/
             show_in_menu: false
             show_in_footer: false
           -
-            text: Board members
+            text: Board Members
             href: pages/board-members.md
             permalink: /board-members/
             show_in_menu: false
             show_in_footer: false
           -
-            text: Board staff
+            text: Board Staff
             href: pages/board-staff.md
             permalink: /board-staff/
             show_in_menu: false
             show_in_footer: false
           -
-            text: Contact the board
+            text: Contact the Board
             href: pages/contact.md
             permalink: /contact/
             show_in_menu: false
             show_in_footer: false
           -
-            text: Career opportunities
+            text: Career Opportunities
             href: pages/opportunities.md
             permalink: /career-opportunities/
             show_in_menu: false
@@ -46,25 +46,25 @@ assigned:
         show_in_footer: false
         children:
             -
-                text: Oversight reports
+                text: Oversight Reports
                 href: pages/oversight-reports.md
                 permalink: /oversight-reports/
                 show_in_menu: false
                 show_in_footer: false
             -
-                text: Semiannual reports
+                text: Semi-Annual Reports
                 href: pages/semiannual-reports.md
                 permalink: /semiannual-reports/
                 show_in_menu: false
                 show_in_footer: false
             -
-                text: Official correspondence
+                text: Official Correspondence
                 href: pages/official-correspondence.md
                 permalink: /official-correspondence/
                 show_in_menu: false
                 show_in_footer: false
             -
-                text: Federal Register notices
+                text: Federal Register Notices
                 href: pages/federal-register-notices.md
                 permalink: /federal-register-notices/
                 show_in_menu: false
@@ -76,7 +76,7 @@ assigned:
         show_in_menu: true
         show_in_footer: false
     -
-        text: Events and press
+        text: Events and Press
         href: pages/newsroom.md
         permalink: /newsroom/
         show_in_menu: true

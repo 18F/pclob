@@ -4,7 +4,7 @@ title: History and Mission
 permalink: /about/
 image: /assets/img/board/beth-apr26-17.jpg
 additional-info:
-  - heading: Legal authorities
+  - heading: Legal Authorities
     summary: "The Board’s enabling statute, codified at 42 U.S.C. § 2000ee, vests it with two fundamental authorities: (1) to review and analyze actions the executive branch takes to protect the nation from terrorism, ensuring that the need for such actions is balanced with the need to protect privacy and civil liberties, and (2) to ensure that liberty concerns are appropriately considered in the development and implementation of laws, regulations, and policies related to efforts to protect the nation from terrorism.
 
     In addition to its primary mandate, the Board also has designated roles under the following legal authorities:"
@@ -17,15 +17,19 @@ additional-info:
         text: Executive Order 13636 on Improving Critical Infrastructure Cybersecurity, issued in February 2013, calls upon multiple agencies to research and create a Cybersecurity Framework to minimize the risk of a cyber attack on critical infrastructure. Section 5 of the executive order requires the Department of Homeland Security to prepare a report, in consultation with the PCLOB, recommending ways to mitigate the privacy and civil liberties risks created by cybersecurity measures adopted under the order. The report must be reviewed on an annual basis and revised as necessary.
       - link: /library/PPD28-Signals_Intelligence_Activities.pdf
         title: Presidential Policy Directive 28 (PPD-28)
-        text: Presidential Policy Directive 28 (PPD-28) articulates "principles to guide why, whether, when, and how the United States conducts signals intelligence activities for authorized foreign intelligence and counterintelligence purposes." In the directive, the President encourages the Board to provide him with an assessment of the implementation of any matters contained in the directive that fall within the Board’s mandate.
+        text: Presidential Policy Directive 28 (PPD-28) articulates "principles to guide why, whether, when, and how the United States conducts signals intelligence activities for authorized foreign intelligence and counterintelligence purposes." In the directive, the President encouraged the Board to provide him with an assessment of the implementation of any matters contained in the directive that fall within the Board’s mandate.
       - link: /library/Section_803.pdf
         title: Section 803
         text: Section 803 of the Implementing Recommendations of the 9/11 Commission Act directs the privacy and civil liberties officers of eight federal agencies – and any additional agency designated by the Board – to submit periodic reports to the PCLOB regarding the reviews they have undertaken during the reporting period, the type of advice provided and the response given to such advice, and the number and nature of the complaints received by the agency for alleged violations, along with a summary of the disposition of such complaints. The PCLOB's enabling statute directs the Board to receive these reports and, when appropriate, make recommendations to the privacy and civil liberties officers regarding their activities.
+        related:
+          - title: 2016 Update
+            link: /library/Section%20803%20Recommendations%20June%202016.pdf
+            text: In 2016, the Board released a set of recommendations, which were approved unanimously by the Board, to provide guidance to other federal agencies to improve the reports they file under Section 803.
   - heading: Policies
     links:
       - link: /library/Policy-Advisory_Function_Policy_Procedure.pdf
         title: Advisory Function Policy and Procedure
-        text: The Board has recently released a new policy related to its advice responsibilities. The document, which is titled, “Advisory Function Policy and Procedure,” is intended to clarify the Board’s advice function and thereby provide a clear path for federal agencies and components to engage with the Board in early stages of the process of a new agency policy, rule, or regulation being developed.
+        text: In 2015, the Board released a policy related to its advice responsibilities. The document, which is titled, “Advisory Function Policy and Procedure,” is intended to clarify the Board’s advice function and thereby provide a clear path for federal agencies and components to engage with the Board in early stages of the process of a new agency policy, rule, or regulation being developed.
         related:
           - title: Advisory Function Policy and Procedure Fact Sheet
             link: /library/Policy-Advisory_Function_Policy_Fact_Sheet.pdf
@@ -47,7 +51,7 @@ additional-info:
       - link: /library/FederalRegister-PCLOB-2013-0005-SORN.pdf
         title: Privacy Act System of Records Notice
         text: In accordance with the Privacy Act of 1974, the Privacy and Civil Liberties Oversight Board created a system of records titled, "PCLOB–1, Freedom of Information Act and Privacy Act Request Files."
-  - heading: Budget and strategic plans
+  - heading: Budget and Strategic Plans
     links:
       - link: /library/StrategicPlan_2016-2018.pdf
         title: PCLOB Strategic Plan for 2016 – 2018
