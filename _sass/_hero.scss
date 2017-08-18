@@ -33,7 +33,7 @@
 
 .usa-hero.pclob-hero-image {
   background-position: 0% 0%;
-  background-image: url($featured-image-small) !important;
+  background-image: url('#{$baseurl}#{$featured-image-small}') !important;
 }
 
 .hero-photo-credit p,
@@ -43,12 +43,12 @@
 
 @media screen and (min-width: 1000px) {
   .usa-hero.pclob-hero-image {
-    background-image: url($featured-image-large) !important;
+    background-image: url('#{$baseurl}#{$featured-image-large}') !important;
   }
 }
 @media screen and (min-width: $on-laptop) {
   .usa-hero.pclob-hero-image {
-    background-image: url($featured-image-medium) !important;
+    background-image: url('#{$baseurl}#{$featured-image-medium}') !important;
   }
 }
 
