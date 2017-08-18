@@ -36,6 +36,11 @@
   background-image: url($featured-image-small) !important;
 }
 
+.hero-photo-credit p,
+.hero-photo-credit a {
+  color: $reverse-text-color;
+}
+
 @media screen and (min-width: 1000px) {
   .usa-hero.pclob-hero-image {
     background-image: url($featured-image-large) !important;
@@ -46,7 +51,6 @@
     background-image: url($featured-image-medium) !important;
   }
 }
-
 
 @media screen and (min-width: 481px) {
   /* from wds */
@@ -75,9 +79,17 @@
   }
 }
 
-.hero-photo-credit p,
-.hero-photo-credit a {
-  color: $reverse-text-color;
+@media screen and (max-width: 550px) {
+  .usa-hero-callout {
+    margin-top: 4rem; // to visually account for room occupied by photo credit at bottom
+    &.usa-section-dark {
+      background-color: rgba(17,46,81, 0.6);
+    }
+    .usa-button {
+      margin-top: 0;
+    }
+  }
+  .hero-photo-credit p {
+    font-size: 1.3rem;
+  }
 }
-
-
