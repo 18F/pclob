@@ -19,6 +19,11 @@ footer a:visited {
   color: $footer-text-color;
 }
 
-.usa-footer-logo p {
-  font-size: .7em;
+.usa-footer-logo {
+  p {
+    font-size: .7em;
+  }
+  .usa-footer-logo-img {
+    max-height: 14rem; // for IE
+  }
 }
