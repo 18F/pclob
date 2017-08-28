@@ -9,6 +9,7 @@
   #logo img {
     // keep header img from overflowing menu bar
     max-height: 3.7rem;
+    max-width: 4.7rem;
   }
 }
 
@@ -25,6 +26,7 @@
   img {
     flex-grow: 1;
     max-height: 75px;
+    max-width: 85px;
     padding-right: 1rem;
   }
   h1 {
