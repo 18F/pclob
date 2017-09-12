@@ -14,7 +14,6 @@ const WARNING_PAGES = [
 ];
 const WARNING = chalk.yellow('Warning');
 const ERROR = chalk.red('Error');
-const SITE_PATH = path.normalize(`${__dirname}/../_site`);
 
 function shouldFetch(item, referrerItem) {
   if (item.path.match(/&quot;/)) {
@@ -66,7 +65,7 @@ function findInvalidAnchors($) {
 }
 
 runServer().then(server => {
-  const crawler = new Crawler(`${server.url}/`);
+  const crawler = new Crawler(`${server.url}${runServer.BASE_URL_PATH}/`);
   const origDiscoverResources = crawler.discoverResources;
   const referrers = {};
   const notFound = [];
@@ -111,7 +110,9 @@ runServer().then(server => {
       let errors = 0;
       let warnings = 0;
       const makeLabelForPaths = paths => {
-        const isWarning = paths.every(path => WARNING_PAGES.includes(path));
+        const isWarning = paths
+                          ? paths.every(path => WARNING_PAGES.includes(path))
+                          : false;
         const label = isWarning ? WARNING : ERROR;
 
         if (isWarning) {
@@ -140,8 +141,10 @@ runServer().then(server => {
         const label = makeLabelForPaths(refs);
 
         console.log(`${label}: 404 for ${item.path}`);
-        console.log(`  ${refs.length} referrer(s) including at least:`,
-                    refs.slice(0, 5));
+        if (refs) {
+          console.log(`  ${refs.length} referrer(s) including at least:`,
+                      refs.slice(0, 5));
+        }
       });
 
       WARNING_PAGES.forEach(path => {

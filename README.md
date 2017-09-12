@@ -16,7 +16,7 @@ similar to the one which Federalist builds your site on.
 1. Install [Docker Community Edition][].
 1. Clone the repository.
 1. Run `docker-compose up`.
-1. Visit the local site at [http://localhost:4000](http://localhost:4000)
+1. Visit the local site at [http://localhost:4000/dev/](http://localhost:4000/dev/)
 
 If you ever decide that you no longer want to use Docker, run
 `docker-compose down -v` to properly clean everything up.

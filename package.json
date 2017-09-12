@@ -20,6 +20,7 @@
     "chalk": "^2.1.0",
     "cheerio": "^1.0.0-rc.2",
     "express": "^4.15.4",
+    "js-yaml": "^3.10.0",
     "simplecrawler": "^1.1.4"
   }
 }

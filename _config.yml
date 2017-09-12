@@ -1,7 +1,17 @@
 # Site settings
 title: The Privacy and Civil Liberties Oversight Board
 description: Committed to the protection of civil liberties and privacy in the nation's efforts against terrorism.
-baseurl: "" # the subpath of your site, e.g. /blog
+
+# We're setting a baseurl here for development to ensure that
+# all our URLs on the actual site use {{ site.baseurl }} rather
+# than assuming the site is rooted at "/". This will ensure that
+# federalist branch builds, which are never rooted at "/", have no
+# 404s.
+#
+# During production, the "real" baseurl will be passed in through
+# the command-line, overriding the following value.
+baseurl: "/dev"
+
 url: "https://pclob.gov" # the base hostname & protocol for your site
 logo: /assets/img/Great_Seal_of_the_United_States.svg
 feature-image-large: /assets/img/featured-image-large.jpg # used by social sharing code as well as being the front page banner
