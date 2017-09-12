@@ -1,7 +1,7 @@
 ---
 layout: report
 date: January 2017
-permalink: /reports/april-2016-sept-2016-report
+permalink: /reports/april-2016-sept-2016-report/
 summary: >-
     The Board’s semi-annual report for April-September 2016 outlines the Board’s
     continuing work on projects pursuant to its advice and oversight functions
