@@ -40,7 +40,10 @@ Contact Person for More Information: Susan Reingold, Chief Administrative Office
 *   [Panel 1]({{site.baseurl}}/library/20131104-Panel_1_Audio.mp3) (MP3)
 *   [Panel 2]({{site.baseurl}}/library/20131104-Panel_2_Audio.mp3) (MP3)
 *   [Panel 3]({{site.baseurl}}/library/20131104-Panel_3_Audio.mp3) (MP3)
-*   [Public Comments]({{site.baseurl}}/library/20131104-Public_Comments__Audio.html) (MP3)
+
+{% comment %}
+Note that there used to be a fourth list item here pointing to /library/20131104-Public_Comments__Audio.html, but it was broken on the original PCLOB site, so we removed it in this Jekyll site too.
+{% endcomment %}
 
 <a id="#publiccomments"></a>
 
