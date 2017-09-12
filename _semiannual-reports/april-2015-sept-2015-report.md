@@ -1,8 +1,8 @@
 ---
 layout: report
 date: '2015-12-30'
-permalink: /reports/oct-2015-march-2016-report
-title: Semi-Annual Report October 2015 - March 2016
+permalink: /reports/april-2015-sept-2015-report/
+title: Semi-Annual Report April 2015 - September 2015
 
 summary: >-
     The Board's semi-annual report for April-September 2015 describes the

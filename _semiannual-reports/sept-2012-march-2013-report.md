@@ -1,7 +1,7 @@
 ---
 layout: report
 date: '2013-06-27'
-permalink: /reports/march-2013-sept-2013-report
+permalink: /reports/sept-2012-march-2013-report/
 title: Semi-Annual Report September 2012 - March 2013
 attachments:
     - title: Download the September 2012 - March 2013 report

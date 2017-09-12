@@ -38,7 +38,7 @@ sections:
         Effective date: July 1, 2014."
     - title: Agency Rule on the Privacy Act of 1974
       content: "Finalized agency rule implementing the Freedom of Information Act, the Privacy Act of 1974, and the Government in the Sunshine Act. This rule describes the procedures for members of the public to request access to PCLOB records. In addition, this rule also includes procedures for the Board’s responses to these requests, including the timeframe for response and applicable fees."
-      url: library/FOIA-Privacy_Act-Sunshine_Act-Implementing%20Guidelines.pdf
+      url: /library/FOIA-Privacy_Act-Sunshine_Act-Implementing%20Guidelines.pdf
       url-title: Download Regulations on Freedom of Information Act, Privacy Act, and Sunshine Act
     - title: Privacy Act System of Records Notice
       content: 'In accordance with the Privacy Act of 1974, the Privacy and Civil Liberties Oversight Board created a system of records titled, "PCLOB–1, Freedom of Information Act and Privacy Act Request Files."'

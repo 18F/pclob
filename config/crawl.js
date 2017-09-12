@@ -131,7 +131,11 @@ runServer().then(server => {
       });
 
       duplicateIds.forEach(({ item, ids }) => {
-        const label = makeLabelForPaths([ item.path ]);
+        //const label = makeLabelForPaths([ item.path ]);
+        // TODO: Eventually, uncomment the above line and delete the
+        // next line.
+        const label = WARNING; warnings++;
+
         console.log(`${label}: duplicate id attrs found at ${item.path}:`);
         console.log(`  ${ids.join(', ')}`);
       });

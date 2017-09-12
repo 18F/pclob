@@ -1,7 +1,7 @@
 ---
 layout: report
 date: 'October 2016'
-permalink: /official-correspondence/fy2016-lapse-applicable-to-fy2017
+permalink: /official-correspondence/fy2016-lapse-applicable-to-fy2017/
 title: >-
     PCLOB’s Plan in Anticipation of a Lapse in Fiscal Year 2016 Appropriation
     continues to be applicable for FY 2017

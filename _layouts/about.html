@@ -19,7 +19,7 @@ layout: base
     {% if section.links %}
       {% for link in section.links %}
       <div class="post">
-        <h4 class="document--download"><a href="{{ link.link }}">{{ link.title }}</a></h4>
+        <h4 class="document--download"><a href="{{ link.link | prepend: site.baseurl }}">{{ link.title }}</a></h4>
         <p>{{ link.text }}</p>
         {% if link.related %}
           {% for item in link.related %}
@@ -27,7 +27,7 @@ layout: base
             <h5>{{ item.title }}</h5>
             <p>{{ item.text }}</p>
             {% endif %}
-            <a class="document--download" href="{{ item.link }}">Download {{ item.title }}</a>
+            <a class="document--download" href="{{ item.link | prepend: site.baseurl }}">Download {{ item.title }}</a>
           {% endfor %}
         {% endif %}
       </div>

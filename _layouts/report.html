@@ -29,10 +29,11 @@ layout: base
         {% if item.collection %}
           {% assign collection = site[item.collection] | where: 'slug', item.slug %}
           {% for article in collection %}
-            <li><a href="{{ article.url }}">{{ article['title'] }}</a> ({{ article['date'] | date: "%B %e, %Y" }}) </li>
+            <li><a href="{{ article.url | prepend: site.baseurl }}">{{ article['title'] }}</a> ({{ article['date'] | date: "%B %e, %Y" }}) </li>
           {% endfor %}
         {% else %}
-          <li><a href="{{ item.url }}">{{ item.title }}</a> {% if item.date %}({{ item.date | date: "%B %e, %Y" }}){% endif %}</li>
+          {% assign url_first_char = item.url | slice: 0 %}
+          <li><a href="{% if url_first_char == '/' %}{{ item.url | prepend: site.baseurl }}{% else %}{{ item.url }}{% endif %}">{{ item.title }}</a> {% if item.date %}({{ item.date | date: "%B %e, %Y" }}){% endif %}</li>
         {% endif %}
       {% endfor %}
       </ul>
