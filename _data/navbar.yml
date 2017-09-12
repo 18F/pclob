@@ -70,12 +70,6 @@ assigned:
                 show_in_menu: false
                 show_in_footer: false
     -
-        text: FOIA
-        href: pages/foia.md
-        permalink: /foia/
-        show_in_menu: true
-        show_in_footer: false
-    -
         text: Events and Press
         href: pages/newsroom.md
         permalink: /newsroom/
