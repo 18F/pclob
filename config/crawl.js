@@ -6,7 +6,6 @@ const chalk = require('chalk');
 
 const runServer = require('./static-server');
 
-const CRAWLER_START_PATH = process.env.CRAWLER_START_PATH || '/';
 // These pages incorporate content from other files in other repos, so
 // they should be considered "second class" by the link checker, and
 // only emit warnings on 404s rather than errors.
@@ -15,7 +14,6 @@ const WARNING_PAGES = [
 ];
 const WARNING = chalk.yellow('Warning');
 const ERROR = chalk.red('Error');
-const SITE_PATH = path.normalize(`${__dirname}/../_site`);
 
 function shouldFetch(item, referrerItem) {
   if (item.path.match(/&quot;/)) {
@@ -67,7 +65,7 @@ function findInvalidAnchors($) {
 }
 
 runServer().then(server => {
-  const crawler = new Crawler(`${server.url}${CRAWLER_START_PATH}`);
+  const crawler = new Crawler(`${server.url}${runServer.BASE_URL_PATH}/`);
   const origDiscoverResources = crawler.discoverResources;
   const referrers = {};
   const notFound = [];
