@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/18F/pclob.svg?style=svg)](https://circleci.com/gh/18F/pclob)
+
 # Privacy and Civil Liberties Oversight Board website
 
 This is a Jekyll project for the new Privacy and Civil Liberties Oversight
