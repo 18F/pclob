@@ -1,0 +1,43 @@
+version: 2
+jobs:
+  build:
+    working_directory: ~/pclob
+    docker:
+      - image: circleci/ruby:2.2-node
+    steps:
+      - checkout
+
+      # Restore bundle cache
+      - type: cache-restore
+        key: pclob-bundle-{{ checksum "Gemfile.lock" }}
+
+      # Bundle install dependencies
+      - run: bundle install --path vendor/bundle
+
+      # Store bundle cache
+      - type: cache-save
+        key: pclob-bundle-{{ checksum "Gemfile.lock" }}
+        paths:
+          - vendor/bundle
+
+      # Restore npm cache
+      - type: cache-restore
+        key: pclob-npm-{{ checksum "package.json" }}
+
+      # npm install dependencies
+      - run: npm install
+
+      # Store npm cache
+      - type: cache-save
+        key: pclob-npm-{{ checksum "package.lock" }}
+        paths:
+          - node_modules
+
+      # Run tests
+      - type: shell
+        command: |
+          jekyll build && npm test
+
+      # Save artifacts
+      - type: store_test_results
+        path: /tmp/test-results

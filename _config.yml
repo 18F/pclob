@@ -114,6 +114,8 @@ exclude:
   - .env.sample
   - Dockerfile
   - docker-compose.yml
+  # This directory is used on CircleCI.
+  - vendor
 
 # Inititalize collections
 collections:
