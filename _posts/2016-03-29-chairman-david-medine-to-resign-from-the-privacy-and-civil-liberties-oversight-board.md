@@ -9,11 +9,9 @@ layout: post
 links: []
 permalink: /newsroom/20160329.html
 title: >-
-  CHAIRMAN DAVID MEDINE TO RESIGN FROM THE PRIVACY AND CIVIL LIBERTIES OVERSIGHT
-  BOARD
+  Chairman David Medine To Resign From The Privacy And Civil Liberties Oversight
+  Board
 ---
-## CHAIRMAN DAVID MEDINE TO RESIGN FROM THE PRIVACY AND CIVIL LIBERTIES OVERSIGHT BOARD
-
 FOR RELEASE  
 March 29, 2016
 
