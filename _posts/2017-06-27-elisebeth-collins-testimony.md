@@ -1,6 +1,5 @@
 ---
 category: newsroom
-date: '2014-01-08'
 layout: post
 links:
   - text: Download
