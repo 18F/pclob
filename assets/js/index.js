@@ -1,6 +1,8 @@
 (function (document, window, $) {
   $(document).ready(function(){
     ajaxifyContactForm();
+    $(window).on('hashchange', showOrHideDeveloperMenu)
+      .trigger('hashchange');
   });
 
   function ajaxifyContactForm () {
@@ -23,5 +25,14 @@
       img.attr('src', url);
 
     });
+  }
+
+  function showOrHideDeveloperMenu() {
+    var devMenu = $('#dev-menu');
+    if (/devmode/.test(window.location.hash)) {
+      devMenu.fadeIn();
+    } else {
+      devMenu.fadeOut();
+    }
   }
 })(document, window, $);

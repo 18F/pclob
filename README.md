@@ -38,6 +38,14 @@ npm install
 npm test
 ```
 
+## Editing page content
+
+If you're ever on a page and want to make a change to its
+content, add `#devmode` to the end of the URL. You'll then
+see an "Edit this page" link at the bottom-right of the
+page; clicking on this will take you to a GitHub edit page
+where you can make changes.
+
 ## Upgrading USWDS
 
 This project uses the CSS and JavaScript from [U.S. Web Design System](https://standards.18f.gov).
