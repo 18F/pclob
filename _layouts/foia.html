@@ -67,7 +67,7 @@ layout: page
   <p>{{ doc.title }}</p>
   <ul class="usa-unstyled-list">
   {% for download in doc.downloads %}
-  <li><a class="document--download" href="{{ url | prepend: site.baseurl }}" aria-label="Download the {{ download.title }}">{{ download.title }}</a></li>
+  <li><a class="document--download" href="{{ download.url | prepend: site.baseurl }}" aria-label="Download the {{ download.title }}">{{ download.title }}</a></li>
   {% endfor %}
   </ul>
 {% endfor %}
