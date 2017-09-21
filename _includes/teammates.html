@@ -20,7 +20,7 @@
   {% endif %}
 {% endfor %}
 
-<h2>Former board members</h2>
+<h2>Former Board Members</h2>
 {% for person in site.board %}
   {% if person.is-current-member == false %}
   {% assign half = forloop.index | modulo: 2 %}
