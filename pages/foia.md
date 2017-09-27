@@ -74,6 +74,7 @@ quarterly_reports:
   # order. If they're not, they will be mis-labeled!
   - year: FY 2017
     quarters:
+      - /foia/quarterly/PCLOB-2017-Q3.zip
       - /foia/quarterly/PCLOB-2017-Q2.zip
       - /foia/quarterly/PCLOB-2017-Q1.zip
   - year: FY 2016
