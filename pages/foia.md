@@ -10,9 +10,16 @@ documents:
     downloads:
       - type: PDF
         url: /foia/FOIA%20Library/InterimFOIAReferenceGuide.pdf
-  - title: FOIA Regulation
+  - title: FOIA Regulations
     downloads:
       - type: PDF
+        name: Download current regulation
+        url: /library/Full.Revised.FOIA.Reg.-.PCLOB.2017-0001-0001.pdf
+      - type: PDF
+        name: Download Sunshine Act and FOIA amendments to 2013 regulation
+        url: /library/FOIA-Privacy_Act-Sunshine_Act-Amendments.pdf
+      - type: PDF
+        name: Download original 2013 regulation
         url: /library/FOIA-Privacy_Act-Sunshine_Act-Implementing%20Guidelines.pdf
 chief-foia-officer-reports:
   - title: 2017 Chief FOIA Officer Report
