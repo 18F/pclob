@@ -9,7 +9,7 @@ layout: page
     <p>{{ doc.description }}</p>
     {% endif %}
     {%for download in doc.downloads %}
-    <a class="document--download" href="{{ download.url | prepend: site.baseurl }}" aria-label="Download {{ doc.title }}">Download</a>
+    <a class="document--download" href="{{ download.url | prepend: site.baseurl }}" aria-label="Download {{ doc.title }}">{% if download.name %}{{ download.name }}{% else %}Download{% endif %}</a>
     {% endfor %}
   {% endfor %}
   </div>
