@@ -4,13 +4,6 @@
 
 @charset "utf-8";
 
-// Our variables
-{% if site.baseurl != blank %}
-$baseurl:          {{ site.baseurl }};
-{% else %}
-$baseurl:          ''; //if this is local dev, just use a blank string
-{% endif %}
-
 // Hero unit images
 $featured-image-large: '{{ site.feature-image-large }}';
 $featured-image-medium:  '{{ site.feature-image-medium }}';
