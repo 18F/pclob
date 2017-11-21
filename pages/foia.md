@@ -46,7 +46,7 @@ chief-foia-officer-reports:
         url: /library/FOIA-2015-Chief_FOIA_Officer_Report.pdf
 annual-reports:
   - title: Annual Freedom of Information Act Report for FY 2016
-    year: FY 2016
+    year: FY 2017
     description: |
       This is the PCLOB's third Annual Freedom of Information Act Report, which covers activities from October 1, 2015 – September 30, 2016.
     downloads:
