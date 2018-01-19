@@ -54,7 +54,7 @@ annual-reports:
       - type: XML
         url: /foia/annual/PCLOB.FY17.Final.xml 
         - type: PDF
-        url: library/PCLOB.FY17.Final.pdf
+        url: /library/PCLOB.FY17.Final.pdf
   - title: Annual Freedom of Information Act Report for FY 2016
     year: FY 2016
     description: |
