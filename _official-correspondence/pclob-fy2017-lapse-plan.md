@@ -7,5 +7,5 @@ title: >-
     continues to be applicable for FY 2017
 attachments:
     - title: Download the FY2017 Lapse Plan
-      url: /library/20150928-PCLOB_FY2016_Lapse_Plan.pdf
+      url: /library/20150928-PCLOB_FY2017_Lapse_Plan.pdf
 ---
