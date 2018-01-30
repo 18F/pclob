@@ -51,7 +51,7 @@ annual-reports:
       This is the PCLOB's fourth Annual Freedom of Information Act Report, which
       covers activities from October 1, 2016-September 30, 2017.
     downloads:
-      - type: PDF
+;      - type: PDF
         url: /foia/annual/PCLOB.FY17.Final.pdf 
       - type: XML
         url: /foia/annual/PCLOB.FY17.Final.xml 
