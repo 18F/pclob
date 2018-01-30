@@ -1,6 +1,6 @@
 ---
 layout: report-list
-permalink: /official-correspondence/
+permalink: /Plain-Writing/
 title: Official Correspondence
-collection: official-correspondence
+collection: _plain-language
 ---
