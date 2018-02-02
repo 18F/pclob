@@ -1,13 +1,11 @@
 ---
 layout: report
-date: '2013-06-07'
-permalink: /official-correspondence/2013-06-07-fisa-prism-briefing/
-title: PCLOB Request to ODNI for FISA and PRISM Briefing
+date: '2016-04-13'
+permalink: /plain-writing/2016-04-13-pclob-plain-writing-report/
+title: PCLOB Plain Writing Report
 attachments:
-    - title: Download Request to ODNI
-      url: /library/Letter-ODNI_FISA_PRISM_Briefing_Request.pdf
+    - title: Download Plain Language Report
+      url: /library/PCLOB%20Plain%20Writing%20Report%20(Apr.%2013%2C%202016).pdf
 summary: >-
-    Letter from Chairman Medine to Director Clapper requesting a classified
-    background briefing for the Board on the NSA surveillance programs recently
-    described in the press based upon unauthorized disclosures.
+Privacy Act Compliane Report for April 13, 2016
 ---
