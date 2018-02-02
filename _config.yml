@@ -127,6 +127,8 @@ collections:
     output: true
   official-correspondence:
     output: true
+  plain-language:
+    output: true
   federal-register-notices:
     output: true
   statements:
