@@ -28,14 +28,13 @@ The PCLOB is committed to using plain language in our public communications and 
 
 
 ## Plain Writing Act Compliance Report
-
-
-Plain Writing Act Compliance Reports
-  - title: Plain Writing Act Compliance Reports
+documents:
+  - title: FOIA Reference Guide
+    description: |
+      This reference guide is designed to help the public understand how the PCLOB FOIA process works so that the public can be better informed about the operations and activities of the Federal Government.
     downloads:
       - type: PDF
-        name: Downloadhe PCLOB’s 2016 Plain Writing Act Compliance Report 
-        url: /library/Full.Revised.FOIA.Reg.-.PCLOB.2017-0001-0001.pdf
+        url: /foia/FOIA%20Library/InterimFOIAReferenceGuide.pdf
 
 The PCLOB’s 2017 Plain Writing Act Compliance Report is now available.
 
