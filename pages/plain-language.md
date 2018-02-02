@@ -31,7 +31,7 @@ The PCLOB is committed to using plain language in our public communications and 
 
 
 Plain Writing Act Compliance Reports
-  - title: FOIA Regulations
+  - title: Plain Writing Act Compliance Reports
     downloads:
       - type: PDF
         name: Downloadhe PCLOB’s 2016 Plain Writing Act Compliance Report 
