@@ -1,13 +1,9 @@
 ---
 layout: report-list
 permalink: /plain-writing/
-title: Plain Writing Act
+title: Plain Writing Act of 2010
 collection: plain-language
 ---
-
-# Plain Writing Act of 2010
-
-
 
 The Plain Writing Act of 2010 requires federal agencies to write “clear government communication that the public can understand and use.” President Obama also emphasized the importance of establishing “a system of transparency, public participation, and collaboration” in his Jan. 21, 2009 Memorandum on Transparency and Open Government.
 
