@@ -27,7 +27,7 @@ The PCLOB is committed to using plain language in our public communications and 
 
 
 
-Plain Writing Act Compliance Report
+### Plain Writing Act Compliance Report
 
 
 The PCLOB’s 2016 Plain Writing Act Compliance Report 
