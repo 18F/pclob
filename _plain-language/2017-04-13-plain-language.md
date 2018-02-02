@@ -2,11 +2,10 @@
 layout: report
 date: '2017-04-13'
 permalink: /plain-writing/2017-04-13-pclob-plain-writing-report/
-title: PCLOB Plain Writing Report
+title: PCLOB’s 2017 Plain Writing Act Compliance Report
 attachments:
-    - title: Download Plain Language Report
+    - title: Download PCLOB’s 2017 Plain Writing Act Compliance Report
       url: /library/PCLOB%20Plain%20Writing%20Report%20(Apr.%2013%2C%202017).pdf
 summary: >-
     Privacy Act Compliane Report for April 13, 2017
 ---
-
