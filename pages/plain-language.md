@@ -31,6 +31,10 @@ The PCLOB is committed to using plain language in our public communications and 
 
 The PCLOB’s 2016 Plain Writing Act Compliance Report.
 
+ - link: /library/42USC2000ee-PCLOB_Enabling_Statute-2.pdf
+        title: 42 U.S.C. § 2000ee
+        text: The Board's enabling statute.
+
 The PCLOB’s 2017 Plain Writing Act Compliance Report is now available.
 
 
