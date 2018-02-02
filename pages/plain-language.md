@@ -18,22 +18,16 @@ The PCLOB is committed to writing new documents in plain language using the Fede
 
 
 The PCLOB annually trains our employees. Plain language is required in any document that:
-
-
-Is necessary for obtaining any federal government benefit or service or filing taxes.
-Provides information about any federal government benefit or service.
-Explains to the public how to comply with a requirement that the federal government administers or enforces.
-The PCLOB is committed to using plain language in our public communications and correspondence.
+     -Is necessary for obtaining any federal government benefit or service or filing taxes.
+     -Provides information about any federal government benefit or service.
+     -Explains to the public how to comply with a requirement that the federal government administers or enforces.
+     -The PCLOB is committed to using plain language in our public communications and correspondence.
 
 
 
 ## Plain Writing Act Compliance Report
 
 The PCLOB’s 2016 Plain Writing Act Compliance Report.
-
- - link: /library/42USC2000ee-PCLOB_Enabling_Statute-2.pdf
-        title: 42 U.S.C. § 2000ee
-        text: The Board's enabling statute.
 
 The PCLOB’s 2017 Plain Writing Act Compliance Report is now available.
 
