@@ -6,5 +6,3 @@ collection: plain-language
 ---
 
 
-
-This is a test
