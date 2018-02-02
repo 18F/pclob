@@ -10,9 +10,3 @@ summary: >-
     Privacy Act Compliane Report for April 13, 2016
     
 ---
-
-## Agency Designations
-
-All PCLOB employees have completed Plain Writing Act training. The General Counsel serves as the Senior Official for Plain Writing.
-
----
