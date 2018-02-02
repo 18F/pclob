@@ -5,7 +5,7 @@ title: Plain Writing Act
 collection: plain-language
 ---
 
-## Plain Writing Act of 2010
+# Plain Writing Act of 2010
 
 
 
@@ -27,7 +27,7 @@ The PCLOB is committed to using plain language in our public communications and 
 
 
 
-# Plain Writing Act Compliance Report
+## Plain Writing Act Compliance Report
 
 
 The PCLOB’s 2016 Plain Writing Act Compliance Report 
@@ -36,6 +36,6 @@ The PCLOB’s 2016 Plain Writing Act Compliance Report
 The PCLOB’s 2017 Plain Writing Act Compliance Report is now available.
 
 
-Agency Designations
+### Agency Designations
 
 All PCLOB employees have completed Plain Writing Act training. The General Counsel serves as the Senior Official for Plain Writing.
