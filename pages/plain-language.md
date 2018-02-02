@@ -1,6 +1,6 @@
 ---
 layout: report-list
-permalink: /Plain-Writing/
-title: Official Correspondence
+permalink: /plain-writing/
+title: Plain Writing Act
 collection: _plain-language
 ---
