@@ -25,12 +25,3 @@ The PCLOB annually trains our employees. Plain language is required in any docum
 
 
 ## Plain Writing Act Compliance Report
-
-The PCLOB’s 2016 Plain Writing Act Compliance Report.
-
-The PCLOB’s 2017 Plain Writing Act Compliance Report is now available.
-
-
-### Agency Designations
-
-All PCLOB employees have completed Plain Writing Act training. The General Counsel serves as the Senior Official for Plain Writing.
