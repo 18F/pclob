@@ -80,7 +80,7 @@ footer:
     - text: 'FOIA information'
       href: '/foia/'
     - text: 'Plain Writing Act'
-      href: 'https://www.plainlanguage.gov/pllaw/'
+      href: '/plain-language/'
     - text: 'Privacy compliance'
       href: '/privacy/'
     - text: 'USA.gov'
