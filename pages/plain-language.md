@@ -5,7 +5,7 @@ title: Plain Writing Act
 collection: plain-language
 ---
 
-Plain Writing Act of 2010
+## Plain Writing Act of 2010
 
 
 
