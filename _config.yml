@@ -80,7 +80,7 @@ footer:
     - text: 'FOIA information'
       href: '/foia/'
     - text: 'Plain Writing Act'
-      href: 'https://www.plainlanguage.gov/pllaw/'
+      href: '/plain-writing/'
     - text: 'Privacy compliance'
       href: '/privacy/'
     - text: 'USA.gov'
@@ -126,6 +126,8 @@ collections:
   semiannual-reports:
     output: true
   official-correspondence:
+    output: true
+  plain-language:
     output: true
   federal-register-notices:
     output: true
