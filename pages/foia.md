@@ -89,6 +89,9 @@ annual-reports:
 quarterly_reports:
   # Note that the quarters should be listed in reverse chronological
   # order. If they're not, they will be mis-labeled!
+  - year: FY 2018
+    quarters:
+      - /foia/quarterly/PCLOB-2018-Q1.zip
   - year: FY 2017
     quarters:
       - /foia/quarterly/PCLOB-2017-Q3.zip
