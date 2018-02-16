@@ -9,7 +9,7 @@ additional-info:
 
     In addition to its primary mandate, the Board also has designated roles under the following legal authorities:"
     links:
-      - link: /library/42USC2000ee-PCLOB_Enabling_Statute-2.pdf
+      - link: /library/42USC2000ee-PCLOB_Enabling_Statute-3.pdf
         title: 42 U.S.C. § 2000ee
         text: The Board's enabling statute.
       - link: /library/EO13636-Improving_Critical_Infrastructure_Cybersecurity.pdf
