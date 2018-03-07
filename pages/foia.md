@@ -22,6 +22,13 @@ documents:
         name: Download original 2013 regulation
         url: /library/FOIA-Privacy_Act-Sunshine_Act-Implementing%20Guidelines.pdf
 chief-foia-officer-reports:
+  - title: 2018 Chief FOIA Officer Report
+    year: 2018
+    description: |
+      This is the PCLOB's third Chief Freedom of Information Act Officer Report, which covers activities from March 2017 through March 2018.
+    downloads:
+      - type: PDF
+        url: /library/FOIA-2018-Chief_FOIA_Officer_Report.pdf.pdf
   - title: 2017 Chief FOIA Officer Report
     year: 2017
     description: |
