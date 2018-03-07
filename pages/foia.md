@@ -33,7 +33,7 @@ chief-foia-officer-reports:
     year: 2017
     description: |
       This is the PCLOB's third Chief Freedom of Information Act Officer Report, which covers activities from March 2016 through March 2017.
-      downloads:
+    downloads:
       - type: PDF
         url: /library/FOIA-2017-Chief_FOIA_Officer_Report.pdf
   - title: 2016 Chief FOIA Officer Report
