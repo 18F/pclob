@@ -1,6 +1,6 @@
 ---
 layout: report-list
-permalink: /official-correspondence/
-title: Official Correspondence
-collection: official-correspondence
+permalink: /non-disclosure/
+title: Non-Disclosure Agreement
+collection: NDA
 ---
