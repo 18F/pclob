@@ -56,6 +56,9 @@ additional-info:
       - link: /library/StrategicPlan_2016-2018.pdf
         title: PCLOB Strategic Plan for 2016 – 2018
         text: The PCLOB’s Strategic Plan for 2016 – 2018 establishes four strategic goals to support the agency’s mission and guide its efforts through 2018. These cover the Board’s oversight reviews; its advice to the President and other elements of the executive branch; its strategies to inform Congress, the President, and the public; and the Board’s continued focus on refining the agency’s own capabilities and internal procedures.
+      - link: /library/CBJFY19Final.pdf
+        title: PCLOB FY 2019 Budget Request
+        text:
       - link: /library/(U)%20PCLOB%20CBJ%20FY%202018%20L.pdf
         title: PCLOB FY 2018 Budget Request
         text: "The Privacy and Civil Liberties Oversight Board (“PCLOB” or the “Board”) requests $8 million (and no new positions) for its FY 2018 Budget Request. The PCLOB’s FY 2018 Request will allow the PCLOB to continue fulfilling its mission requirements: to conduct oversight and provide advice to ensure that efforts taken by the executive branch to protect the nation from terrorism are appropriately balanced with the need to protect privacy and civil liberties, while operating as an established agency with a growing infrastructure and increasingly comprehensive operating policies and procedures."
