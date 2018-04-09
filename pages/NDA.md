@@ -1,7 +1,7 @@
 ---
 layout: report-list
 permalink: /non-disclosure/
-title: Non-Disclosure Agreement
+title: Non-Disclosure Agreements
 collection: NDA
 ---
 
