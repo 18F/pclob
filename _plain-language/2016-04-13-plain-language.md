@@ -7,6 +7,6 @@ attachments:
     - title: Download PCLOB’s 2016 Plain Writing Act Compliance Report
       url: /library/PCLOB%20Plain%20Writing%20Report%20(Apr.%2013%2C%202016).pdf
 summary: >-
-    Privacy Act Compliane Report for April 13, 2016
+    Privacy Act Compliance Report for April 13, 2016
     
 ---
