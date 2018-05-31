@@ -25,7 +25,7 @@ FOIA requests may be directed to the Board at:
 
 Email: foia@pclob.gov
 
-Fax: (202) 816-3086
+Fax: (202) 816-3088
 
 ## Agency Designations
 ### Freedom of Information Act and Privacy Act:
