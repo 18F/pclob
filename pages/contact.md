@@ -8,14 +8,14 @@ Thank you for your interest in the Privacy and Civil Liberties Oversight Board. 
 
 ## General Inquiries
 Mailing Address:
-MS2 – 2C104
-Washington, DC 20511
+800 North Capitol Street NW,
+Washington, DC 20002
 
 Telephone:
-(202) 331-1986
+(202) 296-4649
 
 Facsimile:
-(202) 296-4395 
+(202) 816-3086
 
 Email:
 info@pclob.gov
@@ -25,7 +25,7 @@ FOIA requests may be directed to the Board at:
 
 Email: foia@pclob.gov
 
-Fax: (202) 296-4395
+Fax: (202) 816-3086
 
 ## Agency Designations
 ### Freedom of Information Act and Privacy Act:
