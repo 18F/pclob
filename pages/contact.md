@@ -8,7 +8,7 @@ Thank you for your interest in the Privacy and Civil Liberties Oversight Board. 
 
 ## General Inquiries
 Mailing Address:
-800 North Capitol Street NW,
+800 North Capitol Street NW., Suite 565,
 Washington, DC 20002
 
 Telephone:
