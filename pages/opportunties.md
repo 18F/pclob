@@ -8,4 +8,5 @@ All full-time and part time employees of the Privacy and Civil Liberties Oversig
 
 ### Current openings
 
-There are no current openings.
+ - text: 'Plain Writing Act'
+      href: '/plain-writing/'
