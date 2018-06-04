@@ -5,9 +5,12 @@ title: ATTORNEY-ADVISOR JOB ANNOUNCEMENT
 collection: Attorney
 ---
 
-JOB TITLE: Attorney-Advisor 
-AGENCY: Privacy and Civil Liberties Oversight Board (“PCLOB”)  
-SALARY RANGE: $96,970 - $157,253 
+**JOB TITLE:** Attorney-Advisor 
+
+**AGENCY:** Privacy and Civil Liberties Oversight Board (“PCLOB”)  
+
+**SALARY RANGE:** $96,970 - $157,253 
+
 SERIES/GRADE: GS-13-15 (equivalent)  
 POSITION INFORMATION: Full-Time – Excepted Service  
 DUTY LOCATION: Washington, DC  
