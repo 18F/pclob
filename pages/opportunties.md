@@ -11,6 +11,6 @@ All full-time and part time employees of the Privacy and Civil Liberties Oversig
 
 [ATTORNEY ADVISOR](https://federalist-proxy.app.cloud.gov/preview/18f/pclob/jobs/attorney-advisor/)
 
-;[GENERAL ATTORNEY](https://www.pclob.gov/non-disclosure/)
+[GENERAL ATTORNEY](https://www.pclob.gov/non-disclosure/)
 
-;[HUMAN RESOURCES SPECIALIST ](https://www.pclob.gov/non-disclosure/)
+[HUMAN RESOURCES SPECIALIST ](https://www.pclob.gov/non-disclosure/)
