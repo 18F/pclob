@@ -32,7 +32,8 @@ Candidates from outside the Washington, D.C., area may be selected for a telepho
 **Position Information**  
 This is an opportunity for:  
 •	Permanent employment in the excepted service  
-•	This position is located in Washington, DC. 
+•	This position is located in Washington, DC.   
+
 
 **Who May Apply**  
 Open to the public 
