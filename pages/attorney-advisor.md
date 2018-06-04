@@ -66,4 +66,5 @@ The Privacy and Civil Liberties Oversight Board is an independent, bipartisan ag
 •	Ability to effectively enhance public understanding of PCLOB's mission, rules, and oversight framework, through authorized transparency channels.  
 
 
-**Application Process**  Please send a cover letter and resume to jobs@pclob.gov with “Attorney Advisor” in the “Subject” line. 
+**Application Process**  
+Please send a cover letter and resume to jobs@pclob.gov with “Attorney Advisor” in the “Subject” line. 
