@@ -9,8 +9,8 @@ All full-time and part time employees of the Privacy and Civil Liberties Oversig
 
 ### Current openings   
 
-[ATTORNEY ADVISOR](https://federalist-proxy.app.cloud.gov/preview/18f/pclob/jobs/attorney-advisor/)
+[ATTORNEY ADVISOR](https://federalist-proxy.app.cloud.gov/preview/18f/pclob/jobsv2/attorney-advisor/)
 
 [GENERAL ATTORNEY](https://federalist-proxy.app.cloud.gov/preview/18f/pclob/jobsv2/general-attorney/)
-
+ 
 [HUMAN RESOURCES SPECIALIST ](https://federalist-proxy.app.cloud.gov/preview/18f/pclob/jobsv2/human-resources/)
