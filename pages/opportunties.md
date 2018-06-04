@@ -8,7 +8,3 @@ All full-time and part time employees of the Privacy and Civil Liberties Oversig
 
 ### Current openings
 
-    links:
-      - link: /library/42USC2000ee-PCLOB_Enabling_Statute-3.pdf
-        title: Attorney-Advisor
-       
