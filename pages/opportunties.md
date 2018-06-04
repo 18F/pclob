@@ -10,5 +10,7 @@ All full-time and part time employees of the Privacy and Civil Liberties Oversig
 ### Current openings   
 
 [ATTORNEY ADVISOR](https://www.pclob.gov/non-disclosure/)
+
 [GENERAL ATTORNEY](https://www.pclob.gov/non-disclosure/)
+
 [HUMAN RESOURCES SPECIALIST ](https://www.pclob.gov/non-disclosure/)
