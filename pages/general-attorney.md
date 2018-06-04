@@ -68,8 +68,8 @@ The Privacy and Civil Liberties Oversight Board is an independent, bipartisan ag
 •	Must possess a LL.B. or J.D. and be a member in good standing of a state bar.
 
 **Desired Requirements**  
-•	Ability to communicate effectively, both orally and in writing, with PCLOB personnel and leadership, mission partners, and other PCLOB stakeholders. 
-•	Ability to work collaboratively as part of team in a high-pressure environment focused on the counterterrorism mission.
+•	Ability to communicate effectively, both orally and in writing, with PCLOB personnel and leadership, mission partners, and other PCLOB stakeholders.   
+•	Ability to work collaboratively as part of team in a high-pressure environment focused on the counterterrorism mission.  
 •	Ability to effectively enhance public understanding of PCLOB's mission, rules, and oversight framework, through authorized transparency channels.  
 •	National Archives and Records Administration (NARA) Certificate in Federal Records Management.
 
