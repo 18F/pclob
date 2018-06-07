@@ -13,4 +13,4 @@ All full-time and part time employees of the Privacy and Civil Liberties Oversig
 
 [GENERAL ATTORNEY](https://www.pclob.gov/general-attorney/)
  
-[HUMAN RESOURCES SPECIALIST ](https://www.pclob.gov/human-resources/)
+<!-- [HUMAN RESOURCES SPECIALIST ](https://www.pclob.gov/human-resources/) -->
