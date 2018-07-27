@@ -100,6 +100,7 @@ quarterly_reports:
     quarters:
       - /foia/quarterly/PCLOB-2018-Q1.zip
       - /foia/quarterly/PCLOB-2018-Q2.zip
+      - /foia/quarterly/PCLOB-2018-Q3.zip
   - year: FY 2017
     quarters:
       - /foia/quarterly/PCLOB-2017-Q4.zip
