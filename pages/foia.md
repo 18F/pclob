@@ -4,7 +4,7 @@ title: Freedom of Information Act (FOIA)
 permalink: /foia/
 body-class: foia
 documents:
-  - title: PPD-28
+  - title: Presidential Policy Directive 28 (PPD-28) Report
     description: |
       Report for Release
     downloads:
