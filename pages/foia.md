@@ -9,7 +9,7 @@ documents:
       Report for Release
     downloads:
       - type: PDF
-        url: /foia/FOIA%20Library/InterimFOIAReferenceGuide.pdf
+        url: /library/PPD-28 Report (for FOIA Release).pdf
   - title: FOIA Reference Guide
     description: |
       This reference guide is designed to help the public understand how the PCLOB FOIA process works so that the public can be better informed about the operations and activities of the Federal Government.
