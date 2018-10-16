@@ -3,11 +3,11 @@ layout: report
 slug: oversight-report-section-702
 permalink: /reports/report-702/
 featured: true
-title: Report on the Surveillance Program Operated Pursuant to Section 702 of the Foreign Intelligence Surveillance Act
-date: July 2, 2014
-summary: The Board's report on the surveillance program directed at international telephone and internet communications conducted under Section 702 of the Foreign Intelligence Surveillance Act. The report provides descriptive, legal, and policy analysis of the program and offers ten recommendations to further ensure the protection of privacy and civil liberties.
+title: PPD-28
+date: October 16, 2018
+summary: This is the bipartisan Privacy and Civil Liberties Oversight Board (PCLOB)’s Report on the Implementation of Presidential Policy Directive 28 (PPD-28)
 attachments:
-  - url: /library/702-Report-2.pdf
+  - url: /library/PPD-28 Report (for FOIA Release).pdf
     title: Download the report
     format: PDF
 related:
