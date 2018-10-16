@@ -3,7 +3,7 @@ layout: report
 slug: oversight-report-section-702
 permalink: /reports/report-702/
 featured: true
-title: PPD-28
+title: Presidential Policy Directive 28 (PPD-28) Report
 date: October 16, 2018
 summary: This is the bipartisan Privacy and Civil Liberties Oversight Board (PCLOB)’s Report on the Implementation of Presidential Policy Directive 28 (PPD-28)
 attachments:
