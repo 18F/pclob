@@ -1,9 +1,9 @@
 ---
 layout: teammate
 name: Adam I. Klein
-image: /assets/img/board/members/fakepicture.jpg
+image: <!-- /assets/img/board/members/fakepicture.jpg -->
 title: Chairman
-term: 
+term: <!--October 2018 - Present-->
 body-class: page-team-single
 is-current-member: true
 ---
