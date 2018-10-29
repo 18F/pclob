@@ -10,4 +10,4 @@ is-current-member: true
 ---
 This is only a test.
 
-Hired April 11, 2017 -->
+<!-- Hired April 11, 2017
