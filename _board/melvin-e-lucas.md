@@ -1,4 +1,5 @@
-<!-----
+<!--
+---
 layout: teammate
 name: Melvin E. Lucas Jr
 image: /assets/img/board/members/me2.png
