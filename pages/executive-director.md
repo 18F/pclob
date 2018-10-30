@@ -6,22 +6,19 @@ collection: Executive Director
 ---
 **JOB TITLE:** Executive Director
 
-**AGENCY:** Privacy and Civil Liberties Oversight Board ("PCLOB")
+**AGENCY:** Privacy and Civil Liberties Oversight Board
 
 **SALARY RANGE:** $153,800 / Per Year
 
-**SERIES/GRADE:**  
-The agency uses the Administratively Determined system in which rank is attached to the individual. A selected Federal Government candidate will be assigned to the equivalent of Executive Schedule Level V.
+**SERIES/GRADE:** The agency uses the Administratively Determined system in which rank is attached to the individual. A selected Federal Government candidate will be assigned to the equivalent of Executive Schedule Level V.
 
-**POSITION INFORMATION:**  
-This is an opportunity for permanent employment in the excepted service. You will be required to serve a two-year trial period.
+**POSITION INFORMATION:** This is an opportunity for permanent employment in the excepted service. You will be required to serve a two-year trial period.
 
 **DUTY LOCATION:** Washington, D.C.
 
 **WHO MAY APPLY:** Open to the public. U.S. citizenship required.
 
-**SECURITY CLEARANCE:**  
-Must have or be able to obtain a TOP SECRET – Sensitive Compartmented Information (TS-SCI) Security clearance.  If you already have a TS/SCI clearance, please highlight your last investigation date in your application.
+**SECURITY CLEARANCE:** Must have or be able to obtain a TOP SECRET – Sensitive Compartmented Information (TS-SCI) Security clearance.  If you already have a TS/SCI clearance, please highlight your last investigation date in your application.
 
 **AGENCY MISSION**  
 The Privacy and Civil Liberties Oversight Board (PCLOB or Board)'s responsibilities comprise two basic functions: oversight and advice. In its oversight role, the Board is authorized to continually review the implementation of executive branch policies, procedures, regulations, and information sharing practices relating to efforts to protect the nation from terrorism, in order to ensure that privacy and civil liberties are protected. The Board is also authorized to continually review any other actions of the executive branch relating to efforts to protect the nation from terrorism, in order to determine whether such actions appropriately protect privacy and civil liberties and whether they are consistent with governing laws, regulations, and policies regarding privacy and civil liberties. In its advice role, the Board is authorized to review proposed legislation, regulations, and policies related to efforts to protect the nation from terrorism (as well as the implementation of new and existing policies and legal authorities), in order to advise the President and executive branch agencies on ensuring that privacy and civil liberties are appropriately considered in their development and implementation.
