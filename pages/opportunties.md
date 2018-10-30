@@ -9,6 +9,10 @@ All full-time and part time employees of the Privacy and Civil Liberties Oversig
 
 ### Current openings   
 
+<!--[EXECUTIVE DIRECTOR](https://www.pclob.gov/executive-director/) -->
+
+[EXECUTIVE DIRECTOR](https://www.pclob.gov/executive-director/)
+
 [ATTORNEY ADVISOR](https://www.pclob.gov/attorney-advisor/)
 
 [GENERAL ATTORNEY](https://www.pclob.gov/general-attorney/)
