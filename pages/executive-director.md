@@ -19,7 +19,7 @@ This is an opportunity for permanent employment in the excepted service. You wil
 
 **WHO MAY APPLY:** Open to the public. U.S. citizenship required.
 
-**SECURITY CLEARANCE:** 
+**SECURITY CLEARANCE:**  
 Must have or be able to obtain a TOP SECRET – Sensitive Compartmented Information (TS-SCI) Security clearance.  If you already have a TS/SCI clearance, please highlight your last investigation date in your application.
 
 **AGENCY MISSION** 
