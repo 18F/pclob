@@ -13,7 +13,7 @@ collection: Executive Director
 **SERIES/GRADE:**  
 The agency uses the Administratively Determined system in which rank is attached to the individual. A selected Federal Government candidate will be assigned to the equivalent of Executive Schedule Level V.
 
-**POSITION INFORMATION:** 
+**POSITION INFORMATION:**  
 This is an opportunity for permanent employment in the excepted service. You will be required to serve a two-year trial period.
 
 **DUTY LOCATION:** Washington, D.C.
