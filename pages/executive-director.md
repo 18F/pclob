@@ -22,7 +22,7 @@ This is an opportunity for permanent employment in the excepted service. You wil
 **SECURITY CLEARANCE:**  
 Must have or be able to obtain a TOP SECRET – Sensitive Compartmented Information (TS-SCI) Security clearance.  If you already have a TS/SCI clearance, please highlight your last investigation date in your application.
 
-**AGENCY MISSION** 
+**AGENCY MISSION**  
 The Privacy and Civil Liberties Oversight Board (PCLOB or Board)'s responsibilities comprise two basic functions: oversight and advice. In its oversight role, the Board is authorized to continually review the implementation of executive branch policies, procedures, regulations, and information sharing practices relating to efforts to protect the nation from terrorism, in order to ensure that privacy and civil liberties are protected. The Board is also authorized to continually review any other actions of the executive branch relating to efforts to protect the nation from terrorism, in order to determine whether such actions appropriately protect privacy and civil liberties and whether they are consistent with governing laws, regulations, and policies regarding privacy and civil liberties. In its advice role, the Board is authorized to review proposed legislation, regulations, and policies related to efforts to protect the nation from terrorism (as well as the implementation of new and existing policies and legal authorities), in order to advise the President and executive branch agencies on ensuring that privacy and civil liberties are appropriately considered in their development and implementation.
 
 The primary purpose of this position is to perform duties as the Executive Director for the PCLOB. As such, the incumbent performs a variety of duties in pursuit of the Board’s mission. The incumbent works in conjunction with and under the general direction of the Chairman, who provides policy guidance and broadly defined program objectives; reviews and discusses with incumbent management policies, principles, and problems affecting the accomplishment of the PCLOB's mission; relies on incumbent's recommendations and decisions in developing and coordinating management services activities, policies, and programs, as well as the accomplishment of the overall mission.
@@ -36,26 +36,26 @@ Serves as the Executive Director to the Chairman of the Board for resources resp
 
 3. Represents the Chairman and Board Members in high-level meetings with key officials, industry, academia, and state and local governments. Represents the Board on special boards, panels, and committees, as directed. Makes commitments which obligate the Board to a particular course of action. Representations involve issues where the employee is required to motivate, persuade, or educate persons or groups to adopt processes or take actions to advance the goals.
 
-**SUPERVISORY/MANAGEMENT RESPONSIBILITIES**
+**SUPERVISORY/MANAGEMENT RESPONSIBILITIES**  
 Directs, coordinates, and oversees work through subordinate supervisors. Advises staff regarding policies, procedures, and directives of higher level management. With the Chairman selects or recommends candidates for subordinate positions, taking into consideration skills, qualifications, and requirements. Ensures reasonable equity among units of performance standards developed, modified, and/or interpreted and rating techniques developed by subordinate supervisors. Accepts, amends, or rejects work of subordinates and subordinate supervisors. Makes decisions on work problems presented by subordinate supervisors, if any. Hears and resolves group grievances and employee complaints referred by subordinate supervisors and employees.  Encourages self-development. Approves leave for subordinates and subordinate supervisors and ensures adequate coverage in organization through peak workloads and traditional holiday vacation time. Discharges security responsibilities by ensuring education and compliance with security directives for employees with access to classified or sensitive material. Recognizes and takes appropriate action to correct situations posing a threat to the health or safety of subordinates. Provides a work environment that is free from all forms of discrimination, harassment, and retaliation. Addresses subordinates’ concerns, whether perceived or real, and follows up with appropriate action to correct or eliminate tension in the workplace. Ensures that subordinate supervisors have effective interpersonal, communication, and managerial skills to supervise in a workplace with diverse employees.
 
-**EDUCATIONAL REQUIREMENTS**
+**EDUCATIONAL REQUIREMENTS**  
 College and advanced degrees related to law, policy, and/or government are preferred.
 
-**APPLICATION PROCESS**
+**APPLICATION PROCESS**  
 Please send a cover letter and resume to jobs@pclob.gov with “Executive Director” in the “Subject” line. 
 
 Please only provide the documents above in your application. Candidates selected for an interview will be asked to provide a list of references and a writing assessment.
 
 Only experience obtained by the closing date of this announcement will be considered.
 
-**CLOSING DATE**
+**CLOSING DATE**  
 Every two weeks a panel will convene to evaluate applications until the position is filled. A review of your application will be made to ensure you meet the job requirements. To determine if you are qualified for this job, your resume and supporting documentation will be evaluated. Candidates will be placed into categories of “best qualified”, “qualified”, and “not qualified.” If, after reviewing your resume and or supporting documentation, a determination is made that you have inflated your qualifications and/or experience, you may be placed in a different category. Please follow all instructions carefully. Errors or omissions may affect your categorization.
 
-**NO TRAVEL EXPENSES FOR INTERVIEWS**
+**NO TRAVEL EXPENSES FOR INTERVIEWS**  
 Candidates from outside the Washington, D.C., area may be selected for a telephone, teleconference, or in-person interview. If selected for an in-person interview, any travel or lodging will be at the applicant’s personal expense.
 
-**TELEWORK, TRANSPORTATION, AND BENEFITS**
+**TELEWORK, TRANSPORTATION, AND BENEFITS**  
 Telework/telecommuting may be made available after a waiting period.  
 
 If you use public transportation, part of your transportation costs may be subsidized. Our budget office can provide additional information on how this program is run.
