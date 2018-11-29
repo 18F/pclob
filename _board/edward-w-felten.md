@@ -1,7 +1,7 @@
 ---
 layout: teammate
 name: Edward W. Felten
-image: /assets/img/board/members/fakepicture.jpg
+image: /assets/img/board/members/PCLOBimage.jpg
 title: Board member
 term: October 2018 - Present
 body-class: page-team-single
