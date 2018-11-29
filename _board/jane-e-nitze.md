@@ -1,4 +1,3 @@
-<!--
 ---
 layout: teammate
 name: Jane E. Nitze
@@ -8,6 +7,6 @@ term: October 2018 - Present
 body-class: page-team-single
 is-current-member: true
 ---
-Member's biography will be posted at a later time
+Member's biography is forthcoming.
 
-Mrs. Nitze's current term ends on January 29, 2021
+
