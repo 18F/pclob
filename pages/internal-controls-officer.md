@@ -4,8 +4,11 @@ permalink: /internal-controls-officer/
 title: INTERNAL-CONTROLS-OFFICER JOB ANNOUNCEMENT 
 collection: Attorney
 ---
-JOB TITLE: Internal Controls Officer
-AGENCY: Privacy and Civil Liberties Oversight Board
+
+**JOB TITLE:** Internal Controls Officer  
+
+**AGENCY:** Privacy and Civil Liberties Oversight Board  
+
 SALARY RANGE: $92,145 - $149,432
 SERIES/GRADE: GS-13-14 (equivalent)
 POSITION INFORMATION: Full-Time – Excepted Service
