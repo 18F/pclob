@@ -51,21 +51,22 @@ The incumbent provides assessments of, and reasonable assurance about, the agenc
 With minimum supervision, the incumbent will research, plan, and conduct financial and other necessary reviews, as well as prepare the agency for outside audits in accordance with set standards. The incumbent will have an opportunity to participate in all aspects of the audit cycle from development of an annual audit plan through follow-up on recommendations. The selectee must have a strong ethical commitment to ensure integrity, efficiency, and effectiveness; possess knowledge of the theory, concepts, practices, and techniques of government auditing; be self-motivated and able to work independently as well as in a team environment; have strong oral and written communication skills; and must have the ability to work on multiple tasks with short deadlines while prioritizing as necessary to meet critical needs. An understanding of government budgeting, accounting, auditing, and risk management is key to success in this position.
 
 **Additional Duties**  
-•	Evaluate strategic financial improvement and planning initiatives to support auditability priorities and to identify challenges that require enterprise level transformation.
-•	Implement the agency's internal controls documents and lead meetings of the Senior Assessment Team.
-Recommend specific actions regarding challenges that require enterprise-level transformation.
-•	Ensure proposed actions are compliant with applicable statues and regulations, in consultation with the Office of General Counsel. Evaluate component financial statement audit assertions to ensure that credible assertions are prepared.
-•	Ensure financial management improvement activities support the goals of the agency's Strategic Plan and the priorities of the Board.
-•	Build collaborative opportunities and communication bridges within the agency, external federal interagency entities, and industry experts to grow a culture that recognizes and appreciates the value and benefits of being auditable.
-•	Desired Requirements
-Perform other internal controls, financial oversight, and risk management duties as assigned.
-•	Evaluate strategic financial improvement and planning initiatives to support auditability priorities and to identify challenges that require enterprise level transformation.
-•	Implement the agency's internal controls documents and lead meetings of the Senior Assessment Team.
-•	Recommend specific actions regarding challenges that require enterprise-level transformation.
-•	Ensure proposed actions are compliant with applicable statues and regulations, in consultation with the Office of General Counsel. Evaluate component financial statement audit assertions to ensure that credible assertions are prepared.
-•	Ensure financial management improvement activities support the goals of the agency's Strategic Plan and the priorities of the Board.
-•	Build collaborative opportunities and communication bridges within the agency, external federal interagency entities, and industry experts to grow a culture that recognizes and appreciates the value and benefits of being auditable.
-•	Perform other internal controls, financial oversight, and risk management duties as assigned.
+•	Evaluate strategic financial improvement and planning initiatives to support auditability priorities and to identify challenges that require enterprise level transformation.    
+•	Implement the agency's internal controls documents and lead meetings of the Senior Assessment Team.    
+• Recommend specific actions regarding challenges that require enterprise-level transformation.    
+•	Ensure proposed actions are compliant with applicable statues and regulations, in consultation with the Office of General Counsel.      • Evaluate component financial statement audit assertions to ensure that credible assertions are prepared.    
+•	Ensure financial management improvement activities support the goals of the agency's Strategic Plan and the priorities of the Board.   
+•	Build collaborative opportunities and communication bridges within the agency, external federal interagency entities, and industry experts to grow a culture that recognizes and appreciates the value and benefits of being auditable.    
+
+**Desired Requirements**
+• Perform other internal controls, financial oversight, and risk management duties as assigned.  
+•	Evaluate strategic financial improvement and planning initiatives to support auditability priorities and to identify challenges that require enterprise level transformation.    
+•	Implement the agency's internal controls documents and lead meetings of the Senior Assessment Team.  
+•	Recommend specific actions regarding challenges that require enterprise-level transformation.  
+•	Ensure proposed actions are compliant with applicable statues and regulations, in consultation with the Office of General Counsel.      • Evaluate component financial statement audit assertions to ensure that credible assertions are prepared.  
+•	Ensure financial management improvement activities support the goals of the agency's Strategic Plan and the priorities of the Board.  
+•	Build collaborative opportunities and communication bridges within the agency, external federal interagency entities, and industry experts to grow a culture that recognizes and appreciates the value and benefits of being auditable.  
+•	Perform other internal controls, financial oversight, and risk management duties as assigned.  
 
 **Application Process**  
 Please send a cover letter and resume to jobs@pclob.gov with “Internal Controls Officer” in the “Subject” line.
