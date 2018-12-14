@@ -48,13 +48,15 @@ The primary purpose of this position is to perform duties as a Technologist, wor
 
 11.	Assist with other legal and compliance requirements relating to the Board’s status as a federal agency.
 
-**Desired Requirements**  
+**Educational Requirements**  
 College and advanced degrees related to law, policy, and/or government are preferred.
 
 **Application Process**  
 Please send the required documents to jobs@pclob.gov with the title “Technologist”.
 Cover letter, resume, and writing sample (10 pages or less). Address cover letter to Human Resources Specialist. If you are less than 3 years out of college or graduate/law school, please also include a transcript.  
+
 You must submit all required information. If materials are not received, your application will be evaluated solely on the information available and you may not receive full consideration or may not be considered eligible.  
+
 Candidates selected for an interview may be asked to provide references and a writing assessment.
 
 **CLOSING DATE:**  
