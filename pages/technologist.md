@@ -5,58 +5,67 @@ title: TECHNOLOGIST JOB ANNOUNCEMENT
 collection: Attorney
 ---
 
-**JOB TITLE:** Human Resources Specialist
+**JOB TITLE:** Technologist
 
-**AGENCY:** Privacy and Civil Liberties Oversight Board (“PCLOB”)  
+**AGENCY:** Privacy and Civil Liberties Oversight Board  
 
-**SALARY RANGE:** $96,970 - $148,967 
+**SALARY RANGE:** $114,590 - $153,800
 
-**SERIES/GRADE:** GS-13-14 (equivalent)  
+**SERIES/GRADE:** The agency uses the Administratively Determined system in which rank is attached to the individual. A selected Federal Government candidate will be assigned to the equivalent of General Schedule (GS) 14-1 to GS 15-5.
 
-**POSITION INFORMATION:** Full-Time – Excepted Service  
+**POSITION INFORMATION:** This is an opportunity for permanent employment in the excepted service. You will be required to serve a two-year trial period.
 
 **DUTY LOCATION:** Washington, DC  
 
-**WHO MAY APPLY:** United States Citizens  
+**WHO MAY APPLY:** Open to the public. U.S. citizenship required. 
 
-**SECURITY CLEARANCE:** Top Secret/SCI  
+**SECURITY CLEARANCE:** Must have or be able to obtain a TOP SECRET – Sensitive Compartmented Information (TS-SCI) Security clearance.  If you already have a TS/SCI clearance, please highlight your last investigation date in your application.
 
-**SUPERVISORY STATUS:** No  
-
-**CLOSING DATE:**  
-This announcement will be open until the position is filled. Cut off points are scheduled in two-week increments. After each cut-off point, all compliant applications received during the previous two weeks will be reviewed for consideration 
-
-**Travel Expenses (Interviews) Reimbursed?**  
-Candidates from outside the Washington, D.C., area may be selected for a telephone, teleconference, or in-person interview. If selected for an in-person interview, any travel or lodging will be at the applicant’s personal expense. 
- 
-**Position Information**  
-This is an opportunity for:  
-•	Permanent employment in the excepted service  
-•	This position is located in Washington, DC. 
-
-**Who May Apply**  
-Open to the public 
- 
-**Salary Determination**  
-The PCLOB uses the Administratively Determined system in which rank is attached to the individual. A selected Federal Government candidate will be assigned to the position similar employee's current GS grade and salary. 
- 
- 
 **Agency Mission**  
-The Privacy and Civil Liberties Oversight Board is an independent, bipartisan agency within the executive branch established by the Implementing Recommendations of the 9/11 Commission Act, Pub. L. 110-53, signed into law in August 2007. Comprised of four part-time members and a full-time chairman, the Board is vested with two fundamental authorities: (1) to review and analyze actions the executive branch takes to protect the Nation from terrorism, ensuring the need for such actions is balanced with the need to protect privacy and civil liberties, and (2) to ensure that liberty concerns are appropriately considered in the development and implementation of laws, regulations, and policies related to efforts to protect the Nation against terrorism. 
+The Privacy and Civil Liberties Oversight Board (PCLOB or Board)'s responsibilities comprise two basic functions: oversight and advice. In its oversight role, the Board is authorized to continually review the implementation of executive branch policies, procedures, regulations, and information sharing practices relating to efforts to protect the nation from terrorism, in order to ensure that privacy and civil liberties are protected. The Board is also authorized to continually review any other actions of the executive branch relating to efforts to protect the nation from terrorism, in order to determine whether such actions appropriately protect privacy and civil liberties and whether they are consistent with governing laws, regulations, and policies regarding privacy and civil liberties. In its advice role, the Board is authorized to review proposed legislation, regulations, and policies related to efforts to protect the nation from terrorism (as well as the implementation of new and existing policies and legal authorities), in order to advise the President and executive branch agencies on ensuring that privacy and civil liberties are appropriately considered in their development and implementation.
+The primary purpose of this position is to perform duties as a Technologist, working under general supervision in the form of broad technical, policy, and program guidance. Incumbent is relied upon to accomplish assigned functions on own initiative. Independently formulates requirements, monitors approved resources, and develops, recommends, and monitors implementation of management policies and procedures. 
 
 **Major Duties and Responsibilities**  
-•	Has full technical responsibility for independently carrying out complex studies and projects involving personnel management program development and/or program evaluation, or for facilitating complex personnel management operations services.    
-•	Provides management advisory services activities at high levels within the agency and develops personnel policies.  Analyzes significant personnel management issues and problems and develops expert-level recommendations and alternative solutions.  
-•	Develops and maintains relationships with the Shared Services Providers to deliver a host of human resources services, including, but not limited to, benefits administration, personnel action processing, staffing, classification, employee relations, payroll and EAP. Serves as agency representative in inter-agency negotiations, discussions, working groups, and both formal and informal advisory forums to present, defend and negotiate agency positions as recognized representative of senior administrative management.  
-•	Represent the Board in interactions with officials from other departments and agencies of the federal government, the private sector, and non-governmental organizations, as required.
+1.	Serve with limited supervision and gather factual information and conduct analyses on complex investigations and/or reviews.
+
+2.	Conduct analyses of technology information and data relating to investigations and/or reviews.
+
+3.	Prepare memoranda and make appropriate recommendations to the Board.
+
+4.	Respond in writing and orally to inquiries from Members of the Board regarding the status of investigations and/or reviews, research and analysis, and policy implications of existing and proposed programs and making recommendations to the Board.
+
+5.	Summarize reports, technological information, and data received from the intelligence community and other agencies and extract essential information.
+
+6.	Assist the Board in reviewing and analyzing federal counterterrorism programs pursuant to its mission to ensure that both existing and proposed programs adequately safeguard privacy and civil liberties.
+
+7.	Advise and assist in the identification of issues and recommendations by providing technical and policy advice, conducting research, analyzing data and technological information, and carrying out investigations, as required.
+
+8.	Analyze privacy and civil liberties-related issues, national security and counterterrorism programs within the general range of areas the incumbent is responsible and assist the Board in understanding how programs operate.
+
+9.	Assist in drafting Board reports evaluating efforts to protect the nation from terrorism and other Board reports to the President, Congress and the public, as well as drafting congressional testimony, letters, and other documents to carry out the Board’s advisory responsibilities.
+
+10.	Represent the Board in interactions with officials from other departments and agencies of the Federal government, the private sector, and non-governmental organizations, as required.
+
+11.	Assist with other legal and compliance requirements relating to the Board’s status as a federal agency.
 
 **Desired Requirements**  
-•	Experience in Federal human resources, especially with the AD pay scale  
-•	Specialty in employee relations or human resource information systems  
-•	Strong communication skills  
-•	Strong research and investigative skills  
-•	Ability to work in a bipartisan environment  
-•	Ability to work with representatives of other federal agencies, industry representatives, advocacy groups, and other members of the public in a productive manner
+College and advanced degrees related to law, policy, and/or government are preferred.
 
 **Application Process**  
-Please send a cover letter and resume to jobs@pclob.gov with “Human Resources Specialist” in the “Subject” line. 
+Please send the required documents to jobs@pclob.gov with the title “Technologist”.
+Cover letter, resume, and writing sample (10 pages or less). Address cover letter to Human Resources Specialist. If you are less than 3 years out of college or graduate/law school, please also include a transcript.  
+You must submit all required information. If materials are not received, your application will be evaluated solely on the information available and you may not receive full consideration or may not be considered eligible.  
+Candidates selected for an interview may be asked to provide references and a writing assessment.
+
+**CLOSING DATE:**  
+A panel will convene to evaluate applications on a rolling basis until the position is filled. A review of your application will be made to ensure you meet the job requirements. To determine if you are qualified for this job, your resume and supporting documentation will be evaluated. Candidates will be placed into categories of “best qualified”, “qualified”, and “not qualified”. If, after reviewing your resume and or supporting documentation, a determination is made that you have inflated your qualifications and/or experience, you may be placed in a different category. Please follow all instructions carefully. Errors or omissions may affect your categorization.
+
+**NO TRAVEL EXPENSES FOR INTERVIEWS**  
+Candidates from outside the Washington, D.C., area may be selected for a telephone, teleconference, or in-person interview. If selected for an in-person interview, any travel or lodging will be at the applicant’s personal expense.
+
+**TELEWORK, TRANSPORTATION, AND BENEFITS**  
+Telework may be made available per agency policy.  
+
+If you use public transportation, part of your transportation costs may be subsidized. Our budget office can provide additional information on how this program is run.
+
+A career with the U.S. Government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding.
