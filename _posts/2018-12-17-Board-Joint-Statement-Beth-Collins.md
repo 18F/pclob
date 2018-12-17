@@ -6,5 +6,5 @@ links:
   - text: Download File
     url: /library/Board Joint Statement on Beth 12_17_18.docx
 permalink: null
-title: BOARD JOINT STATEMENT ON ELISABETH COLLINS
+title: BOARD JOINT STATEMENT ON ELISEBETH COLLINS
 ---
