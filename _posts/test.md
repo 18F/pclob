@@ -1,7 +1,7 @@
 ---
-layout: report
+category:newsroom
 slug: oversight-report-section-702
-permalink: /reports/report-PPD28/
+permalink: /newsroom/report-PPD28/
 featured: true
 title: Presidential Policy Directive 28 (PPD-28) Report
 date: October 16, 2018
