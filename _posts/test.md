@@ -6,5 +6,5 @@ links:
   - text: Download File
     url: https://github.com/18F/pclob/blob/master/library/StrategicPlan_2016-2018.pdf
 permalink: null
-title: This is a test
+title: THIS IS A TEST
 ---
