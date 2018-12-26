@@ -77,16 +77,22 @@ The PCLOB is an independent agency within the Executive Branch established by th
 
 ### What is the History of the Board?
 In its 2004 report, the National Commission on Terrorist Attacks Upon the United States, known as the 9/11 Commission, recommended the creation of what is now the Privacy and Civil Liberties Oversight Board. The Commission noted that many of its recommendations “call[ed] for the government to increase its presence in our lives—for example, by creating standards for the issuance of forms of identification, by better securing our borders, by sharing information gathered by many different agencies,” and by consolidating authority over intelligence agencies under a new Director of National Intelligence.  
+
 The Commission observed that “this shift of power and authority to the government” would require “an enhanced system of checks and balances to protect the precious liberties that are vital to our way of life.” It also found, however, that there was “no office within the government whose job it is to look across the government at the actions we are taking to protect ourselves to ensure that liberty concerns are appropriately considered.” To fill that gap, the Commission called for “a board within the executive branch” to oversee “the commitment the government makes to defend our civil liberties.”   
+
 In response to the 9/11 Commission’s recommendation, President George W. Bush created the President’s Board on Safeguarding Americans’ Civil Liberties in 2004. The President’s Board ceased to meet following the enactment later that year of the Intelligence Reform and Terrorism Prevention Act of 2004, which created a Privacy and Civil Liberties Oversight Board within the Executive Office of the President. Finally, in 2007, the Implementing Recommendations of the 9/11 Commission Act (“9/11 Commission Act”) established the Board as an independent agency within the Executive Branch.   
+
 Under the 9/11 Commission Act, the Board is comprised of a full-time Chairman and four part-time Members, each appointed by the President, with the advice and consent of the Senate, to staggered six-year terms. The Board’s statute requires that Members come from different political parties and be selected “on the basis of their professional qualifications, achievements, public stature, expertise in civil liberties and privacy, and relevant experience.”    
+
 The Board’s three current Members were confirmed by the Senate and appointed by the President in October 2018.
 
 
 ### What are the Board's Responsibilities?
 The Board’s responsibilities comprise two basic functions: oversight and advice.  
-In its oversight role, the Board is authorized to continually review the implementation of Executive Branch policies, procedures, regulations, and information-sharing practices relating to efforts to protect the nation from terrorism, in order to ensure that privacy and civil liberties are protected. The Board also is authorized to continually review any other actions of the Executive Branch relating to efforts to protect the nation from terrorism, in order to determine whether such actions appropriately protect privacy and civil liberties and whether they are consistent with governing laws, regulations, and policies regarding privacy and civil liberties.  
+In its oversight role, the Board is authorized to continually review the implementation of Executive Branch policies, procedures, regulations, and information-sharing practices relating to efforts to protect the nation from terrorism, in order to ensure that privacy and civil liberties are protected. The Board also is authorized to continually review any other actions of the Executive Branch relating to efforts to protect the nation from terrorism, in order to determine whether such actions appropriately protect privacy and civil liberties and whether they are consistent with governing laws, regulations, and policies regarding privacy and civil liberties. 
+
 In its advice role, the Board is authorized to review proposed legislation, regulations, and policies related to efforts to protect the nation from terrorism (as well as the implementation of new and existing policies and legal authorities), in order to advise the President and Executive Branch agencies on ensuring that privacy and civil liberties are appropriately considered in their development and implementation.  
+
 The Board is also directed by statute to, when appropriate, coordinate the activities of federal agency privacy and civil liberties officers on relevant interagency matters. Twice each year, the Board must report to Congress and the President on its activities, making the reports available to the public to the greatest extent possible.
 
 
