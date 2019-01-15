@@ -5,7 +5,9 @@ excerpt: >-
   Privacy and Civil Liberties Oversight Board (PCLOB) Chairman Adam Klein and Board Members Edward Felten and Jane Nitze have 
   released the following joint statement on the passing of Patricia Wald, who served as a Board Member from 2012-2017:
 layout: post
-links: []
+links:
+  - text: View File
+    url: /library/Board Joint Statement on Beth 12_17_18.pdf
 permalink: /newsroom/20160329.html
 title: >-
   Board Releases Statement on the Passing of Former Board Member Patricia Wald.
