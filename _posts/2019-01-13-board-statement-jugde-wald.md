@@ -7,7 +7,7 @@ excerpt: >-
 layout: post
 links:
   - text: View File
-    url: /library/Board Joint Statement on Beth 12_17_18.pdf
+    url: /library/Board Statement on Judge Wald
 permalink: /newsroom/20160329.html
 title: >-
   Board Releases Statement on the Passing of Former Board Member Patricia Wald.
