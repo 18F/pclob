@@ -41,7 +41,7 @@ to its new headquarters. These achievements have placed the Board on sound footi
 *“The Board will benefit from the legacy of Board Member Collins’ tenure for years to
 come. We thank her for her long service and deep dedication to our agency.”*
 
-                                        ####
+   ####
 
 The PCLOB is an independent agency within the Executive Branch established by the
 Implementing Recommendations of the 9/11 Commission Act of 2007. The PCLOB’s mission is
