@@ -13,7 +13,7 @@ title: >-
   “Board Releases Joint Statement About Departing Board Member, Elisebeth Collins.”
 ---
 FOR RELEASE  
-December 17, 2018
+December 18, 2018
 
 **PRIVACY AND CIVIL LIBERTIES OVERSIGHT BOARD WILL HOLD PUBLIC FORUM ON FEBRUARY 8, 2019**
 *Event to Discuss Emerging Issues in Countering Terrorism and Protecting Civil Liberties*
