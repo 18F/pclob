@@ -2,15 +2,16 @@
 category: newsroom
 date: '2018-12-17'
 excerpt: >-
-  Privacy and Civil Liberties Oversight Board (PCLOB) Chairman Adam Klein and Board Members Edward Felten and Jane Nitze have 
-  released the following joint statement on the passing of Patricia Wald, who served as a Board Member from 2012-2017:
+  The Members of the Privacy and Civil Liberties Oversight Board (PCLOB) have released 
+  the following joint statement to mark the departure of longtime Board Member Elisebeth 
+  Collins. Board Member Collins departed the Board effective December 15, 2018.
 layout: post
 links:
   - text: View File
-    url: /library/Board Statement on Judge Wald
+    url: /library/Board Joint Statement on Beth 12_17_18.pdf
 permalink: /newsroom/20160329.html
 title: >-
-  Board Releases Statement on the Passing of Former Board Member Patricia Wald.
+  “Board Releases Joint Statement About Departing Board Member, Elisebeth Collins.”
 ---
 FOR RELEASE  
 December 17, 2018
@@ -19,8 +20,7 @@ December 17, 2018
 
 **WASHINGTON, DC** - The Members of the Privacy and Civil Liberties Oversight
 Board (PCLOB) have released the following joint statement to mark the departure of longtime
-Board Member Elisebeth Collins.
-Board Member Collins departed the Board effective December 15, 2018.
+Board Member Elisebeth Collins. Board Member Collins departed the Board effective December 15, 2018.
 
 *“We extend our enduring gratitude to our colleague Elisebeth Collins for her many years
 of service to the Board. Board Member Collins is the longest-serving Member in the Board’s
@@ -41,7 +41,7 @@ to its new headquarters. These achievements have placed the Board on sound footi
 *“The Board will benefit from the legacy of Board Member Collins’ tenure for years to
 come. We thank her for her long service and deep dedication to our agency.”*
 
-   ####
+####
 
 The PCLOB is an independent agency within the Executive Branch established by the
 Implementing Recommendations of the 9/11 Commission Act of 2007. The PCLOB’s mission is
