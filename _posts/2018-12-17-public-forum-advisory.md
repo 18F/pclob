@@ -10,7 +10,7 @@ links:
     url: /library/Public Forum Advisory 12_17_18 final.pdf
 permalink: /newsroom/20160329.html
 title: >-
-  “Board Releases Joint Statement About Departing Board Member, Elisebeth Collins.”
+  “Board Announces February 8 Public Forum.”
 ---
 FOR RELEASE  
 December 18, 2018
