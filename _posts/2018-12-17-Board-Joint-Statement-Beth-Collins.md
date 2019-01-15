@@ -11,7 +11,7 @@ links:
     url: /library/Board Joint Statement on Beth 12_17_18.pdf
 permalink: /newsroom/20160329.html
 title: >-
-  “Board Releases Joint Statement About Departing Board Member, Elisebeth Collins.”
+  Board Releases Joint Statement About Departing Board Member, Elisebeth Collins.
 ---
 FOR RELEASE  
 December 17, 2018
