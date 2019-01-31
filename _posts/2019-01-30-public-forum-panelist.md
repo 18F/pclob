@@ -30,9 +30,9 @@ Reagan Building, Hemisphere Room (1300 Pennsylvania Ave. NW, Washington, DC).
 At the event, the Board will hear from these experts:  
 • Alexander Joel – Chief, Office of Civil Liberties, Privacy and Transparency, Office of the
 Director of National Intelligence; 
-• **Chris Calabrese** – Vice President, Policy, Center for Democracy & Technology; 
-• **Carrie Cordero** – Senior Fellow and General Counsel, Center for a New American Security; 
-• **Alex Abdo** – Senior Staff Attorney, Knight First Amendment Institute at Columbia University; 
+• **Chris Calabrese** – Vice President, Policy, Center for Democracy & Technology;   
+• **Carrie Cordero** – Senior Fellow and General Counsel, Center for a New American Security;   
+• **Alex Abdo** – Senior Staff Attorney, Knight First Amendment Institute at Columbia University;   
 • **Jason Matheny** – Commissioner on the National Security Commission on Artificial Intelligence
 (AI) and former Director of the Intelligence Advanced Research Projects Activity (IARPA) for the
 Office of the Director of National Intelligence. 
