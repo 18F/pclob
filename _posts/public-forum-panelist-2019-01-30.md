@@ -2,11 +2,11 @@
 category: newsroom
 date: '2019-01-30'
 excerpt: >-
-  The Privacy and Civil Liberties Oversight Board has announced participants for its February 8, 2019 public forum, the first to be held by the Board since regaining a quorum late last year.:
+  The Privacy and Civil Liberties Oversight Board has announced participants for its February 8, 2019 public forum, the first to be held by the Board since regaining a quorum late last year:
 layout: post
 links:
   - text: View File
-    url: /library/Board Statement on Judge Wald.pdf
+    url: /library/January 30 - PRIVACY AND CIVIL LIBERTIES OVERSIGHT BOARD PANELIST.pdf
 permalink: /newsroom/20190113.html
 title: >-
   PRIVACY AND CIVIL LIBERTIES OVERSIGHT BOARD ANNOUNCES PANELISTS FOR UPCOMING PUBLIC FORUM
