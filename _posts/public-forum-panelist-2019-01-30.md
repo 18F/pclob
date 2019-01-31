@@ -14,12 +14,12 @@ title: >-
 FOR RELEASE  
 January 30, 2019
 
-PRIVACY AND CIVIL LIBERTIES OVERSIGHT BOARD ANNOUNCES PANELISTS FOR UPCOMING PUBLIC FORUM
+**PRIVACY AND CIVIL LIBERTIES OVERSIGHT BOARD ANNOUNCES PANELISTS FOR UPCOMING PUBLIC FORUM**
   
 February 8th Forum to Examine Emerging Issues in  
 Countering Terrorism and Protecting Civil Liberties  
   
-WASHINGTON, DC—The Privacy and Civil Liberties Oversight Board has announced
+**WASHINGTON, DC**—The Privacy and Civil Liberties Oversight Board has announced
 participants for its February 8, 2019 public forum, the first to be held by the Board since regaining a
 quorum late last year.   
   
