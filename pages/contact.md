@@ -29,19 +29,19 @@ Fax: (202) 816-3088
 
 ## Agency Designations
 ### Freedom of Information Act and Privacy Act:
-FOIA Officer: Attorney-Advisor
+FOIA Officer: General Attorney
 
-Chief FOIA Officer: Deputy General Counsel
+Chief FOIA Officer: General Counsel
 
-FOIA Public Liaison: General Counsel
+FOIA Public Liaison: General Attorney
 
-FOIA Appeal Authority: Deputy General Counsel
+FOIA Appeal Authority: General Counsel
 
-Privacy Act Officer: Deputy General Counsel
+Privacy Act Officer: General Attorney
 
 Privacy Act Appeal Authority: General Counsel
 
-Senior Agency Official for Privacy: Chief Information Officer
+Senior Agency Official for Privacy: Deputy General Counsel
 
 
 ### Other:
@@ -51,6 +51,6 @@ Designated Agency Ethics Official: General Counsel
 
 Telework Managing Officer: General Counsel
 
-Equal Employment Opportunity Director: Board Member
+Equal Employment Opportunity Director: Board Chairman
 
-Senior Agency Official for Records Management: Deputy General Counsel
+Senior Agency Official for Records Management: General Counsel
