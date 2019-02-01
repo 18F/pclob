@@ -43,13 +43,13 @@
 
 @media screen and (min-width: $on-laptop) {
   .usa-hero.pclob-hero-image {
-    background-image: url('#{$baseurl}#{$featured-pic-medium}') !important;
+    background-image: url('#{$baseurl}#{$featured-image-medium}') !important;
   }
 }
 
 @media screen and (min-width: 1000px) {
   .usa-hero.pclob-hero-image {
-    background-image: url('#{$baseurl}#{$featured-pic-large}') !important;
+    background-image: url('#{$baseurl}#{$featured-image-large}') !important;
   }
 }
 
