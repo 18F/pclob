@@ -18,7 +18,7 @@ feature-image-large: /assets/img/featured-image-large.jpg # used by social shari
 feature-image-medium: /assets/img/featured-image-medium.jpg
 feature-image-small: /assets/img/featured-image-small.jpg
 feature-image-credit: IIP Photo Archive
-feature-image-credit-link: https://www.flickr.com/photos/81905824@N03/41018089265
+feature-image-credit-link: https://www.flickr.com/photos/soi-photo-stream/5494589859
 
 colors:
   dark-gray: '#323a45'
