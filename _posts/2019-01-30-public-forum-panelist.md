@@ -7,7 +7,7 @@ layout: post
 links:
   - text: View File
     url: /library/January 30 - PRIVACY AND CIVIL LIBERTIES OVERSIGHT BOARD PANELIST.pdf
-permalink: /newsroom/20190113.html
+permalink: /newsroom/20190130.html
 title: >-
   PRIVACY AND CIVIL LIBERTIES OVERSIGHT BOARD ANNOUNCES PANELISTS FOR UPCOMING PUBLIC FORUM
 ---

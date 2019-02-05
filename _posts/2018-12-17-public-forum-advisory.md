@@ -8,7 +8,7 @@ layout: post
 links:
   - text: View File
     url: /library/Public Forum Advisory 12_17_18 final.pdf
-permalink: /newsroom/20160329.html
+permalink: /newsroom/20181218.html
 title: >-
   Board Announces February 8 Public Forum.
 ---
