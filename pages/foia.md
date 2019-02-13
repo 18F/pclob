@@ -9,7 +9,7 @@ documents:
       This reference guide is designed to help the public understand how the PCLOB FOIA process works so that the public can be better informed about the operations and activities of the Federal Government.
     downloads:
       - type: PDF
-        url: /foia/FOIA%20Library/InterimFOIAReferenceGuide.pdf
+        url: /foia/FOIA%20Library/FOIAReferenceGuideupdate.pdf
   - title: FOIA Regulations
     downloads:
       - type: PDF
@@ -159,5 +159,5 @@ FOIA requests may be directed to the Board at:
 
 **Email:** foia@pclob.gov
 
-**Fax:** (202) 296-4395
+**Fax:** (202) 816-3088
 
