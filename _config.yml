@@ -91,14 +91,14 @@ footer:
       href: 'https://osc.gov'
 
   image: /assets/img/Great_Seal_of_the_United_States.svg
+    youtube:
+      - PCLOB_GOV
   contact:
     name: Contact PCLOB
     phonenumber: (202) 296-4649
     address: 800 North Capitol Street NW., Suite 565, Washington, DC 20002
     email: info@pclob.gov
     twitter:
-      - PCLOB_GOV
-    youtube:
       - PCLOB_GOV
   text: This site was built using <a href="https://federalist.18f.gov/" target="_blank">Federalist, from 18F</a>. # Change to a tag line for your agency
 
