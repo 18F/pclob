@@ -91,8 +91,6 @@ footer:
       href: 'https://osc.gov'
 
   image: /assets/img/Great_Seal_of_the_United_States.svg
-    youtube:
-      - PCLOB_GOV
   contact:
     name: Contact PCLOB
     phonenumber: (202) 296-4649
@@ -100,6 +98,8 @@ footer:
     email: info@pclob.gov
     twitter:
       - PCLOB_GOV
+    youtube:
+      - https://www.youtube.com/channel/UCpjO8JYNEk0a9ouqQjvz-Gw
   text: This site was built using <a href="https://federalist.18f.gov/" target="_blank">Federalist, from 18F</a>. # Change to a tag line for your agency
 
 # Build settings
