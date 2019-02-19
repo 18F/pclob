@@ -99,7 +99,7 @@ footer:
     twitter:
       - PCLOB_GOV
     youtube:
-      - https://www.youtube.com/channel/UCpjO8JYNEk0a9ouqQjvz-Gw
+      - channel/UCpjO8JYNEk0a9ouqQjvz-Gw
   text: This site was built using <a href="https://federalist.18f.gov/" target="_blank">Federalist, from 18F</a>. # Change to a tag line for your agency
 
 # Build settings
