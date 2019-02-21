@@ -59,7 +59,7 @@ annual-reports:
       covers activities from October 1, 2017-September 30, 2018.
     downloads: 
       - type: PDF
-        url: /foia/annual/PCLOB FY18 (Final including Sec I-III).pdf
+        url: /foia/annual/PCLOBFY18.pdf
       - type: XML
         url: /foia/annual/PCLOB FY17 (Final).xml
   - title: Annual Freedom of Information Act Report for FY 2017
