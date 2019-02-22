@@ -52,7 +52,7 @@ chief-foia-officer-reports:
       - type: PDF
         url: /library/FOIA-2015-Chief_FOIA_Officer_Report.pdf
 annual-reports:
- - title: Annual Freedom of Information Act Report for FY 2018
+  - title: Annual Freedom of Information Act Report for FY 2018
     year: FY 2018
     description: |
       This is the PCLOB's fifth Annual Freedom of Information Act Report, which
@@ -62,7 +62,7 @@ annual-reports:
         url: /foia/annual/PCLOB FY18 (Final including Sec I-III).pdf
       - type: XML
         url: /foia/annual/PCLOB FY18 (Final).xml
- - title: Annual Freedom of Information Act Report for FY 20PCLOB FY18 (Final).xml17
+  - title: Annual Freedom of Information Act Report for FY 20PCLOB FY18 (Final).xml17
     year: FY 2017
     description: |
       This is the PCLOB's fourth Annual Freedom of Information Act Report, which
