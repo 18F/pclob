@@ -11,7 +11,7 @@ All full-time and part time employees of the Privacy and Civil Liberties Oversig
 
 [ATTORNEY ADVISOR](https://www.pclob.gov/attorney-advisor/)
 
-[EXECUTIVE DIRECTOR](https://www.pclob.gov/executive-director/)
+<!-- [EXECUTIVE DIRECTOR](https://www.pclob.gov/executive-director/) -->
 
 [INTERNAL CONTROLS OFFICER](https://www.pclob.gov/internal-controls-officer/)
 
