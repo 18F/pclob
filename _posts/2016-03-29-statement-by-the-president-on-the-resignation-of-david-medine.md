@@ -8,7 +8,6 @@ links: []
 permalink: /newsroom/20190222.html
 title: 'The Board’s Public Forum Comment Period is Open Until March 8, 2019'
 ---
-## The White House Office of the Press Secretary
 
 FOR RELEASE  
 February 22, 2019
