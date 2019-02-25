@@ -6,7 +6,7 @@ The Board’s Public Forum Comment Period is Open Until March 8, 2019
 layout: post
 links:
   - text: Post Here
-    url: https://www.regulations.gov/document?D=PCLOB-2019-0001-0001
+    url: 
 permalink: /newsroom/20190222.html
 title: >-
   PRIVACY AND CIVIL LIBERTIES OVERSIGHT BOARD PUBLIC FORUM  COMMENT PERIOD
