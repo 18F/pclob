@@ -16,4 +16,4 @@ February 22, 2019
 
 On February 8, 2019, the Board held a public forum titled, “Countering Terrorism while Protecting Privacy and Civil Liberties: Where do We Stand in 2019?” Public comments can be submitted until March 8, 2019 via the link provided.
 
-[Post Your Comments Here](https://www.whitehouse.gov/the-press-office/2016/03/29/statement-president-resignation-david-medine-‎)
+[Post Your Comments Here](https://www.regulations.gov/document?D=PCLOB-2019-0001-0001)
