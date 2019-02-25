@@ -4,9 +4,7 @@ date: '2019-02-22'
 excerpt: >-
 The Board’s Public Forum Comment Period is Open Until March 8, 2019 
 layout: post
-links:
-  - text: Post Here
-    url:  (https://www.regulations.gov/document?D=PCLOB-2019-0001-0001)
+links: []
 permalink: /newsroom/20190222.html
 title: >-
   PRIVACY AND CIVIL LIBERTIES OVERSIGHT BOARD PUBLIC FORUM  COMMENT PERIOD
@@ -16,4 +14,4 @@ February 22, 2019
 
 On February 8, 2019, the Board held a public forum titled, “Countering Terrorism while Protecting Privacy and Civil Liberties: Where do We Stand in 2019?” Public comments can be submitted until March 8, 2019 via the link provided.
 
-[Link to Official White House Statement](https://www.whitehouse.gov/the-press-office/2016/03/29/statement-president-resignation-david-medine-‎)
+[Post Comments Here](https://www.regulations.gov/document?D=PCLOB-2019-0001-0001)
