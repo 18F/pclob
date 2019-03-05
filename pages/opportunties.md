@@ -13,7 +13,7 @@ All full-time and part time employees of the Privacy and Civil Liberties Oversig
 
 <!-- [EXECUTIVE DIRECTOR](https://www.pclob.gov/executive-director/) -->
 
-[INTERNAL CONTROLS OFFICER](https://www.pclob.gov/internal-controls-officer/)
+<!-- [INTERNAL CONTROLS OFFICER](https://www.pclob.gov/internal-controls-officer/) -->
 
 [OPERATIONS DIRECTOR](https://www.pclob.gov/operations-director/)
 
