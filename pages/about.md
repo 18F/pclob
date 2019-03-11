@@ -53,7 +53,7 @@ additional-info:
         text: In accordance with the Privacy Act of 1974, the Privacy and Civil Liberties Oversight Board created a system of records titled, "PCLOB–1, Freedom of Information Act and Privacy Act Request Files."
   - heading: Budget and Strategic Plans
     links:
-      - link: /library/Strategic Plan PCLOB 2019-2022.pdf
+      - link: /library/Strategic Plan PCLOB 2019-2022 .pdf
         title: PCLOB Strategic Plan for 2019 – 2022
         text: We are pleased to present the Privacy and Civil Liberties Oversight Board’s Strategic Plan for Fiscal Years 2019-2022. This plan will guide our work to help ensure that efforts by the Executive Branch to protect the nation against terrorism appropriately protect privacy and civil liberties.
       - link: /library/StrategicPlan_2016-2018.pdf
