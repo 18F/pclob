@@ -9,6 +9,8 @@ links:
     url: /library/PCLOB statement - Calabrese.pdf
   - text: Statement from Carrie Cordero
     url: /library/PCLOB statement - Cordero.pdf
+  - text: Statement from Alex Joel
+    url: /library/PCLOB statement - Joel.pdf
   - text: Statement from Jason Matheny
     url: /library/PCLOB statement - Matheny.pdf
 permalink: null
