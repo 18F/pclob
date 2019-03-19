@@ -1,8 +1,9 @@
 ---
-layout: CBJ
-title: Congressional Budget Justification (CBJ)
+layout: report-list
 permalink: /CJ/
-body-class: CBJ
+title: Congressional Budget Justification (CBJ)
+collection: CBJ
+---
 documents:
   - title: CBJ Test
     downloads:
