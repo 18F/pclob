@@ -1,6 +1,6 @@
 ---
 layout: report-list
-permalink: /CJ/
 title: Congressional Budget Justification (CBJ)
+permalink: /CJ/
 collection: official-correspondence
 ---
