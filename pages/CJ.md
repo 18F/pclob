@@ -4,7 +4,7 @@ permalink: /CJ/
 title: Congressional Budget Justification (CBJ)
 collection: CBJ
 ---
-documents:
+   documents:
   - title: CBJ Test
     downloads:
       - type: PDF
