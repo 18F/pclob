@@ -53,11 +53,11 @@ additional-info:
         text: In accordance with the Privacy Act of 1974, the Privacy and Civil Liberties Oversight Board created a system of records titled, "PCLOB–1, Freedom of Information Act and Privacy Act Request Files."
   - heading: Budget and Strategic Plans
     links:
-      - link: /library/
+      - link: /library/CBJ FY20 PCLOB.pdf
         title: PCLOB FY20 CBJ
-      - link: /library/
+      - link: /library/Message from Board on First Financial Audit.pdf
         title: Message from Board on First Financial Audit
-      - link: /library/
+      - link: /library/PCLOB FY 2018 Final Financial Report.pdf
         title: PCLOB FY18 Final Financial Report
       - link: /library/StrategicPlan_2019-2022.pdf
         title: PCLOB Strategic Plan for 2019 – 2022
