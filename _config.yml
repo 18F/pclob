@@ -77,6 +77,8 @@ footer:
       - text: 'Events and press'
         href: '/newsroom/'
   ancillary:
+    - text: 'CBJ'
+      href: '/CJ/'
     - text: 'FOIA information'
       href: '/foia/'
     - text: 'Plain Writing Act'
