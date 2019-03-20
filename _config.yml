@@ -77,7 +77,7 @@ footer:
       - text: 'Events and press'
         href: '/newsroom/'
   ancillary:
-    - text: 'Congressional Budget Justification'
+    - text: 'CBJ'
       href: '/CJ/'
     - text: 'FOIA information'
       href: '/foia/'
