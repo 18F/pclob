@@ -54,7 +54,7 @@ additional-info:
   - heading: Budget and Strategic Plans
     links:
       - link: /library/CBJ FY20 PCLOB.pdf
-        title: PCLOB FY20 CBJ
+        title: PCLOB FY20 Congressional Budget Justification
       - link: /library/Message from Board on First Financial Audit.pdf
         title: Message from Board on First Financial Audit
       - link: /library/PCLOB FY 2018 Final Financial Report.pdf
