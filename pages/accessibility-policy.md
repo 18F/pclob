@@ -5,26 +5,38 @@ permalink: /accessibility-policy/
 collection: library
 ---
 
-All full-time and part time employees of the Privacy and Civil Liberties Oversight Board (PCLOB) serve under excepted service, rather than the competitive service. Additionally, the PCLOB’s statute exempts the agency from the General Schedule pay scale and allows the agency to administratively determine the salaries of its employees.  However, pursuant to Board policy, the PCLOB determines the rate of pay or compensation for all Board employees in a manner equivalent to General Schedule (GS) standards and pay schedule, except that for certain senior positions, compensation may be set at any level up to the statutory maximum, even if that specific level is not reflected on the GS pay schedule. Under the Board’s authorizing statute, in no event may the rate of pay or employee compensation exceed the equivalent of that payable for a position of Level V of the Executive Schedule.
+The Privacy and Civili Liberties Oversight Board is committed to providing access to our websites for all visitors with disabilities.
 
-### Current openings   
+To meet this commitment, we comply with the requirements of [Section 508 of the Rehabilitation Act](https://www.section508.gov/). Section 508 (29 U.S.C. 794d), requiring that individuals with disabilities, who are federal employees or members of the public seeking information or services from us have access to and use of information and data that is comparable to the information provided to federal employees or the public who are not individuals with disabilities, unless an undue burden would be imposed on us.
 
-[ATTORNEY ADVISOR](https://www.pclob.gov/attorney-advisor/)
+If you have a problem viewing any material on the PCLOB website because of difficulties with assistive technologies, please contact PCLOB's Section 508 Coordinator John Doe 555-555-1234 for assistance. If you have any other questions or problems about a page on pclob.gov, please send your concerns directly to the contact(s) on that page. If you contact us by email, please indicate the nature of your accessibility problem, the preferred format in which you want to receive any materials, and your contact information.
 
-<!-- [EXECUTIVE DIRECTOR](https://www.pclob.gov/executive-director/) -->
+### Accessibility Aids: Plug-ins and File Viewers
 
-<!-- [INTERNAL CONTROLS OFFICER](https://www.pclob.gov/internal-controls-officer/) -->
+All applets, plug-ins, or other applications required by GSA webpages that are not included on the specific page are found as links from this page.
 
-[OPERATIONS DIRECTOR](https://www.pclob.gov/operations-director/)
+Most of these links are to non-government sources. GSA does not endorse any of these products; they are listed below for the convenience of our visitors. Address questions about the particular plug-in or file viewer to the respective vendor.
 
-[PROGRAM ANALYST](https://www.pclob.gov/program-analyst/)
+### Adobe Acrobat
 
-[SUMMER LAW FELLOW / SUMMER POLICY FELLOW](https://www.pclob.gov/summer-law-policy-fellow/)
+Use [Adobe Acrobat](https://acrobat.adobe.com/us/en/acrobat.html#50enu) to read Portable Document Format (PDF) files.
 
-[TECHNOLOGIST](https://www.pclob.gov/technologist/)
+### Adobe Flash Player
 
-[Current Federal Employee Opportunities: Joint Duty Assignment (Detail to PCLOB)](https://www.pclob.gov/jda/)
+Files with this extension (SWF) require the [Adobe Flash Player](https://get.adobe.com/flashplayer/)
 
-<!-- [GENERAL ATTORNEY](https://www.pclob.gov/general-attorney/) -->
- 
-<!-- [HUMAN RESOURCES SPECIALIST ](https://www.pclob.gov/human-resources/) -->
+### Microsoft Excel
+
+Microsoft offers Microsoft offers to enable those who do not have MS-Excel or have another version of MS-Excel to view MS-Excel files.
+
+### Microsoft PowerPoint
+
+Microsoft offers file viewer and converter programs to enable those who do not have MS-PowerPoint or have another version of MS-PowerPoint to view MS-PowerPoint files.
+
+### Microsoft Word
+
+Microsoft offers file viewer and converter programs to enable those who do not have MS-Word or have another version of MS-Word to open and view MS-Word files.
+
+### WinZip
+
+Zip files are single files, sometimes called "archives", that contain one or more compressed files. Files with this extension (.zip) require the [WinZip](https://www.winzip.com/win/en/downwz.html), to open and extract them.
