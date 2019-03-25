@@ -15,7 +15,7 @@ If you have a problem viewing any material on the PCLOB website because of diffi
 
 All applets, plug-ins, or other applications required by PCLOB webpages that are not included on the specific page are found as links from this page.
 
-Most of these links are to non-government sources. GSA does not endorse any of these products; they are listed below for the convenience of our visitors. Address questions about the particular plug-in or file viewer to the respective vendor.
+Most of these links are to non-government sources. PCLOB does not endorse any of these products; they are listed below for the convenience of our visitors. Address questions about the particular plug-in or file viewer to the respective vendor.
 
 ### Adobe Reader
 
