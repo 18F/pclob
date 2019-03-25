@@ -9,7 +9,7 @@ The Privacy and Civil Liberties Oversight Board (PCLOB) is committed to providin
 
 To meet this commitment, we comply with the requirements of [Section 508 of the Rehabilitation Act](https://www.section508.gov/). Section 508 (29 U.S.C. 794d), requiring that individuals with disabilities, who are federal employees or members of the public seeking information or services from us have access to and use of information and data that is comparable to the information provided to federal employees or the public who are not individuals with disabilities, unless an undue burden would be imposed on us.
 
-If you have a problem viewing any material on the PCLOB website because of difficulties with assistive technologies, please contact PCLOB's Section 508 Coordinator John Doe 555-555-1234 for assistance. If you have any other questions or problems about a page on pclob.gov, please send your concerns directly to the contact(s) on that page. If you contact us by email, please indicate the nature of your accessibility problem, the preferred format in which you want to receive any materials, and your contact information.
+If you have a problem viewing any material on the PCLOB website because of difficulties with assistive technologies, please contact PCLOB's Section 508 Coordinator Logan O'Shaughnessy 202-567-5678 for assistance. If you have any other questions or problems about a page on pclob.gov, please send your concerns directly to the contact(s) on that page. If you contact us by email, please indicate the nature of your accessibility problem, the preferred format in which you want to receive any materials, and your contact information.
 
 ### Accessibility Aids: Plug-ins and File Viewers
 
