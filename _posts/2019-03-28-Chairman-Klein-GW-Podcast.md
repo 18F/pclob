@@ -9,7 +9,6 @@ permalink: /newsroom/20190328.html
 title: 'Surveillance and Oversight, implications for US leadership Podcast'
 ---
 
-**_Surveillance and Oversight, implications for US leadership Podcast_**
 
 Chairman Adam Klein addressed students at the GW Elliott School of International Affairs on the topic of surveillance and oversight, implications for US leadership. Click below for a summary of the Chairman’s remarks:
 
