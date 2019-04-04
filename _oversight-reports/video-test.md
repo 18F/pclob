@@ -16,6 +16,6 @@ related:
   - slug: oversight-report-702-meeting
     collection: posts
     
-youtube:
-  - channel/UCpjO8JYNEk0a9ouqQjvz-Gw
+    youtube:
+      - channel/UCpjO8JYNEk0a9ouqQjvz-Gw
 ---
