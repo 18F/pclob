@@ -16,5 +16,5 @@ related:
   - slug: oversight-report-702-meeting
     collection: posts
 youtube: 
-  -[![PCLOB PODCAST](https://www.youtube.com/watch?v=Q7JzdIA9Z1E&feature=youtu.be.jpg)](https://www.youtube.com/watch?v=Q7JzdIA9Z1E&feature=youtu.be)
+  -![PCLOB PODCAST](https://www.youtube.com/watch?v=Q7JzdIA9Z1E&feature=youtu.be.jpg)](https://www.youtube.com/watch?v=Q7JzdIA9Z1E&feature=youtu.be)
 ---
