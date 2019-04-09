@@ -61,10 +61,10 @@ A candidate’s application may be considered for other eligible vacant position
 **Closing Date**  
 A panel will convene to evaluate applications on a rolling basis until the position is filled. A review of your application will be made to determine whether you meet the job requirements. To determine if you are qualified for this job, your resume and supporting documentation will be evaluated. Candidates will be placed into categories of “best qualified”, “qualified”, and “not qualified”. If, after reviewing your resume and or supporting documentation, a determination is made that you have inflated your qualifications and/or experience, you may be placed in a different category. Please follow all instructions carefully. Errors or omissions may affect your categorization.
 
-**No Travel Expenses for Interview** 
+**No Travel Expenses for Interview**   
 Candidates from outside the Washington, D.C., area may be selected for a telephone or in-person interview. If selected for an in-person interview, any travel or lodging will be at the applicant’s personal expense.
 
-**Telework, Travel and Benefits** 
+**Telework, Travel and Benefits**   
 Telework may be made available per agency policy.  
 
 If you use public transportation, part of your transportation costs may be subsidized. Our budget office can provide additional information on how this program is run.
