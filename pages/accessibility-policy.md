@@ -5,38 +5,26 @@ permalink: /accessibility-policy/
 collection: library
 ---
 
-The Privacy and Civil Liberties Oversight Board (PCLOB) is committed to providing access to our websites for all visitors with disabilities.
+## Accessibility and reasonable accommodation
 
-To meet this commitment, we comply with the requirements of [Section 508 of the Rehabilitation Act](https://www.section508.gov/). Section 508 (29 U.S.C. 794d), requiring that individuals with disabilities, who are federal employees or members of the public seeking information or services from us have access to and use of information and data that is comparable to the information provided to federal employees or the public who are not individuals with disabilities, unless an undue burden would be imposed on us.
 
-If you have a problem viewing any material on the PCLOB website because of difficulties with assistive technologies, please contact PCLOB's Section 508 Coordinator Logan O'Shaughnessy 202-567-5678 for assistance. If you have any other questions or problems about a page on [pclob.gov](https://www.pclob.gov), please send your concerns directly to the contact(s) on that page. If you contact us by email, please indicate the nature of your accessibility problem, the preferred format in which you want to receive any materials, and your contact information.
+#### The Privacy and Civil Liberties Oversight Board (PCLOB) is committed to complying with the Rehabilitation Act of 1973 and with the Architectural Barriers Act of 1968. Under the Rehabilitation Act, agencies like PCLOB must make sure that their programs and activities—including their educational materials, public events, and electronic and information technology (such as this website)—are accessible to people with disabilities. Under the Architectural Barriers Act, PCLOB’s office building and facilities must also be readily accessible to people with disabilities, including PCLOB employees and applicants for PCLOB employment with disabilities.
 
-### Accessibility Aids: Plug-ins and File Viewers
 
-All applets, plug-ins, or other applications required by PCLOB webpages that are not included on the specific page are found as links from this page.
+People with disabilities can request a "reasonable accommodation" to allow them to participate in or benefit from PCLOB programs and activities that would not otherwise be accessible because of a disability. 
+Section 508 and access to this website
+We are committed to providing an excellent user experience, regardless of disability. We periodically review this site to ensure that it meets or exceeds the requirements of Section 508 of the Rehabilitation Act , which requires that information and computer technology (ICT) be accessible to people with disabilities. Section 508 requires that ICT developed, procured, maintained, or used by the federal government be accessible to both employees and members of the public with disabilities. 
+	Learn more about Section 508 standards from the U.S. Access Board .
+	If you believe you may need a reasonable accommodation because of a disability to access information on or to use this website, contact info@pclob.gov.
+	If you encounter issues with any page on our website that present a challenge for users with disabilities, contactinfo@pclob.gov. 
+	If you have general questions about PCLOB’s compliance with Section 508, contact the info@pclob.gov.
+Section 504 and access to other programs and activities
+We also comply with Section 504 of the Rehabilitation Act , which requires generally that all PCLOB activities and programs be accessible to members of the public with disabilities. We make sure that individuals with disabilities can participate in and enjoy the benefits of all PCLOB operations and resources available to the public. This includes providing accessible educational materials and ensuring equal access to public meetings and other events.   
+	If you believe you may need a reasonable accommodation because of a disability to access PCLOB educational materials, attend a PCLOB public meeting or event, or enjoy any other PCLOB program or activity, contact info@pclob.gov. 
+The Architectural Barriers Act and access to PCLOB facilities
+We also comply with the Architectural Barriers Act  (ABA). This law helps ensure that PCLOB employees, applicants for PCLOB employment, and members of the public with disabilities can gain ready access to PCLOB buildings and facilities. 
+If you have any questions or concerns about physical access to PCLOB’s office or facilities, contact info@pclob.gov. 
+	Learn more about ABA standards from the U.S. Access Board .
+Access to social media
+We work to ensure our pages are user-friendly, but we also use other sites and social media that may not be accessible to persons with disabilities. The resources we share on social media are available on our official site in an accessible format.
 
-Most of these links are to non-government sources. PCLOB does not endorse any of these products; they are listed below for the convenience of our visitors. Address questions about the particular plug-in or file viewer to the respective vendor.
-
-### Adobe Reader
-
-Use [Adobe Acrobat](https://acrobat.adobe.com/us/en/acrobat.html#50enu) to read Portable Document Format (PDF) files.
-
-### Adobe Flash Player
-
-Files with this extension (SWF) require the [Adobe Flash Player](https://get.adobe.com/flashplayer/)
-
-### Microsoft Excel
-
-Microsoft offers to enable those who do not have MS-Excel or have another version of MS-Excel to view MS-Excel files.
-
-### Microsoft PowerPoint
-
-Microsoft offers file viewer and converter programs to enable those who do not have MS-PowerPoint or have another version of MS-PowerPoint to view MS-PowerPoint files.
-
-### Microsoft Word
-
-Microsoft offers file viewer and converter programs to enable those who do not have MS-Word or have another version of MS-Word to open and view MS-Word files.
-
-### WinZip
-
-Files with this extension (.zip) may require software such as [WinZip](https://www.winzip.com/win/en/downwz.html), to open and extract them.
