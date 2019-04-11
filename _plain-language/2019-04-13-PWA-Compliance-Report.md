@@ -5,7 +5,7 @@ permalink: /plain-writing/2017-04-13-pclob-plain-writing-report/
 title: PCLOB’s 2019 Plain Writing Act Compliance Report
 attachments:
     - title: Download PCLOB’s 2019 Plain Writing Act Compliance Report
-      url: /library/PCLOB%20Plain%20Writing%20Report%20(Apr.%2013%2C%202017).pdf
+      url: /library/PCLOB%20Plain%20Writing%20Report-13Apr19.pdf
 summary: >-
     Privacy Act Compliance Report for April 13, 2019
 ---
