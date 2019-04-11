@@ -27,7 +27,7 @@ We are committed to providing an excellent user experience, regardless of disabi
 
 We also comply with [Section 504 of the Rehabilitation Act](https://www.dol.gov/oasam/regs/statutes/sec504.htm) , which requires generally that all PCLOB activities and programs be accessible to members of the public with disabilities. We make sure that individuals with disabilities can participate in and enjoy the benefits of all PCLOB operations and resources available to the public. This includes providing accessible educational materials and ensuring equal access to public meetings and other events. 
 
-	If you believe you may need a reasonable accommodation because of a disability to access PCLOB educational materials, attend a PCLOB public meeting or event, or enjoy any other PCLOB program or activity, contact info@pclob.gov. 
+- If you believe you may need a reasonable accommodation because of a disability to access PCLOB educational materials, attend a PCLOB public meeting or event, or enjoy any other PCLOB program or activity, contact info@pclob.gov. 
 
 ### The Architectural Barriers Act and access to PCLOB facilities
 
@@ -35,7 +35,7 @@ We also comply with the [Architectural Barriers Act](https://www.access-board.go
 
 If you have any questions or concerns about physical access to PCLOB’s office or facilities, contact info@pclob.gov. 
 
-	[Learn more about ABA standards from the U.S. Access Board](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards).
+- [Learn more about ABA standards from the U.S. Access Board](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards).
 
 ### Access to social media
 
