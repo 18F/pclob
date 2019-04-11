@@ -18,10 +18,10 @@ People with disabilities can request a "reasonable accommodation" to allow them 
 
 We are committed to providing an excellent user experience, regardless of disability. We periodically review this site to ensure that it meets or exceeds the requirements of [Section 508 of the Rehabilitation Act](https://www.section508.gov/) , which requires that information and computer technology (ICT) be accessible to people with disabilities. Section 508 requires that ICT developed, procured, maintained, or used by the federal government be accessible to both employees and members of the public with disabilities. 
 
-	[Learn more about Section 508 standards from the U.S. Access Board](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards)  
-	If you believe you may need a reasonable accommodation because of a disability to access information on or to use this website, contact info@pclob.gov.  
-	If you encounter issues with any page on our website that present a challenge for users with disabilities, contactinfo@pclob.gov.  
-	If you have general questions about PCLOB’s compliance with Section 508, contact the info@pclob.gov.  
+- [Learn more about Section 508 standards from the U.S. Access Board](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards)  
+- If you believe you may need a reasonable accommodation because of a disability to access information on or to use this website, contact info@pclob.gov.  
+- If you encounter issues with any page on our website that present a challenge for users with disabilities, contactinfo@pclob.gov.  
+- If you have general questions about PCLOB’s compliance with Section 508, contact the info@pclob.gov.  
 
 ### Section 504 and access to other programs and activities
 
