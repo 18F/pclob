@@ -45,9 +45,9 @@ additional-info:
       - link: /library/FOIA-Privacy_Act-Sunshine_Act-Implementing%20Guidelines.pdf
         title: Regulations on Freedom of Information Act, Privacy Act, and Sunshine Act
         text: Finalized agency rule implementing the Freedom of Information Act, the Privacy Act of 1974, and the Government in the Sunshine Act. This rule describes the procedures for members of the public to request access to PCLOB records. In addition, this rule also includes procedures for the Board’s responses to these requests, including the timeframe for response and applicable fees.
-      - link: /library/20150928-PCLOB_FY2016_Lapse_Plan.pdf
-        title: Plan in the Event of Lapse of Appropriations for FY2016
-        text: Agency plan outlining the Board's functions in the event of a lapse in appropriations for Fiscal Year 2016.
+      - link: /library/PCLOB Plan for Lapse of Approps.pdf
+        title: PCLOB Plan in the Event of Lapse of Appropriations
+        text: Agency plan outlining the Board's functions in the event of a lapse in appropriations.
       - link: /library/FederalRegister-PCLOB-2013-0005-SORN.pdf
         title: Privacy Act System of Records Notice
         text: In accordance with the Privacy Act of 1974, the Privacy and Civil Liberties Oversight Board created a system of records titled, "PCLOB–1, Freedom of Information Act and Privacy Act Request Files."
