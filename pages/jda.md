@@ -9,6 +9,4 @@ collection: JDA
 
 **SECURITY CLEARANCE:** Must Presently Possess TS/SCI Clearance
 
-**POSITION INFORMATION:** The PCLOB has 4 Joint Duty Assignments (Attorney Advisor, Operations Director, Program Analyst, and 
-Technologist) available on the secure website (https://jointduty.dni.ic.gov ). All nominations/applications must be coordinated 
-with home agency’s Joint Duty Program Office. The listings are located under “Other Opportunities” under “Non-IC Positions.”
+**POSITION INFORMATION:** The PCLOB has two Joint Duty Assignments (Attorney Advisor and Technologist) available on the secure website (https://jointduty.dni.ic.gov ). All nominations/applications must be coordinated with home agency’s Joint Duty Program Office. The listings are located under “Other Opportunities” under “Non-IC Positions.”

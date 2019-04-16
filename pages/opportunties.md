@@ -15,9 +15,9 @@ All full-time and part time employees of the Privacy and Civil Liberties Oversig
 
 <!-- [INTERNAL CONTROLS OFFICER](https://www.pclob.gov/internal-controls-officer/) -->
 
-[OPERATIONS DIRECTOR](https://www.pclob.gov/operations-director/)
+<!-- [OPERATIONS DIRECTOR](https://www.pclob.gov/operations-director/) -->
 
-[PROGRAM ANALYST](https://www.pclob.gov/program-analyst/)
+<!-- [PROGRAM ANALYST](https://www.pclob.gov/program-analyst/) -->
 
 [SUMMER LAW FELLOW / SUMMER POLICY FELLOW](https://www.pclob.gov/summer-law-policy-fellow/)
 
