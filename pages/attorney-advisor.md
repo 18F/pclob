@@ -11,7 +11,7 @@ collection: Attorney
 
 **Salary Range:** $99,172 – $156,000/ Per Year
 
-**Serise/Grade:** The agency uses the Administratively Determined system in which rank is attached to the individual. The salary range for this position is statutorily capped at $156,000.    
+**Series/Grade:** The agency uses the Administratively Determined system in which rank is attached to the individual. The salary range for this position is statutorily capped at $156,000.    
 
 **Position Information:** This is an opportunity for permanent employment in the excepted service. You will be required to serve a two-year trial period. 
 
