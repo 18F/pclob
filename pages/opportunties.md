@@ -19,7 +19,7 @@ All full-time and part time employees of the Privacy and Civil Liberties Oversig
 
 <!-- [PROGRAM ANALYST](https://www.pclob.gov/program-analyst/) -->
 
-[SUMMER LAW FELLOW / SUMMER POLICY FELLOW](https://www.pclob.gov/summer-law-policy-fellow/)
+<!--[SUMMER LAW FELLOW / SUMMER POLICY FELLOW](https://www.pclob.gov/summer-law-policy-fellow/) -->
 
 [TECHNOLOGIST](https://www.pclob.gov/technologist/)
 
