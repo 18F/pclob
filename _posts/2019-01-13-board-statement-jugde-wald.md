@@ -10,7 +10,7 @@ links:
     url: /library/Board Statement on Judge Wald.pdf
 permalink: /newsroom/20190113.html
 title: >-
-  Board Releases Statement on the Passing of Former Board Member Patricia Wald.
+  Board Releases Statement on the Passing of Former Board Member Patricia Wald
 ---
 FOR RELEASE  
 January 13, 2019
