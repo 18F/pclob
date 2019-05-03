@@ -15,6 +15,6 @@ links:
     url: /library/PCLOB statement - Matheny.pdf
 permalink: null
 featured: true
-title: 'Statements from the Board’s February 8, 2019 public forum titled, “Countering Terrorism while Protecting Privacy and Civil Liberties: Where do We Stand in 2019?”'
+title: 'Statements From the Board’s February 8, 2019 Public Forum Titled, “Countering Terrorism While Protecting Privacy and Civil Liberties: Where do We Stand in 2019?”'
 ---
 
