@@ -9,7 +9,7 @@ links:
     url: /library/Lynn ED annoucement.pdf
 permalink: /newsroom/20190225.html
 title: >-
-  LYNN PARKER DUPREE NAMED EXECUTIVE DIRECTOR.
+  Lynn Parker Dupree Named Executive Director
 ---
 PRESS RELEASE  
 For Immediate Release

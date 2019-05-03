@@ -9,7 +9,7 @@ links:
     url: /library/January 30 - PRIVACY AND CIVIL LIBERTIES OVERSIGHT BOARD PANELIST.pdf
 permalink: /newsroom/20190130.html
 title: >-
-  PRIVACY AND CIVIL LIBERTIES OVERSIGHT BOARD ANNOUNCES PANELISTS FOR UPCOMING PUBLIC FORUM
+  Privacy and Civil Liberties Oversight Board Announces Panelist for Upcoming Public Forum
 ---
 FOR RELEASE  
 January 30, 2019

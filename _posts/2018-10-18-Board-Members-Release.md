@@ -6,5 +6,5 @@ links:
   - text: Download PDF
     url: /library/New Board Member Statement_Oct 18_18 (002).pdf
 permalink: null
-title: NEW PCLOB BOARD MEMBERS RELEASE JOINT STATEMENT
+title: New PCLOB Board Members Release Joint Statement
 ---
