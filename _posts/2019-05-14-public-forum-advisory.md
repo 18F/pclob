@@ -1,13 +1,13 @@
 ---
 category: newsroom
-date: '2018-12-18'
+date: '2019-05-14'
 excerpt: >-
  The Privacy and Civil Liberties Oversight Board has announced that it
-will hold a public forum on February 8, 2019, in Washington, DC.The subject of the forum is Countering Terrorism while Protecting Privacy and Civil Liberties: Where do We Stand in 2019? The forum will be open to the public and members of the media.
+will hold a public forum on May 31, 2019, in Washington, DC.The subject of the forum is to examine the USA FREEDOM Act and the government’s call detail records (CDR) program under that law. The forum will be open to the public and members of the media.
 layout: post
 links:
   - text: View File
-    url: /library/Public Forum Advisory 12_17_18 final.pdf
+    url: /library/Public Forum Advisory 05_14_19 final.pdf
 permalink: /newsroom/20181218.html
 title: >-
   Board Announces February 8 Public Forum
@@ -42,6 +42,15 @@ Scheduled expert panelists include:
 •	Jamil N. Jaffer, Founder and Director of the National Security Institute and 
 Director of the National Security Law & Policy Program at the Antonin Scalia Law School and George Mason University;
 
+• Susan Landau, Bridge Professor of Cyber Security and Policy in the Fletcher School of Law and Diplomacy and the School of Engineering, Department of Computer Science, Tufts University;
+
+• Jonathan Mayer, Assistant Professor of Computer Science and Public Affairs, Princeton University;
+
+• Julian Sanchez, Senior Fellow at the Cato Institute;
+
+• Caroline Lynch, Founder and Owner of Copper Hill Strategies, former Chief Counsel of the House Judiciary Subcommittee on Crime, Terrorism, Homeland Security, and Investigations;
+
+• Michael Bahar, Partner, Eversheds Sutherland’s Global Cybersecurity and Privacy Practice, Former Minority Staff Director and General Counsel for the US House Intelligence Committee.
 
 ####
 
