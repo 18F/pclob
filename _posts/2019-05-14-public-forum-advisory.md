@@ -1,16 +1,16 @@
 ---
 category: newsroom
-date: '2019-05-14'
+date: '2018-12-18'
 excerpt: >-
  The Privacy and Civil Liberties Oversight Board has announced that it
-will hold a public forum on May 31, 2019, in Washington, DC.The subject of the forum is to examine the USA FREEDOM Act and the government’s call detail records (CDR) program under that law. The forum will be open to the public and members of the media.
+will hold a public forum on February 8, 2019, in Washington, DC.The subject of the forum is Countering Terrorism while Protecting Privacy and Civil Liberties: Where do We Stand in 2019? The forum will be open to the public and members of the media.
 layout: post
 links:
   - text: View File
-    url: /library/Public Forum Advisory 5_10_19  FINAL.pdf
-permalink: /newsroom/20190514.html
+    url: /library/Public Forum Advisory 12_17_18 final.pdf
+permalink: /newsroom/20181218.html
 title: >-
-  Board Announces May 31 Public Forum
+  Board Announces February 8 Public Forum
 ---
 FOR RELEASE  
 May 14, 2019
