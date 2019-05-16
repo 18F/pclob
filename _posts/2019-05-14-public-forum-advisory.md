@@ -7,7 +7,7 @@ will hold a public forum on May 31, 2019, in Washington, DC.The subject of the f
 layout: post
 links:
   - text: View File
-    url: /library/Public Forum Advisory 05_14_19 final.pdf
+    url: /library/Public Forum Advisory 5_10_19  FINAL.pdf
 permalink: /newsroom/20190514.html
 title: >-
   Board Announces May 31 Public Forum
@@ -34,9 +34,13 @@ Details of the public forum are as follows:
 Date: Friday, May 31, 2019
 Time: 10:00 a.m. - 12:30 p.m.
 Location: Ronald Reagan Building, Hemisphere Room
- 1300 Pennsylvania Ave. NW
+1300 Pennsylvania Ave. NW
 Washington, DC 20004
 
+Scheduled expert panelists include:
+
+•	Jamil N. Jaffer, Founder and Director of the National Security Institute and 
+Director of the National Security Law & Policy Program at the Antonin Scalia Law School and George Mason University;
 
 
 ####
