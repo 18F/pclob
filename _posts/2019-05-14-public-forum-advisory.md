@@ -7,10 +7,10 @@ will hold a public forum on May 31, 2019, in Washington, DC.The subject of the f
 layout: post
 links:
   - text: View File
-    url: /library/Public Forum Advisory 5_10_19  FINAL.pdf
-permalink: /newsroom/20190514.html
+    url: /library/Public Forum Advisory 05_14_19 final.pdf
+permalink: /newsroom/20181218.html
 title: >-
-  Board Announces May 31 Public Forum
+  Board Announces February 8 Public Forum
 ---
 FOR RELEASE  
 May 14, 2019
@@ -42,6 +42,15 @@ Scheduled expert panelists include:
 •	Jamil N. Jaffer, Founder and Director of the National Security Institute and 
 Director of the National Security Law & Policy Program at the Antonin Scalia Law School and George Mason University;
 
+• Susan Landau, Bridge Professor of Cyber Security and Policy in the Fletcher School of Law and Diplomacy and the School of Engineering, Department of Computer Science, Tufts University;
+
+• Jonathan Mayer, Assistant Professor of Computer Science and Public Affairs, Princeton University;
+
+• Julian Sanchez, Senior Fellow at the Cato Institute;
+
+• Caroline Lynch, Founder and Owner of Copper Hill Strategies, former Chief Counsel of the House Judiciary Subcommittee on Crime, Terrorism, Homeland Security, and Investigations;
+
+• Michael Bahar, Partner, Eversheds Sutherland’s Global Cybersecurity and Privacy Practice, Former Minority Staff Director and General Counsel for the US House Intelligence Committee.
 
 ####
 
