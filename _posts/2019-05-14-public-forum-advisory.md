@@ -39,18 +39,18 @@ Washington, DC 20004
 
 Scheduled expert panelists include:
 
-•	Jamil N. Jaffer, Founder and Director of the National Security Institute and 
+- **Jamil N. Jaffer,** Founder and Director of the National Security Institute and 
 Director of the National Security Law & Policy Program at the Antonin Scalia Law School and George Mason University;
 
-• Susan Landau, Bridge Professor of Cyber Security and Policy in the Fletcher School of Law and Diplomacy and the School of Engineering, Department of Computer Science, Tufts University;
+- **Susan Landau,** Bridge Professor of Cyber Security and Policy in the Fletcher School of Law and Diplomacy and the School of Engineering, Department of Computer Science, Tufts University;
 
-• Jonathan Mayer, Assistant Professor of Computer Science and Public Affairs, Princeton University;
+- **Jonathan Mayer,** Assistant Professor of Computer Science and Public Affairs, Princeton University;
 
-• Julian Sanchez, Senior Fellow at the Cato Institute;
+- **Julian Sanchez,** Senior Fellow at the Cato Institute;
 
-• Caroline Lynch, Founder and Owner of Copper Hill Strategies, former Chief Counsel of the House Judiciary Subcommittee on Crime, Terrorism, Homeland Security, and Investigations;
+- **Caroline Lynch,** Founder and Owner of Copper Hill Strategies, former Chief Counsel of the House Judiciary Subcommittee on Crime, Terrorism, Homeland Security, and Investigations;
 
-• Michael Bahar, Partner, Eversheds Sutherland’s Global Cybersecurity and Privacy Practice, Former Minority Staff Director and General Counsel for the US House Intelligence Committee.
+- **Michael Bahar,** Partner, Eversheds Sutherland’s Global Cybersecurity and Privacy Practice, Former Minority Staff Director and General Counsel for the US House Intelligence Committee.
 
 ####
 
