@@ -10,9 +10,5 @@ attachments:
   - url: /library/PPD-28 Report (for FOIA Release).pdf
     title: Download the advisory
     format: PDF
-related:
-  - slug: oversight-report-702-press-release
-    collection: posts
-  - slug: oversight-report-702-meeting
-    collection: posts
+
 ---
