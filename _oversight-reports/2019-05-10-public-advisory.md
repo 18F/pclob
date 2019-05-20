@@ -1,11 +1,18 @@
+---
 layout: report
-slug: oversight-report-2019-05-10-public-advisory
-permalink: /newsroom/20190510.html
+slug: oversight-report-section-702
+permalink: /reports/report-public-advisory/
 featured: true
-title: This is a test for the 
+title: Test
 date: May 10, 2019
-summary: Board's report  of the USA PATRIOT Act on the operations of the FISA court. 
+summary: This is the bipartisan Privacy and Civil Liberties Oversight Board (PCLOB)’s Test
 attachments:
-  - url: /library/215-Report_on_the_Telephone_Records_Program.pdf
-    title: Download the Public Advisory report
+  - url: /library/PPD-28 Report (for FOIA Release).pdf
+    title: Download the advisory
     format: PDF
+related:
+  - slug: oversight-report-702-press-release
+    collection: posts
+  - slug: oversight-report-702-meeting
+    collection: posts
+---
