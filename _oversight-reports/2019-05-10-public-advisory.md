@@ -32,9 +32,10 @@ Details of the public forum are as follows:
 
 Date: **Friday, May 31, 2019**  
 Time: **10:00 a.m. - 12:30 p.m.**  
-Location: **Ronald Reagan Building, Horizon Room  
-	           1300 Pennsylvania Ave. NW  
-                   Washington, DC 20004**
+Location: 
+**Ronald Reagan Building, Horizon Room  
+1300 Pennsylvania Ave. NW  
+Washington, DC 20004**
 
 
 Scheduled expert panelists include:
