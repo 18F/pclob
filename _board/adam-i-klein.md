@@ -1,7 +1,7 @@
 ---
 layout: teammate
 name: Adam I. Klein
-<!-- image: /assets/img/board/members/PCLOBimage.jpg -->
+image: /assets/img/board/members/A.Klein-biopic.jpg
 title: Chairman
 term: October 2018 - Present
 body-class: page-team-single
