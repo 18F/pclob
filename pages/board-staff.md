@@ -13,8 +13,8 @@ Selected staff biographies are provided below.
 
 
 ## Lynn Parker Dupree, Executive Director
-**Email: info@pclob.gov**
-image: /assets/img/board/A.Klein-biopic.jpg
+**Email: info@pclob.gov**  
+![Lynn](/assets/img/board/A.Klein-biopic.jpg)
 
 Lynn Parker Dupree became the PCLOB’s Executive Director in 2019. She previously served as the Board’s Deputy General Counsel. Prior to joining the Board’s staff, Ms. Dupree was assigned to the White House as Deputy Associate Counsel for Presidential Personnel.  She served as the Special Assistant to the General Counsel at the Department of Homeland Security (DHS), where she worked on a wide-ranging portfolio that included issues related to privacy, information sharing, civil rights, and civil liberties.  She also served as Special Assistant to the Chief Privacy Officer at DHS, where her work focused on the Department’s participation in the information sharing environment.  Prior to her appointment to DHS, she was an associate in the litigation practice group of Burr Forman LLP and served as a law clerk to Judge Michael P. Mills in the Northern District of Mississippi.
 
