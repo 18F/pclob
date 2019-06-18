@@ -48,43 +48,43 @@ related-media:
           source: University of Texas at Austin Intelligence Studies Project 
           date: March 20, 2016
         - title: Remarks at the University of Chicago Law School
-          url: 
+          url: https://www.pclob.gov/library/U_of_Chicago_speech_2-24-16_FINAL.pdf
           source: University of Chicago Law School
           date: February 24, 2016
         - title: "Balance intelligence gathering and privacy"
-          url: 
+          url: http://thehill.com/blogs/congress-blog/homeland-security/263143-balance-intelligence-gathering-and-privacy
           source: The Hill
           date: December 15, 2015
         - title: Transparency in the Intelligence Community"
-          url: 
+          url: http://www.fed-soc.org/blog/detail/transparency-in-the-intelligence-community
           source: FedSoc Blog
           date: October 29, 2015
         - title: Speech at the 2015 Florida Appellate Court Education Conference
-          url: 
+          url: https://www.pclob.gov/library/RB%20Fla%20judicial%20conference%20speech%20FINAL%20(9-9-15).pdf
           source: Ponte Vedra Beach, Florida
           date: September 9, 2015
         - title: "What Congress gets wrong about NSA surveillance practices"
-          url: 
+          url: http://www.csmonitor.com/World/Passcode/Passcode-Voices/2015/0520/Opinion-What-Congress-gets-wrong-about-NSA-surveillance-practices
           source: Christian Science Monitor
           date: May 20, 2015
         - title: Remarks at the Vienna Parliamentary Forum on Intelligence-Security
-          url: 
+          url: https://www.pclob.gov/library/Brand-201505-ViennaParliamentaryIntelligenceSecurityForum.pdf
           source: Vienna Parliamentary
           date: May 6, 2015
         - title: "Measuring Privacy and Security"
-          url: 
+          url: http://www.jewishpolicycenter.org/5483/measuring-privacy-security
           source: Infocus
           date: Winter 2015
         - title: "Memo to NSA: Stop Saying You Apply the FIPPS"
-          url: 
+          url: http://www.lawfareblog.com/2014/11/memo-to-nsa-stop-saying-you-apply-the-fipps/
           source: Lawfare
           date: November 25, 2014
         - title: Discussion of PCLOB Sec. 702 Report
-          url: 
+          url: http://www.fed-soc.org/multimedia/detail/surveillance-national-security-and-privacy-the-pclob-report-on-section-702-surveillance-podcast
           source: Federalist Society Teleforum
           date: Aug. 14, 2014
         - title: "Panel Discussion on Balancing Privacy and Security at University of Florida Law School"
-          url: 
+          url: http://www.youtube.com/watch?v=b0EgEu-pcqI&amp;t=68m45s
           source: University of Florida Law School
           date: March 7, 2014
 
