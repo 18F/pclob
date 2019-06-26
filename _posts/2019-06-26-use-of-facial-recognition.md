@@ -6,7 +6,7 @@ excerpt: >-
 layout: post
 links:
   - text: View File
-    url: /library/Public Forum Advisory5_10_19FINAL.pdf
+    url: /library/new projects announcement June_25_ 2019 Final.pdf
 permalink: /newsroom/20190626.html
 title: >-
    Privacy and Civil Liberties Oversight Board To Examine Use of Facial Recognition and Other Biometric Technologies in Aviation Security 
