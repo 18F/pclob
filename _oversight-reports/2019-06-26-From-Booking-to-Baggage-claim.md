@@ -6,15 +6,11 @@ featured: true
 title: From Booking To Baggage Claim
 date: June 26, 2019
 summary: The Privacy and Civil Liberties Oversight Board has voted to initiate three new oversight projects, including a review of the use of facial recognition and other biometric technologies in aviation security.
-attachments:
-  - url: /library/new projects announcement June_25_ 2019 Final.pdf
-    title: Download the File
-    format: PDF
 excerpt: >-
  Privacy and Civil Liberties Oversight Board Chairman Adam Klein and Board Members Edward Felten and Jane Nitze have announced a May 31, 2019 public forum in Washington, DC to examine the USA FREEDOM Act and the government’s call detail records (CDR) program under that law.   Several key provisions of the USA FREEDOM Act will sunset in December unless they are reauthorized by Congress.  
 layout: post
 links:
-  - link: 
+  - link: /library/new%20projects%20announcement%20June_25_%202019%20Final.pdf
 title: >-
   The Privacy and Civil Liberties Oversight Board has voted to initiate three new oversight projects, including a review of the use of facial recognition and other biometric technologies in aviation security.
 ---
@@ -39,5 +35,6 @@ The Board also recently announced that it is reviewing the NSA’s collection of
 
 The level of formality and classification of any reports resulting from these projects will depend on the nature of the Board’s findings and conclusions. Where oversight projects result in formal written reports, the Board strives to make them available to the public to the greatest extent consistent with the protection of classified information and other applicable law.
 
-#
+#  
+
 The Privacy and Civil Liberties Oversight Board is an independent agency within the Executive Branch established by the Implementing Recommendations of the 9/11 Commission Act of 2007. The Board’s mission is to ensure that the federal government’s efforts to prevent terrorism are balanced with the need to protect privacy and civil liberties. The Board’s current Members are Chairman Adam I. Klein and Board Members Jane E. Nitze and Edward W. Felten.
