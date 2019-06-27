@@ -18,8 +18,9 @@ links:
 title: >-
   The Privacy and Civil Liberties Oversight Board has voted to initiate three new oversight projects, including a review of the use of facial recognition and other biometric technologies in aviation security.
 ---
-PRESS RELEASE
-For Immediate Release June 26, 2019
+PRESS RELEASE  
+For Immediate Release  
+June 26, 2019
 
 **"From Booking To Baggage Claim:” Privacy and Civil Liberties Oversight Board To Examine Use of Facial Recognition and Other Biometric Technologies in Aviation Security**
 
