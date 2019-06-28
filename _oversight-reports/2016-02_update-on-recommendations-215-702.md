@@ -2,7 +2,7 @@
 layout: report
 title: "Update on Government's Implementation of the PCLOB Recommendations on Section 215 and Section 702"
 permalink: /reports/2016-update-on-215-702/
-featured: true
+featured: false
 slug: oversight-report-implementation-update-2016
 title: PCLOB Releases Update on Government's Implementation of the PCLOB Recommendations on Section 215 and Section 702
 date: February 5, 2016
