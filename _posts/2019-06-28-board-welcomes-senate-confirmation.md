@@ -2,7 +2,7 @@
 category: newsroom
 date: '2019-06-28'
 excerpt: >-
-The Senate has confirmed the nominations of Aditya Bamzai and Travis LeBlanc to serve as Members of the Privacy and Civil Liberties Oversight Board.  With these confirmations, the independent, bipartisan Board will have a full slate of Members for the first time since 2016.  The Senate also confirmed the re-nomination of Board Member Edward Felten to a new six-year term.  
+ The Senate has confirmed the nominations of Aditya Bamzai and Travis LeBlanc to serve as Members of the Privacy and Civil Liberties Oversight Board.  With these confirmations, the independent, bipartisan Board will have a full slate of Members for the first time since 2016.  The Senate also confirmed the re-nomination of Board Member Edward Felten to a new six-year term.  
 layout: post
 links:
   - text: View File
