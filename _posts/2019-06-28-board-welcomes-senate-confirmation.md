@@ -9,7 +9,7 @@ links:
     url: /library/Travis and Aditya Confirm Statement 6_28_19.pdf
 permalink: /newsroom/20190628.html
 title: >-
-Privacy and Civil Liberties Oversight Board Welcomes Senate Confirmation of New Members
+  Privacy and Civil Liberties Oversight Board Welcomes Senate Confirmation of New Members
 ---
 PRESS RELEASE  
 For Immediate Release
