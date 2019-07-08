@@ -25,6 +25,6 @@ Attaining the greatest possible transparency was one of the five “strategic go
 
 A copy of the document accompanies this release.
 
-                                                                ####
+   ####
 
 *The PCLOB is an independent agency within the Executive Branch established by the Implementing Recommendations of the 9/11 Commission Act of 2007.  The PCLOB’s mission is to ensure that the federal government’s efforts to prevent terrorism are balanced with the need to protect privacy and civil liberties.  Current Board Members include Chairman Adam I. Klein and Board Members Jane E. Nitze and Edward W. Felten.*
