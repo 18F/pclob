@@ -23,7 +23,7 @@ If selected for an interview and you require personal assistance services, pleas
 
 <!--[SUMMER LAW FELLOW / SUMMER POLICY FELLOW](https://www.pclob.gov/summer-law-policy-fellow/) -->
 
-[TECHNOLOGIST](https://www.pclob.gov/technologist/)
+<!--[TECHNOLOGIST](https://www.pclob.gov/technologist/) -->
 
 [Current Federal Employee Opportunities: Joint Duty Assignment (Detail to PCLOB)](https://www.pclob.gov/jda/)
 
