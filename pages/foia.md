@@ -117,6 +117,7 @@ quarterly_reports:
     quarters:
       - /foia/quarterly/PCLOB-2019-Q1.zip
       - /foia/quarterly/PCLOB-2019-Q2.zip
+      - /foia/quarterly/PCLOB-2019-Q3.zip
   - year: FY 2018
     quarters:
       - /foia/quarterly/PCLOB-2018-Q1.zip
