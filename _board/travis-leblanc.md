@@ -1,7 +1,7 @@
 ---
 layout: teammate
 name: Travis LeBlanc
-image: /assets/img/board/PCLOBimage.jpg
+image: /assets/img/board/Travis_LeBlanc_PCLOB.jpg
 title: Board member
 term: July 2019 - Present
 body-class: page-team-single
