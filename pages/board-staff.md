@@ -14,9 +14,12 @@ Selected staff biographies are provided below.
 
 ## Lynn Parker Dupree, Executive Director
 
+
 <img src="/assets/img/board/Lynn-ED.jpg"
      alt="Lynn-ED icon"
      style="float: left; margin-right: 2px;" />  
+     
+  
      
 **Email: info@pclob.gov**  
      
