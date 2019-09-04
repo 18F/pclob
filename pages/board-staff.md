@@ -11,10 +11,8 @@ Each Board Member has one attorney serving as his or her individual Counselor, w
 
 Selected staff biographies are provided below.
 
-<img src="/assets/img/board/Lynn-ED.jpg"
-     alt="Lynn-ED icon"
-     style="float: left; margin-right: 1px;" />  
 
+![Lynn Parker Dupree](/assets/img/board/Lynn-ED.jpg)
 ## Lynn Parker Dupree, Executive Director
 **Email: info@pclob.gov**  
      
