@@ -45,14 +45,23 @@ additional-info:
       - link: /library/FOIA-Privacy_Act-Sunshine_Act-Implementing%20Guidelines.pdf
         title: Regulations on Freedom of Information Act, Privacy Act, and Sunshine Act
         text: Finalized agency rule implementing the Freedom of Information Act, the Privacy Act of 1974, and the Government in the Sunshine Act. This rule describes the procedures for members of the public to request access to PCLOB records. In addition, this rule also includes procedures for the Board’s responses to these requests, including the timeframe for response and applicable fees.
-      - link: /library/20150928-PCLOB_FY2016_Lapse_Plan.pdf
-        title: Plan in the Event of Lapse of Appropriations for FY2016
-        text: Agency plan outlining the Board's functions in the event of a lapse in appropriations for Fiscal Year 2016.
+      - link: /library/PCLOB Plan for Lapse of Approps.pdf
+        title: PCLOB Plan in the Event of Lapse of Appropriations
+        text: Agency plan outlining the Board's functions in the event of a lapse in appropriations.
       - link: /library/FederalRegister-PCLOB-2013-0005-SORN.pdf
         title: Privacy Act System of Records Notice
         text: In accordance with the Privacy Act of 1974, the Privacy and Civil Liberties Oversight Board created a system of records titled, "PCLOB–1, Freedom of Information Act and Privacy Act Request Files."
   - heading: Budget and Strategic Plans
     links:
+      - link: /library/CBJ FY20 PCLOB.pdf
+        title: PCLOB FY20 Congressional Budget Justification
+      - link: /library/Message from Board on First Financial Audit.pdf
+        title: Message from Board on First Financial Audit
+      - link: /library/PCLOB FY 2018 Final Financial Report.pdf
+        title: PCLOB FY18 Final Financial Audit
+      - link: /library/StrategicPlan_2019-2022.pdf
+        title: PCLOB Strategic Plan for 2019 – 2022
+        text: We are pleased to present the Privacy and Civil Liberties Oversight Board’s Strategic Plan for Fiscal Years 2019-2022. This plan will guide our work to help ensure that efforts by the Executive Branch to protect the nation against terrorism appropriately protect privacy and civil liberties.
       - link: /library/StrategicPlan_2016-2018.pdf
         title: PCLOB Strategic Plan for 2016 – 2018
         text: The PCLOB’s Strategic Plan for 2016 – 2018 establishes four strategic goals to support the agency’s mission and guide its efforts through 2018. These cover the Board’s oversight reviews; its advice to the President and other elements of the executive branch; its strategies to inform Congress, the President, and the public; and the Board’s continued focus on refining the agency’s own capabilities and internal procedures.
@@ -72,25 +81,29 @@ additional-info:
 ---
 
 ## What is the Privacy and Civil Liberties Oversight Board?
-The PCLOB is an independent agency within the executive branch established by the Implementing Recommendations of the 9/11 Commission Act of 2007. The bipartisan, five-member Board is appointed by the President and confirmed by the Senate. The Chairman serves full time, but the four other Board members serve in their positions part-time. The PCLOB’s mission is to ensure that the federal government’s efforts to prevent terrorism are balanced with the need to protect privacy and civil liberties.​
+The PCLOB is an independent agency within the Executive Branch established by the Implementing Recommendations of the 9/11 Commission Act of 2007. The bipartisan, five-member Board is appointed by the President and confirmed by the Senate. The Chairman serves full time, while the four other Board Members serve in their positions part-time. The Board’s mission is to ensure that the federal government’s efforts to prevent terrorism are balanced with the need to protect privacy and civil liberties.​
 
 
 ### What is the History of the Board?
-In its 2004 report, the National Commission on Terrorist Attacks Upon the United States (known as the 9/11 Commission) recommended the creation of what is now the Privacy and Civil Liberties Oversight Board. The 9/11 Commission recognized concerns about "the shifting balance of power to the government" after the September 11 attacks, but found that "there is no office within the government whose job it is to look across the government at the actions we are taking to protect ourselves to ensure that liberty concerns are appropriately considered." To fill that gap, the Commission recommended establishing a board within the executive branch to oversee the government's adherence to the protection of civil liberties in its efforts to prevent terrorism.
+In its 2004 report, the National Commission on Terrorist Attacks Upon the United States, known as the 9/11 Commission, recommended the creation of what is now the Privacy and Civil Liberties Oversight Board. The Commission noted that many of its recommendations “call[ed] for the government to increase its presence in our lives—for example, by creating standards for the issuance of forms of identification, by better securing our borders, by sharing information gathered by many different agencies,” and by consolidating authority over intelligence agencies under a new Director of National Intelligence.  
 
-The Board today is in its third iteration. In response to the recommendation of the 9/11 Commission, President George W. Bush created the President's Board on Safeguarding Americans' Civil Liberties in 2004. The President's Board ceased to meet following the enactment later that year of the Intelligence Reform and Terrorism Prevention Act of 2004 ("IRTPA"), which created a Privacy and Civil Liberties Oversight Board within the Executive Office of the President. In 2007, the Implementing Recommendations of the 9/11 Commission Act reconstituted the Board in its current form, as an independent agency within the executive branch. The Board is comprised of four part-time members and a full-time chairman, each of whom is​ appointed by the President, with the advice and consent of the Senate, for staggered six-year terms.
+The Commission observed that “this shift of power and authority to the government” would require “an enhanced system of checks and balances to protect the precious liberties that are vital to our way of life.” It also found, however, that there was “no office within the government whose job it is to look across the government at the actions we are taking to protect ourselves to ensure that liberty concerns are appropriately considered.” To fill that gap, the Commission called for “a board within the executive branch” to oversee “the commitment the government makes to defend our civil liberties.”   
 
-The 2007 legislation disbanded the Board that had been housed within the Executive Office of the President, and from that time until August 2012, the Privacy and Civil Liberties Oversight Board did not exist. In August 2012, the Senate confirmed the current Board's first four members, providing a quorum to commence operations and to begin standing up as an agency. The Board's chairman was confirmed in May 2013, finally providing the Board with a full complement of five members and allowing it to hire staff and become fully operational as an independent agency within the executive branch.
+In response to the 9/11 Commission’s recommendation, President George W. Bush created the President’s Board on Safeguarding Americans’ Civil Liberties in 2004. The President’s Board ceased to meet following the enactment later that year of the Intelligence Reform and Terrorism Prevention Act of 2004, which created a Privacy and Civil Liberties Oversight Board within the Executive Office of the President. Finally, in 2007, the Implementing Recommendations of the 9/11 Commission Act (“9/11 Commission Act”) established the Board as an independent agency within the Executive Branch.   
+
+Under the 9/11 Commission Act, the Board is comprised of a full-time Chairman and four part-time Members, each appointed by the President, with the advice and consent of the Senate, to staggered six-year terms. The Board’s statute requires that Members come from different political parties and be selected “on the basis of their professional qualifications, achievements, public stature, expertise in civil liberties and privacy, and relevant experience.”    
+
+The Board’s three current Members were confirmed by the Senate and appointed by the President in October 2018.
+
 
 ### What are the Board's Responsibilities?
-The Board's responsibilities comprise two basic functions: oversight and advice.
+The Board’s responsibilities comprise two basic functions: oversight and advice.  
+In its oversight role, the Board is authorized to continually review the implementation of Executive Branch policies, procedures, regulations, and information-sharing practices relating to efforts to protect the nation from terrorism, in order to ensure that privacy and civil liberties are protected. The Board also is authorized to continually review any other actions of the Executive Branch relating to efforts to protect the nation from terrorism, in order to determine whether such actions appropriately protect privacy and civil liberties and whether they are consistent with governing laws, regulations, and policies regarding privacy and civil liberties. 
 
-In its oversight role, the Board is authorized to continually review the implementation of executive branch policies, procedures, regulations, and information sharing practices relating to efforts to protect the nation from terrorism, in order to ensure that privacy and civil liberties are protected. The Board also is authorized to continually review any other actions of the executive branch relating to efforts to protect the nation from terrorism, in order to determine whether such actions appropriately protect privacy and civil liberties and whether they are consistent with governing laws, regulations, and policies regarding privacy and civil liberties.
-
-In its advice role, the Board is authorized to review proposed legislation, regulations, and policies related to efforts to protect the nation from terrorism (as well as the implementation of new and existing policies and legal authorities), in order to advise the President and executive branch agencies on ensuring that privacy and civil liberties are appropriately considered in their development and implementation.
+In its advice role, the Board is authorized to review proposed legislation, regulations, and policies related to efforts to protect the nation from terrorism (as well as the implementation of new and existing policies and legal authorities), in order to advise the President and Executive Branch agencies on ensuring that privacy and civil liberties are appropriately considered in their development and implementation.  
 
 The Board is also directed by statute to, when appropriate, coordinate the activities of federal agency privacy and civil liberties officers on relevant interagency matters. Twice each year, the Board must report to Congress and the President on its activities, making the reports available to the public to the greatest extent possible.
 
 
 ### What Actions Can the Board Take?
-In order to carry out its mission of providing oversight and advice, the Board is authorized to access all relevant executive agency records, reports, audits, reviews, documents, papers, recommendations, and any other relevant materials, including classified information. The Board may interview, take statements from, or take public testimony from any executive branch officer or employee. Additionally, the Board may request in writing that the Attorney General subpoena on the Board's behalf parties outside of the executive branch to produce relevant information.
+In order to carry out its mission of providing oversight and advice, the Board is authorized to access all relevant executive agency records, reports, audits, reviews, documents, papers, recommendations, and any other relevant materials, including classified information. The Board may interview, take statements from, or take public testimony from any Executive Branch officer or employee. Additionally, the Board may request in writing that the Attorney General subpoena on the Board’s behalf parties outside of the Executive Branch to produce relevant information.
