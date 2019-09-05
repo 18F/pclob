@@ -31,7 +31,7 @@ We also comply with [Section 504 of the Rehabilitation Act](https://www.dol.gov/
 
 ### The Architectural Barriers Act and access to PCLOB facilities
 
-We also comply with the [Architectural Barriers Act](https://www.access-board.gov/the-board/laws/architectural-barriers-act-aba)(ABA). This law helps ensure that PCLOB employees, applicants for PCLOB employment, and members of the public with disabilities can gain ready access to PCLOB buildings and facilities.  
+We also comply with the [Architectural Barriers Act](https://www.access-board.gov/the-board/laws/architectural-barriers-act-aba) (ABA). This law helps ensure that PCLOB employees, applicants for PCLOB employment, and members of the public with disabilities can gain ready access to PCLOB buildings and facilities.  
 
 If you have any questions or concerns about physical access to PCLOB’s office or facilities, contact info@pclob.gov. 
 
