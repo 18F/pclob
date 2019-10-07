@@ -38,7 +38,7 @@ additional-info:
         text: This Federal Register notice provides information to the public about the Board’s organization, function, and operations.
         related:
           - title: Amendment
-            link: /library/FederalRegister-PCLOB-2013-0005-Delegation-Reg-Amendment.pdf
+            link: /library/FederalRegister-PCLOB-2019-07-29-Delegation-Reg-Amendment.pdf
       - link: /library/PCLOB_No_Fear_Act.pdf
         title: No Fear Act Statement
         text: Federal Register Notice "providing notice to [the Board's] employees, former employees, and applicants for Board employment about the rights and remedies available to them under the federal anti-discrimination, whistleblower protection, and retaliation laws."
