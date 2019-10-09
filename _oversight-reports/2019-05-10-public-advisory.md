@@ -5,9 +5,8 @@ permalink: /reports/report-public-advisory/
 featured: false
 title: Board to Hold May 31 Public forum to Examine the USA Freedom Act, Telephone Records Program
 date: May 14, 2019
-summary: Privacy and Civil Liberties Oversight Board Chairman Adam Klein and Board Members Edward Felten and Jane Nitze have announced a May 31, 2019 public forum in Washington, DC to examine the USA FREEDOM Act and the government’s call detail records (CDR) program under that law.   Several key provisions of the USA FREEDOM Act will sunset in December unless they are reauthorized by Congress.  
+summary: Privacy and Civil Liberties Oversight Board Chairman Adam Klein and Board Members Edward Felten and Jane Nitze held a public forum on May 31, 2019 in Washington, DC that examined the USA FREEDOM Act and the government’s call detail records (CDR) program under that law.   Several key provisions of the USA FREEDOM Act will sunset in December unless they are reauthorized by Congress.  
 excerpt: >-
- Privacy and Civil Liberties Oversight Board Chairman Adam Klein and Board Members Edward Felten and Jane Nitze have announced a May 31, 2019 public forum in Washington, DC to examine the USA FREEDOM Act and the government’s call detail records (CDR) program under that law.   Several key provisions of the USA FREEDOM Act will sunset in December unless they are reauthorized by Congress.  
 layout: post
 links:
   - text: View File
