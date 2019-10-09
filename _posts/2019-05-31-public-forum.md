@@ -1,8 +1,6 @@
 ---
-layout: report
-slug: oversight-report-section-702
-permalink: /reports/report-public-forum/
-featured: true
+category: newsroom
+date: '2019-05-31'
 title: PCLOB Public Forum - May 31, 2019
 date: May 31, 2019
 summary: Watch Here
