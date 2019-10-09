@@ -2,7 +2,7 @@
 layout: about
 title: History and Mission
 permalink: /about/
-image: /assets/img/board/board-forum-2019-05-31.jpg
+image: /library/board-forum-2019-05-31.JPG
 additional-info:
   - heading: Legal Authorities
     summary: "The Board’s enabling statute, codified at 42 U.S.C. § 2000ee, vests it with two fundamental authorities: (1) to review and analyze actions the executive branch takes to protect the nation from terrorism, ensuring that the need for such actions is balanced with the need to protect privacy and civil liberties, and (2) to ensure that liberty concerns are appropriately considered in the development and implementation of laws, regulations, and policies related to efforts to protect the nation from terrorism.
