@@ -7,7 +7,7 @@ term: July 2019 - Present
 body-class: page-team-single
 is-current-member: true
 ---
-[Downloadable Photo](https://raw.githubusercontent.com/18F/pclob/master/assets/img/board/A.Klein-biopic.jpg)  
+[Downloadable Photo](https://raw.githubusercontent.com/18F/pclob/master/assets/img/board/Travis_LeBlanc_PCLOB.jpg)  
 
 
 Travis LeBlanc is a Board Member of the Privacy and Civil Liberties Oversight Board. He is also a partner and vice chair of the cyber/data/privacy practice at Cooley LLP in Washington and San Francisco. Before his confirmation to the Board, Mr. LeBlanc was appointed by the U.S. Department of Commerce and the European Commission to serve as an arbitrator under the EU-US Privacy Shield Framework. 
