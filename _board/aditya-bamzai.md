@@ -1,7 +1,6 @@
 ---
 layout: teammate
 name: Aditya Bamzai
-<!-- image: /assets/img/board/Aditya_UVA.jpg -->
 title: Board member
 term: July 2019 - Present
 body-class: page-team-single
