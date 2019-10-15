@@ -1,13 +1,13 @@
 ---
 layout: teammate
 name: Jane E. Nitze
-image: /assets/img/board/J.Nitze-biopic.jpg
+<!-- image: /assets/img/board/J.Nitze-biopic.jpg -->
 title: Board member
 term: October 2018 - Present
 body-class: page-team-single
 is-current-member: true
 ---
-[Download Photo](https://raw.githubusercontent.com/18F/pclob/master/assets/img/board/J.Nitze-biopic.jpg)  
+[Member Photo](https://raw.githubusercontent.com/18F/pclob/master/assets/img/board/J.Nitze-biopic.jpg)  
 
 
 Jane E. Nitze is a Board Member of the Privacy and Civil Liberties Oversight Board.  Before being appointed to the Board she was a fellow at Harvard Law School, where her areas of scholarly interests focused on separation of powers, the administrative state, and national security.  Previously, Nitze was an attorney in the Office of Legal Counsel, an attorney in private practice, and a law clerk to Justices Neil M. Gorsuch and Sonia Sotomayor of the United States Supreme Court.  She received her B.A. in physics and M.A. in statistics from Harvard University and her J.D. from Harvard Law School. 
