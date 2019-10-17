@@ -6,7 +6,7 @@
   background-repeat: no-repeat;
   background-position: center;
   clip-path: circle(($width / 2) at center);
-  height: $height;
+  height: $width;
   width: $width;
 }
 
@@ -17,7 +17,7 @@
 
       @media all and (min-width: $on-laptop) {
         margin-right: 0;
-        width: 50%;
+        width: 25%;
       }
     }
 
