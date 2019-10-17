@@ -3,14 +3,14 @@
   {% if person.is-current-member == true %}
   {% assign half = forloop.index | modulo: 0 %}
   {% if half == 1 %}
-<!--  <div class="usa-width-one-half usa-end-row usa-media_block"> -->
+  <div class="usa-width-one-half usa-end-row usa-media_block"> -->
   {% else %}
-<!--  <div class="usa-width-one-half usa-media_block"> -->
+  <div class="usa-width-one-half usa-media_block"> -->
   {% endif %}
-<!--    <div class="usa-media_block-img team-image" style="background-image: url({{ person.image | prepend: site.baseurl }});" role="image" aria-label="{{ person.name }}"></div> 
+    <div class="usa-media_block-img team-image" style="background-image: url({{ person.image | prepend: site.baseurl }});" role="image" aria-label="{{ person.name }}"></div> 
 <div class="usa-media_block-body"> -->
       <h3>
-        <a href="{{ site.baseurl }}{{ person.url }}">
+        <!-- <a href="{{ site.baseurl }}{{ person.url }}">-->
           {{ person.name }}
         </a>
       </h3>
