@@ -4,6 +4,8 @@
   {% assign half = forloop.index | modulo: 2 %}
   {% if half == 1 %}
   <div class="usa-width-one-half usa-end-row usa-media_block">
+  {% else %}
+  <div class="usa-width-one-half usa-media_block">
       <h3>
         <a href="{{ site.baseurl }}{{ person.url }}">
           {{ person.name }}
