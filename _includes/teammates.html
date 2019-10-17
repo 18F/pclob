@@ -8,7 +8,7 @@
   <div class="usa-width-one-half usa-media_block">
   {% endif %}
     <div class="usa-media_block-img team-image" style="background-image: url({{ person.image | prepend: site.baseurl }});" role="image" aria-label="{{ person.name }}"></div>
-<!--    <div class="usa-media_block-body">
+<!--    <div class="usa-media_block-body"> -->
       <h3>
         <a href="{{ site.baseurl }}{{ person.url }}">
           {{ person.name }}
@@ -18,7 +18,7 @@
     </div>
   </div>
   {% endif %}
-{% endfor %} -->
+{% endfor %} 
 
 <h2>Former Board Members</h2>
 {% for person in site.board %}
