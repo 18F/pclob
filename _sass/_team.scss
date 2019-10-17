@@ -6,7 +6,7 @@
   background-repeat: no-repeat;
   background-position: center;
   clip-path: circle(($width / 2) at center);
-  height: $width;
+  height: $height;
   width: $width;
 }
 
@@ -31,9 +31,9 @@
   @include image-circle(124px);
 }
 
-//.page-team-single {
-//  .team-image {
-//    @include image-circle(270px);
-//  }
-//}
+.page-team-single {
+  .team-image {
+    @include image-circle(270px);
+  }
+}
 
