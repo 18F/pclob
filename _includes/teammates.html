@@ -3,17 +3,13 @@
   {% if person.is-current-member == true %}
   {% assign half = forloop.index | modulo: 2 %}
   {% if half == 1 %}
-<!--  <div class="usa-width-one-half usa-end-row usa-media_block">
-  {% else %}
-  <div class="usa-width-one-half usa-media_block">
-  {% endif %}
-    <div class="usa-media_block-img team-image" style="background-image: url({{ person.image | prepend: site.baseurl }});" role="image" aria-label="{{ person.name }}"></div> -->
+  <div class="usa-width-one-half usa-end-row usa-media_block">
       <h3>
         <a href="{{ site.baseurl }}{{ person.url }}">
           {{ person.name }}
         </a>
       </h3>
-      <p>{{ person.title | join: ", " }}, {{ person.term }}</p>
+      <p>{{ person.title | join: ", " }}</p>
     </div>
   </div>
   {% endif %}
