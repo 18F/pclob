@@ -1,7 +1,7 @@
 <section class="usa-graphic_list">
 {% for person in site.board %}
   {% if person.is-current-member == true %}
-  {% assign half = forloop.index | modulo: 2 %}
+  {% assign half = forloop.index | modulo: 1 %}
   {% if half == 1 %}
 <!--  <div class="usa-width-one-half usa-end-row usa-media_block"> -->
   {% else %}
