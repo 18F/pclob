@@ -17,7 +17,7 @@
 
       @media all and (min-width: $on-laptop) {
         margin-right: 0;
-        width: 25%;
+        width: 50%;
       }
     }
 
@@ -28,12 +28,12 @@
 }
 
 .team-image {
-  @include image-circle(124px);
+  @include image-circle(150px);
 }
 
 .page-team-single {
   .team-image {
-    @include image-circle(124px);
+    @include image-circle(215px);
   }
 }
 
