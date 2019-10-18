@@ -31,9 +31,9 @@
   @include image-circle(150px);
 }
 
-//.page-team-single {
- // .team-image {
- //   @include image-circle(175px);
- // }
-//}
+.page-team-single {
+  .team-image {
+    @include image-circle(175px);
+  }
+}
 
