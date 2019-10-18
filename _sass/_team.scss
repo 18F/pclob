@@ -5,7 +5,7 @@
   background-size: cover;
   background-repeat: repeat;
   background-position: center;
-  clip-path: circle(($width * 2) at center);
+  clip-path: circle(($width / 0) at center);
   height: $width;
   width: $width;
 
@@ -33,7 +33,7 @@
 
 .page-team-single {
   .team-image {
-    @include image-circle(270px);
+    @include image-circle(425px);
   }
 }
 
