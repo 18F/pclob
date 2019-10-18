@@ -5,7 +5,7 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  clip-path: circle(($width / 1) at center);
+  clip-path: circle(($width / 0) at center);
   height: $width;
   width: $width;
 }
