@@ -80,6 +80,12 @@ assigned:
                 permalink: /career-opportunities/
                 show_in_menu: false
                 show_in_footer: false
+             -
+                text: Personal Assistance Services (PAS)
+                href: pages/PAS.md
+                permalink: /PAS/
+                show_in_menu: false
+                show_in_footer: false
     -
         text: 'Project data'
         href: _data/projects.yml
