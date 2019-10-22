@@ -70,11 +70,16 @@ assigned:
         show_in_menu: true
         show_in_footer: false
     -
-        text: Career Opportunities
-        href: pages/opportunities.md
-        permalink: /career-opportunities/
+        text: Careers
         show_in_menu: true
         show_in_footer: false
+        children:
+             -
+                text: Career Opportunities
+                href: pages/opportunities.md
+                permalink: /career-opportunities/
+                show_in_menu: false
+                show_in_footer: false
     -
         text: 'Project data'
         href: _data/projects.yml
