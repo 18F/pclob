@@ -81,6 +81,8 @@ footer:
       href: '/CJ/'
     - text: 'FOIA information'
       href: '/foia/'
+    - text: 'No Fear Act'
+      href: '/_no-fear/'
     - text: 'Plain Writing Act'
       href: '/plain-writing/'
     - text: 'Privacy compliance'
