@@ -82,7 +82,7 @@ footer:
     - text: 'FOIA information'
       href: '/foia/'
     - text: 'No Fear Act'
-      href: '/_no-fear/'
+      href: '/no-fear/'
     - text: 'Plain Writing Act'
       href: '/plain-writing/'
     - text: 'Privacy compliance'
