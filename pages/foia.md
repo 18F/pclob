@@ -115,15 +115,16 @@ quarterly_reports:
   # order. If they're not, they will be mis-labeled!
   - year: FY 2019
     quarters:
-      - /foia/quarterly/PCLOB-2019-Q1.zip
-      - /foia/quarterly/PCLOB-2019-Q2.zip
+      - /foia/quarterly/PCLOB-2019-Q4.zip
       - /foia/quarterly/PCLOB-2019-Q3.zip
+      - /foia/quarterly/PCLOB-2019-Q2.zip
+      - /foia/quarterly/PCLOB-2019-Q1.zip
   - year: FY 2018
     quarters:
-      - /foia/quarterly/PCLOB-2018-Q1.zip
-      - /foia/quarterly/PCLOB-2018-Q2.zip
-      - /foia/quarterly/PCLOB-2018-Q3.zip
       - /foia/quarterly/PCLOB-2018-Q4.zip
+      - /foia/quarterly/PCLOB-2018-Q3.zip
+      - /foia/quarterly/PCLOB-2018-Q2.zip
+      - /foia/quarterly/PCLOB-2018-Q1.zip
   - year: FY 2017
     quarters:
       - /foia/quarterly/PCLOB-2017-Q4.zip
