@@ -66,7 +66,7 @@ annual-reports:
       covers activities from October 1, 2018-September 30, 2019.
     downloads: 
       - type: PDF
-        url: /foia/annual/PCLOB FY19 Final (Including Sec. I-III).pdf
+        url: /library/PCLOB FY19 Final (Including Sec. I-III).pdf
       - type: XML
         url: /foia/annual/PCLOB FY19 Final.xml
   - title: Annual Freedom of Information Act Report for FY 2018
@@ -125,7 +125,7 @@ quarterly_reports:
   # order. If they're not, they will be mis-labeled!
   - year: FY 2020
     quarters:
-      - /foia/quarterly/PCLOB-2020-Q1.zip
+      - /library/PCLOB-2020-Q1.zip
   - year: FY 2019
     quarters:
       - /foia/quarterly/PCLOB-2019-Q4.zip
