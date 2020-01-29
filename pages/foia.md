@@ -59,6 +59,16 @@ chief-foia-officer-reports:
       - type: PDF
         url: /library/FOIA-2015-Chief_FOIA_Officer_Report.pdf
 annual-reports:
+  - title: Annual Freedom of Information Act Report for FY 2019
+    year: FY 2019
+    description: |
+      This is the PCLOB's fifth Annual Freedom of Information Act Report, which
+      covers activities from October 1, 2018-September 30, 2019.
+    downloads: 
+      - type: PDF
+        url: /library/PCLOB FY19 Final (Including Sec. I-III).pdf
+      - type: XML
+        url: /foia/annual/PCLOB FY19 Final.xml
   - title: Annual Freedom of Information Act Report for FY 2018
     year: FY 2018
     description: |
@@ -113,6 +123,9 @@ annual-reports:
 quarterly_reports:
   # Note that the quarters should be listed in reverse chronological
   # order. If they're not, they will be mis-labeled!
+  - year: FY 2020
+    quarters:
+      - /library/PCLOB-2020-Q1.zip
   - year: FY 2019
     quarters:
       - /foia/quarterly/PCLOB-2019-Q4.zip
