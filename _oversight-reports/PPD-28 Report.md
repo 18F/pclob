@@ -5,7 +5,7 @@ permalink: /reports/report-PPD28/
 featured: false
 title: Presidential Policy Directive 28 (PPD-28) Report
 date: October 16, 2018
-summary: This is the bipartisan Privacy and Civil Liberties Oversight Board (PCLOB)’s Report on the Implementation of Presidential Policy Directive 28 (PPD-28)
+summary: This is the bipartisan Privacy and Civil Liberties Oversight Board (PCLOB)’s Report on the Implementation of Presidential Policy Directive 28 (PPD-28).
 attachments:
   - url: /library/PPD-28 Report (for FOIA Release).pdf
     title: Download the report
