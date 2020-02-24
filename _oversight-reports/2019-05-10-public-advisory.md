@@ -15,7 +15,7 @@ Related documents:
     - slug: oversight-report-implementation-update-2016-press-release
 permalink: /newsroom/20190514.html
 title: >-
-  Board to Hold May 31 Public forum to Examine the USA Freedom Act, Telephone Records Program 
+  Board to Hold May 31 Public forum on the USA Freedom Act Telephone Call Records Program 
 ---
 PRESS RELEASE  
 For Immediate Release
