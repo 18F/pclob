@@ -2,8 +2,7 @@
 category: newsroom
 date: '2018-12-18'
 excerpt: >-
- The Privacy and Civil Liberties Oversight Board has announced that it
-will hold a public forum on February 8, 2019, in Washington, DC.The subject of the forum is Countering Terrorism while Protecting Privacy and Civil Liberties: Where do We Stand in 2019? The forum will be open to the public and members of the media.
+ The Privacy and Civil Liberties Oversight Board has announced that it will hold a public forum on February 8, 2019, in Washington, DC.The subject of the forum is Countering Terrorism while Protecting Privacy and Civil Liberties: Where do We Stand in 2019? The forum will be open to the public and members of the media.
 layout: post
 links:
   - text: View File
