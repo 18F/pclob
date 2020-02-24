@@ -2,7 +2,7 @@
 category: newsroom
 date: '2019-01-30'
 excerpt: >-
-  The Privacy and Civil Liberties Oversight Board has announced participants for its February 8, 2019 public forum, the first to be held by the Board since regaining a quorum late last year:
+  The Privacy and Civil Liberties Oversight Board has announced participants for its February 8, 2019 public forum, the first to be held by the Board since regaining a quorum late last year.
 layout: post
 links:
   - text: View File
