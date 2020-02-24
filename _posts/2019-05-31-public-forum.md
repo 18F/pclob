@@ -14,7 +14,7 @@ links:
   - text: Statement from Caroline Lynch
     url: /library/Caroline Lynch Statement for PCLOB Public Forum_.pdf
 title: >-
-  The Board Held a Public Forum to Examine the USA Freedom Act, Telephone Records Program - May 31, 2019
+  The Board Held a Public Forum on the USA Freedom Act Telephone Call Records Program
 ---
 
 [![](https://images.c-span.org/Files/ce3/20190531100634002_hd.jpg/Thumbs/height.182.no_border.width.320.jpg)](https://www.c-span.org/video/?461266-1/privacy-civil-liberties-oversight-board-usa-freedom-act&live "Click here to Watch the Public Forum")

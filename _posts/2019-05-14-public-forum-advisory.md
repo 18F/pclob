@@ -9,7 +9,7 @@ links:
     url: /library/Public Forum Advisory5_10_19FINAL.pdf
 permalink: /newsroom/20190514.html
 title: >-
-   Privacy and Civil Liberties Oversight Board to Hold Public Forum to Examine the USA Freedom Act, Telephone Records Program 
+   Privacy and Civil Liberties Oversight Board to Hold a Public Forum on the USA Freedom Act Telephone Call Records Program 
 ---
 PRESS RELEASE  
 For Immediate Release

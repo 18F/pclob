@@ -2,7 +2,7 @@
 category: newsroom
 date: '2019-03-28'
 excerpt: >-
-  Chairman Adam Klein addressed students at the GW Elliott School of International Affairs
+  Chairman Adam Klein addressed students at the GW Elliott School of International Affairs on the topic of surveillance and oversight, implications for US leadership.
 layout: post
 links: []
 permalink: /newsroom/20190328.html

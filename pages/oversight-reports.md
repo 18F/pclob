@@ -1,6 +1,6 @@
 ---
 layout: report-list
-title: Oversight Reports
+title: Oversight Projects
 permalink: /oversight-reports/
 collection: oversight-reports
 ---

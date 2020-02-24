@@ -1,10 +1,10 @@
 ---
 layout: report
-title: "Update on Government's Implementation of the PCLOB Recommendations on Section 215 and Section 702"
+title: "Update on the Government's Implementation of the Board's Recommendations on Section 215 and Section 702"
 permalink: /reports/2016-update-on-215-702/
 featured: false
 slug: oversight-report-implementation-update-2016
-title: PCLOB Releases Update on Government's Implementation of the PCLOB Recommendations on Section 215 and Section 702
+title: The Board Releases an Update on the Government's Implementation of the Board's Recommendations on Section 215 and Section 702.
 date: February 5, 2016
 summary: The bipartisan Privacy and Civil Liberties Oversight Board (PCLOB) has released a report that provides an update on the progress the government has made toward implementing agency recommendations. The "Recommendations Assessment Report" outlines the status of 22 recommendations PCLOB made as part of two separate reports.
 attachments:

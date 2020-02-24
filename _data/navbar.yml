@@ -40,7 +40,7 @@ assigned:
         show_in_footer: false
         children:
             -
-                text: Oversight Reports
+                text: Oversight Projects
                 href: pages/oversight-reports.md
                 permalink: /oversight-reports/
                 show_in_menu: false
