@@ -8,4 +8,4 @@ links:
 permalink: null
 title: Testimony by Board Member Rachel Brand Before the Senate Judiciary Committee
 ---
-Board Member Rachel Brand testified on May 10, 2016 before the United States Senate Committee on the Judiciary
+Board Member Rachel Brand testified on May 10, 2016 before the United States Senate Committee on the Judiciary. 
