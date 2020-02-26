@@ -2,7 +2,7 @@
 layout: report
 slug: oversight-report-boards-new-projects
 permalink: /reports/new-projects/
-featured: true-reverse
+featured: false
 title: The Board Has Voted to Initiate Three New Oversight Projects.
 date: June 26, 2019
 summary: The Privacy and Civil Liberties Oversight Board has voted to initiate three new oversight projects, including a review of the use of facial recognition and other biometric technologies in aviation security.
