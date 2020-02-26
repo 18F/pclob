@@ -1,5 +1,5 @@
 ---
-layout: report
+layout: post
 slug: oversight-report-boards-new-projects
 permalink: /reports/new-projects/
 featured: true-reversed
