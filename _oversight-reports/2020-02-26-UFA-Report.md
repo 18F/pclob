@@ -10,7 +10,7 @@ attachments:
   - url: /library/PCLOB USA Freedom Act Report (Unclassified).pdf
     title: Download the Report
     format: PDF
-  - url: /library/CDR Fact sheet FINAL.docx
+  - url: /library/CDR Fact sheet FINAL.pdf
     title: Download the Fact Sheet
-    format:
+    format: PDF
 ---
