@@ -10,6 +10,6 @@ attachments:
     title: Download the Report
     format: PDF
   - url: /library/CDR Fact sheet FINAL.docx
-    title: Download the Report
-    format: PDF
+    title: Download the Facts Sheet
+    format:
 ---
