@@ -22,6 +22,13 @@ documents:
         name: Download original 2013 regulation
         url: /library/FOIA-Privacy_Act-Sunshine_Act-Implementing%20Guidelines.pdf
 chief-foia-officer-reports:
+  - title: 2020 Chief FOIA Officer Report
+    year: 2020
+    description: |
+      This is the PCLOB's sixth Chief Freedom of Information Act Officer Report, which covers activities from March 2019 through March 2020.
+    downloads:
+      - type: PDF
+        url: /library/Chief FOIA Officer Report (PCLOB 2020).pdf
   - title: 2019 Chief FOIA Officer Report
     year: 2019
     description: |
