@@ -10,6 +10,7 @@ All full-time and part time employees of the Privacy and Civil Liberties Oversig
 <!--If selected for an interview and you require personal assistance services, please submit a reasonable accommodation request to [Human Resources](mailto:jobs@pclob.gov). -->
 
 ### Current openings   
+[ACCOUNTANT](https://www.pclob.gov/accounting/)
 
 [ATTORNEY ADVISOR](https://www.pclob.gov/attorney-advisor/)
 
