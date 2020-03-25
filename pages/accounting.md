@@ -1,8 +1,8 @@
 ---
 layout: report-list
-permalink: /attorney-advisor/
-title: ATTORNEY-ADVISOR JOB ANNOUNCEMENT 
-collection: Attorney
+permalink: /accounting/
+title: ACCOUNTANT
+collection: Accountant
 ---
 
 **Job Title:** Accountant
