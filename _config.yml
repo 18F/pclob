@@ -81,6 +81,8 @@ footer:
       href: '/CJ/'
     - text: 'FOIA information'
       href: '/foia/'
+    - text: 'No Fear Act'
+      href: '/no-fear/'
     - text: 'Plain Writing Act'
       href: '/plain-writing/'
     - text: 'Privacy compliance'
@@ -103,7 +105,7 @@ footer:
     twitter:
       - PCLOB_GOV
     youtube:
-      - channel/UCpjO8JYNEk0a9ouqQjvz-Gw
+      - channel/UCpjO8JYNEk0a9ouqQjvz-Gw/playlists?disable_polymer=true
   text: This site was built using <a href="https://federalist.18f.gov/" target="_blank">Federalist, from 18F</a>. # Change to a tag line for your agency
 
 # Build settings

@@ -1,10 +1,8 @@
 ---
-layout: report
-slug: oversight-report-section-702
-permalink: /reports/report-public-forum/
-featured: false  
+category: newsroom
+date: '2019-05-31'
 title: PCLOB Public Forum - May 31, 2019
-<!--date: May 31, 2019 -->
+date: May 31, 2019
 summary: Watch Here
 excerpt: >-
  Privacy and Civil Liberties Oversight Board Chairman Adam Klein and Board Members Edward Felten and Jane Nitze have announced a May 31, 2019 public forum in Washington, DC to examine the USA FREEDOM Act and the government’s call detail records (CDR) program under that law.   Several key provisions of the USA FREEDOM Act will sunset in December unless they are reauthorized by Congress.  
@@ -16,7 +14,7 @@ links:
   - text: Statement from Caroline Lynch
     url: /library/Caroline Lynch Statement for PCLOB Public Forum_.pdf
 title: >-
-  The Board Held a Public Forum on the USA Freedom Act Telephone Call Records Program. 
+  The Board Held a Public Forum on the USA Freedom Act Telephone Call Records Program
 ---
 
 [![](https://images.c-span.org/Files/ce3/20190531100634002_hd.jpg/Thumbs/height.182.no_border.width.320.jpg)](https://www.c-span.org/video/?461266-1/privacy-civil-liberties-oversight-board-usa-freedom-act&live "Click here to Watch the Public Forum")

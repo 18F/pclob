@@ -2,7 +2,7 @@
 layout: about
 title: History and Mission
 permalink: /about/
-image: /assets/img/board/beth-apr26-17.jpg
+image: /library/board-forum-2019-05-31.JPG
 additional-info:
   - heading: Legal Authorities
     summary: "The Board’s enabling statute, codified at 42 U.S.C. § 2000ee, vests it with two fundamental authorities: (1) to review and analyze actions the executive branch takes to protect the nation from terrorism, ensuring that the need for such actions is balanced with the need to protect privacy and civil liberties, and (2) to ensure that liberty concerns are appropriately considered in the development and implementation of laws, regulations, and policies related to efforts to protect the nation from terrorism.
@@ -38,7 +38,7 @@ additional-info:
         text: This Federal Register notice provides information to the public about the Board’s organization, function, and operations.
         related:
           - title: Amendment
-            link: /library/FederalRegister-PCLOB-2013-0005-Delegation-Reg-Amendment.pdf
+            link: /library/FederalRegister-PCLOB-2019-07-29-Delegation-Reg-Amendment.pdf
       - link: /library/PCLOB_No_Fear_Act.pdf
         title: No Fear Act Statement
         text: Federal Register Notice "providing notice to [the Board's] employees, former employees, and applicants for Board employment about the rights and remedies available to them under the federal anti-discrimination, whistleblower protection, and retaliation laws."

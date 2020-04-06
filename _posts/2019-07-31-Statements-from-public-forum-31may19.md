@@ -9,5 +9,5 @@ links:
     url: /library/Caroline Lynch Statement for PCLOB Public Forum_.pdf
 permalink: null
 featured: true
-title: 'Statements From the Board’s May 31, 2019 Public Forum: “To Examine the USA Freedom Act, Telephone Records Program"'
+title: Statements From the Board’s May 31, 2019 Public Forum on the USA Freedom Act Telephone Call Records Program
 ---

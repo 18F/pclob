@@ -34,19 +34,13 @@ assigned:
             permalink: /contact/
             show_in_menu: false
             show_in_footer: false
-          -
-            text: Career Opportunities
-            href: pages/opportunities.md
-            permalink: /career-opportunities/
-            show_in_menu: false
-            show_in_footer: false
     -
         text: Reports
         show_in_menu: true
         show_in_footer: false
         children:
             -
-                text: Oversight Reports
+                text: Oversight Projects
                 href: pages/oversight-reports.md
                 permalink: /oversight-reports/
                 show_in_menu: false
@@ -75,6 +69,23 @@ assigned:
         permalink: /newsroom/
         show_in_menu: true
         show_in_footer: false
+    -
+        text: Careers
+        show_in_menu: true
+        show_in_footer: false
+        children:
+             -
+                text: Career Opportunities
+                href: pages/opportunities.md
+                permalink: /career-opportunities/
+                show_in_menu: false
+                show_in_footer: false
+             -
+                text: Personal Assistance Services (PAS)
+                href: pages/PAS.md
+                permalink: /PAS/
+                show_in_menu: false
+                show_in_footer: false
     -
         text: 'Project data'
         href: _data/projects.yml
