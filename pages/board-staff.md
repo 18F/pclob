@@ -11,7 +11,7 @@ Each Board Member has one attorney serving as his or her individual Counselor, w
 
 Selected staff biographies are provided below.
 
-## Eric J. Broxmeyer, General Counsel
+## Eric J. Broxmeyer, Executive Director and General Counsel
 **Email: ebroxmeyer@pclob.gov**
 
 Eric J. Broxmeyer joined the Privacy and Civil Liberties Oversight Board as General Counsel in April 2015. Prior to joining the Board, Mr. Broxmeyer was a senior associate at Gibson, Dunn and Crutcher LLP, where his practice focused on litigation and investigations. He previously worked as an Assistant General Counsel in the Intelligence Community, an associate at Wilmer Cutler Pickering Hale and Dorr LLP, and a law clerk to Judge Robert J. Timlin of the U.S. District Court for the Central District of California. In 2004, Mr. Broxmeyer received his J.D. from the University of California, Berkeley School of Law. During law school, he held externships with Judge A. Wallace Tashima of the Ninth Circuit Court of Appeals, Judge Vaughn R. Walker of the U.S. District Court for the Northern District of California, and the U.S. Attorney’s Office for the Central District of California. From 2000 to 2001, Mr. Broxmeyer was a judicial fellow at the Supreme Court of California. Mr. Broxmeyer graduated magna cum laude from Northwestern University with a B.A. in 2000. While at Northwestern, he interned for U.S. Senator Richard G. Lugar and the Brookings Institution.
