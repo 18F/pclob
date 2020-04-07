@@ -9,7 +9,7 @@ collection: Legislative and Public Affairs Associate
 
 **Agency:** Privacy and Civil Liberties Oversight Board
 
-**Salary Range:** $86,335 – $157,709/ Per Year
+**Salary Range:** $65,561 – $112,240/ Per Year
 
 **Series/Grade:** The agency uses the Administratively Determined system in which rank is attached to the individual.
 
