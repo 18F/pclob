@@ -26,7 +26,11 @@ All full-time and part time employees of the Privacy and Civil Liberties Oversig
 
 <!--[TECHNOLOGIST](https://www.pclob.gov/technologist/) -->
 
-[Current Federal Employee Opportunities: Joint Duty Assignment (Detail to PCLOB)](https://www.pclob.gov/jda/)
+[Current Federral Employee Opportunities: Joint Duty Assignment (Detail to PCLOB)](https://www.pclob.gov/jda/)
+
+[LEGISTLATIVE AND PUBLIC AFFAIRS ASSOCIATE](https://www.pclob.gov/Leg-assistant-assoc/)
+
+[POLICY ANALYST](https://www.pclob.gov/policy-analyst/)
 
 <!-- [GENERAL ATTORNEY](https://www.pclob.gov/general-attorney/) -->
  
