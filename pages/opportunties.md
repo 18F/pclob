@@ -28,7 +28,7 @@ All full-time and part time employees of the Privacy and Civil Liberties Oversig
 
 [Current Federral Employee Opportunities: Joint Duty Assignment (Detail to PCLOB)](https://www.pclob.gov/jda/)
 
-[LEGISTLATIVE AND PUBLIC AFFAIRS ASSOCIATE](https://www.pclob.gov/leg-affairs/)
+[LEGISTLATIVE AND PUBLIC AFFAIRS ASSOCIATE](https://www.pclob.gov/Legistlative-PAA/)
 
 [POLICY ANALYST](https://www.pclob.gov/policy-analyst/)
 
