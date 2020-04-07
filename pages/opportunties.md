@@ -10,7 +10,7 @@ All full-time and part time employees of the Privacy and Civil Liberties Oversig
 <!--If selected for an interview and you require personal assistance services, please submit a reasonable accommodation request to [Human Resources](mailto:jobs@pclob.gov). -->
 
 ### Current openings   
-[ACCOUNTANT](https://www.pclob.gov/accounting/)
+<!--[ACCOUNTANT](https://www.pclob.gov/accounting/) -->
 
 [ATTORNEY ADVISOR](https://www.pclob.gov/attorney-advisor/)
 
@@ -26,7 +26,11 @@ All full-time and part time employees of the Privacy and Civil Liberties Oversig
 
 <!--[TECHNOLOGIST](https://www.pclob.gov/technologist/) -->
 
-[Current Federal Employee Opportunities: Joint Duty Assignment (Detail to PCLOB)](https://www.pclob.gov/jda/)
+[Current Federral Employee Opportunities: Joint Duty Assignment (Detail to PCLOB)](https://www.pclob.gov/jda/)
+
+[LEGISTLATIVE AND PUBLIC AFFAIRS ASSOCIATE](https://www.pclob.gov/leg-affairs-assoc/)
+
+[POLICY ANALYST](https://www.pclob.gov/policy-analyst/)
 
 <!-- [GENERAL ATTORNEY](https://www.pclob.gov/general-attorney/) -->
  
