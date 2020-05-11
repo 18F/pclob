@@ -9,9 +9,9 @@ collection: Attorney
 
 **AGENCY:** Privacy and Civil Liberties Oversight Board  
 
-**SALARY RANGE:** $114,590 - $153,800
+**SALARY RANGE:** $121,316 - $160,100 / Per Year
 
-**SERIES/GRADE:** The agency uses the Administratively Determined system in which rank is attached to the individual. A selected Federal Government candidate will be assigned to the equivalent of General Schedule (GS) 14-1 to GS 15-5.
+**SERIES/GRADE:** The agency uses the Administratively Determined system in which rank is attached to the individual. A selected federal government candidate will be assigned to the equivalent of General Schedule (GS) 14-1 to GS 15-5, subject to a statutory pay cap of Executive Schedule Level V.
 
 **POSITION INFORMATION:** This is an opportunity for permanent employment in the excepted service. You will be required to serve a two-year trial period.
 
@@ -23,33 +23,36 @@ collection: Attorney
 
 **Agency Mission**  
 The Privacy and Civil Liberties Oversight Board (PCLOB or Board)'s responsibilities comprise two basic functions: oversight and advice. In its oversight role, the Board is authorized to continually review the implementation of executive branch policies, procedures, regulations, and information sharing practices relating to efforts to protect the nation from terrorism, in order to ensure that privacy and civil liberties are protected. The Board is also authorized to continually review any other actions of the executive branch relating to efforts to protect the nation from terrorism, in order to determine whether such actions appropriately protect privacy and civil liberties and whether they are consistent with governing laws, regulations, and policies regarding privacy and civil liberties. In its advice role, the Board is authorized to review proposed legislation, regulations, and policies related to efforts to protect the nation from terrorism (as well as the implementation of new and existing policies and legal authorities), in order to advise the President and executive branch agencies on ensuring that privacy and civil liberties are appropriately considered in their development and implementation.
-The primary purpose of this position is to perform duties as a Technologist, working under general supervision in the form of broad technical, policy, and program guidance. Incumbent is relied upon to accomplish assigned functions on own initiative. Independently formulates requirements, monitors approved resources, and develops, recommends, and monitors implementation of management policies and procedures. 
+
+The primary purpose of this position is to perform duties as a Technologist, working under general supervision to provide broad technical, policy, and program guidance. Incumbent is relied upon to accomplish assigned functions on own initiative. Independently formulates requirements, monitors approved resources, and develops, recommends, and monitors implementation of management policies and procedures. 
+
 
 **Major Duties and Responsibilities**  
 1.	Serve with limited supervision and gather factual information and conduct analyses on complex investigations and/or reviews.
 
-2.	Conduct analyses of technology information and data relating to investigations and/or reviews.
+2.	Conduct analyses of technology information, policy, and data relating to investigations and/or reviews.
 
-3.	Prepare memoranda and make appropriate recommendations to the Board.
+3.	Prepare memoranda and make appropriate recommendations to the Chairman, Board Members, Executive Director/General Counsel, and mission staff.
 
-4.	Respond in writing and orally to inquiries from Members of the Board regarding the status of investigations and/or reviews, research and analysis, and policy implications of existing and proposed programs and making recommendations to the Board.
+4.	Respond in writing and orally to inquiries from the Chairman, Board Members, and Executive Director/General Counsel regarding the status of investigations and/or reviews, research and analysis, and policy implications of existing and proposed programs and making recommendations.
 
 5.	Summarize reports, technological information, and data received from the intelligence community and other agencies and extract essential information.
 
-6.	Assist the Board in reviewing and analyzing federal counterterrorism programs pursuant to its mission to ensure that both existing and proposed programs adequately safeguard privacy and civil liberties.
+6.	Assist the PCLOB in reviewing and analyzing federal counterterrorism programs pursuant to its mission to ensure that both existing and proposed programs adequately safeguard privacy and civil liberties.
 
 7.	Advise and assist in the identification of issues and recommendations by providing technical and policy advice, conducting research, analyzing data and technological information, and carrying out investigations, as required.
 
-8.	Analyze privacy and civil liberties-related issues, national security and counterterrorism programs within the general range of areas the incumbent is responsible and assist the Board in understanding how programs operate.
+8.	Analyze privacy and civil liberties-related issues, national security, and counterterrorism programs within the general range of areas the incumbent is responsible and assist the PCLOB in understanding how programs operate.
 
 9.	Assist in drafting Board reports evaluating efforts to protect the nation from terrorism and other Board reports to the President, Congress and the public, as well as drafting congressional testimony, letters, and other documents to carry out the Board’s advisory responsibilities.
 
-10.	Represent the Board in interactions with officials from other departments and agencies of the Federal government, the private sector, and non-governmental organizations, as required.
+10.	Represent the PCLOB in interactions with officials from other departments and agencies of the Federal government, the private sector, and non-governmental organizations, as required.
 
-11.	Assist with other legal and compliance requirements relating to the Board’s status as a federal agency.
+11.	Assist with other legal and compliance requirements relating to the PCLOB’s status as a federal agency.
+
 
 **Educational Requirements**  
-College and advanced degrees related to law, policy, and/or government are preferred.
+Advanced degree, such as Ph.D., in relevant field is required.
 
 **Application Process**  
 Please send the required documents to jobs@pclob.gov with the title “Technologist”.
