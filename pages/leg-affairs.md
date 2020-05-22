@@ -1,6 +1,6 @@
 ---
 layout: report-list
-permalink: /Legistlative-PAA/
+permalink: /Legislative-PAA/
 title: Legislative and Public Affairs Associate
 collection: Legislative and Public Affairs Associate
 ---
