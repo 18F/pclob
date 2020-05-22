@@ -24,11 +24,11 @@ All full-time and part time employees of the Privacy and Civil Liberties Oversig
 
 <!--[SUMMER LAW FELLOW / SUMMER POLICY FELLOW](https://www.pclob.gov/summer-law-policy-fellow/) -->
 
-[TECHNOLOGIST](https://www.pclob.gov/technologist/)
+<!--[TECHNOLOGIST](https://www.pclob.gov/technologist/) -->
 
 [Current Federral Employee Opportunities: Joint Duty Assignment (Detail to PCLOB)](https://www.pclob.gov/jda/)
 
-[LEGISTLATIVE AND PUBLIC AFFAIRS ASSOCIATE](https://www.pclob.gov/Legistlative-PAA/)
+[LEGISLATIVE AND PUBLIC AFFAIRS ASSOCIATE](https://www.pclob.gov/Legislative-PAA/)
 
 [POLICY ANALYST](https://www.pclob.gov/policy-analyst/)
 
